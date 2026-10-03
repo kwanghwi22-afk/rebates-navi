@@ -1,0 +1,8053 @@
+{
+ "updated": "2026-10-03",
+ "stores": [
+  {
+   "slug": "mitsui-shopping-park.com",
+   "name": "&mall/三井アウトレットパークオンライン",
+   "kana": "アンドモール/ミツイアウトレットパークオンライン",
+   "name_en": "&mall/mitsuioutletparkonline",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "24lens.jp",
+   "name": "24レンズ",
+   "kana": "24レンズ",
+   "name_en": "24lens",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "47brand.co.jp",
+   "name": "47公式ストア",
+   "kana": "フォーティーセブン",
+   "name_en": "fortyseven",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "7lens.jp",
+   "name": "7lens",
+   "kana": "セブンレンズ",
+   "name_en": "7lens",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cosmeshopping",
+   "name": "@cosme SHOPPING",
+   "kana": "アットコスメ",
+   "name_en": "＠cosme",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "online.actus-interior.com",
+   "name": "ACTUS online",
+   "kana": "アクタス",
+   "name_en": "ACTUS",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "adelo.com",
+   "name": "ADELO",
+   "kana": "アデロ",
+   "name_en": "ADELO",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "adoebike.jp",
+   "name": "ADO電動アシスト自転車",
+   "kana": "アドデンドウアシストジテンシャ",
+   "name_en": "ADO EBIKE",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store.album-hair.com",
+   "name": "ALBUMオンラインストア",
+   "kana": "アルバム",
+   "name_en": "ALBUM",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "amnibus.com",
+   "name": "AMNIBUS",
+   "kana": "アムニバス",
+   "name_en": "AMNIBUS",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-ana-classic",
+   "name": "ANAアメリカン・エキスプレス・カード",
+   "kana": "エイエヌエーアメリカンエキスプレスカード",
+   "name_en": "ANAamericanexpresscard",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-ana-gold",
+   "name": "ANAアメリカン・エキスプレス・ゴールド・カード",
+   "kana": "エイエヌエーアメリカンエキスプレスゴールドカード",
+   "name_en": "ANAamericanexpressgoldcard",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-ana-premium",
+   "name": "ANAアメリカン・エキスプレス・プレミアム・カード",
+   "kana": "エイエヌエーアメリカンエキスプレスプレミアムカード",
+   "name_en": "ANAamericanexpresspremiumcard",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "www.ana.com",
+   "name": "ANAトラベラーズ",
+   "kana": "エーエヌエー",
+   "name_en": "ANA",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "g-foot.com",
+   "name": "ASBeeオンラインショップ",
+   "kana": "ジーフットシューズマルシェ",
+   "name_en": "gfootshoesmarche",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "astr-shop.jp",
+   "name": "ASTRONOMY",
+   "kana": "アストロノミー",
+   "name_en": "ASTRONOMY",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.store.asus.com",
+   "name": "ASUS Store",
+   "kana": "エイスース",
+   "name_en": "ASUS Store",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "azul-m.com",
+   "name": "AZUL BY MOUSSY",
+   "kana": "アズール",
+   "name_en": "AZUL",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "all.accor.com",
+   "name": "Accor Live Limitless",
+   "kana": "アコーライブリミットレス",
+   "name_en": "Accor Live Limitless",
+   "reward": "最大5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "accorplus.com",
+   "name": "Accor Plus",
+   "kana": "アコープラス",
+   "name_en": "Accor Plus",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store.acer.com",
+   "name": "Acer公式ストア",
+   "kana": "エイサー",
+   "name_en": "Acer",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "admiral-gb.com",
+   "name": "Admiral",
+   "kana": "アドミラル",
+   "name_en": "Admiral",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aliexpress.com",
+   "name": "AliExpress",
+   "kana": "アリエクスプレス",
+   "name_en": "Aliexpress",
+   "reward": "最大14.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "alinoma.com",
+   "name": "Alinoma",
+   "kana": "アリノマ",
+   "name_en": "Alinoma",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "alpen-group",
+   "name": "Alpen Online（アルペンオンライン）",
+   "kana": "アルペン",
+   "name_en": "alpen",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeo.jp",
+   "name": "American eagle（アメリカンイーグル）",
+   "kana": "アメリカンイーグル",
+   "name_en": "american eagle",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "global.amoremall.com",
+   "name": "Amore Mall",
+   "kana": "アモーレモール",
+   "name_en": "Amore Mall",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "co-medical.jp",
+   "name": "Angellir(アンジェリール)",
+   "kana": "アンジェリール",
+   "name_en": "Angellir",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "books.apple.com",
+   "name": "Apple Books",
+   "kana": "アップルブックス",
+   "name_en": "Apple Books",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "apple-music",
+   "name": "Apple Music",
+   "kana": "アップルミュージック",
+   "name_en": "AppleMusic",
+   "reward": "15.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tv.apple.com",
+   "name": "Apple TV+",
+   "kana": "アップルティービープラス",
+   "name_en": "Apple TV+",
+   "reward": "120pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "apple-store",
+   "name": "Apple公式サイト",
+   "kana": "アップル",
+   "name_en": "apple",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ashford",
+   "name": "Ashford【海外ストア】",
+   "kana": "アッシュフォード",
+   "name_en": "Ashford",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "autodesk",
+   "name": "Autodesk",
+   "kana": "オートデスク",
+   "name_en": "Autodesk",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "babybjorn.com",
+   "name": "BABYBJORN",
+   "kana": "ベビービョルン",
+   "name_en": "BABYBJORN",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "starvations.com",
+   "name": "BABYDOLL",
+   "kana": "ベビードール",
+   "name_en": "BABYDOLL",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bandel.com",
+   "name": "BANDEL公式オンラインストア",
+   "kana": "バンデル",
+   "name_en": "BANDEL",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "onlinestore.barneys.co.com",
+   "name": "BARNEYS NEW YORK",
+   "kana": "バーニーズニューヨーク",
+   "name_en": "BARNEYS NEW YORK",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.basefood.co.jp",
+   "name": "BASE FOOD",
+   "kana": "ベースフード",
+   "name_en": "BASE FOOD",
+   "reward": "20.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bcl-brand.jp",
+   "name": "BCLカンパニー公式オンラインサイト",
+   "kana": "ビーシーエルカンパニー",
+   "name_en": "BCLcompany",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "beams.com",
+   "name": "BEAMS",
+   "kana": "ビームス",
+   "name_en": "beams",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "beauty-park",
+   "name": "BEAUTY PARK",
+   "kana": "ビューティーパーク",
+   "name_en": "BEAUTY PARK",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bebe-mall.com",
+   "name": "BEBE MALL",
+   "kana": "ベベモール",
+   "name_en": "BEBEMALL",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "beyond-gym.com",
+   "name": "BEYOND",
+   "kana": "ビヨンド",
+   "name_en": "BEYOND",
+   "reward": "13,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.bonaventura.com",
+   "name": "BONAVENTURA",
+   "kana": "ボナベンチュラ",
+   "name_en": "BONAVENTURA",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "zzz-land.com",
+   "name": "BRAIN SLEEP STORE",
+   "kana": "ブレインスリープ",
+   "name_en": "BRAIN SLEEP STORE",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.bravekid.com",
+   "name": "BRAVE KID",
+   "kana": "ブレイブキッド",
+   "name_en": "BRAVEKID",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "brooksrunning.co.com",
+   "name": "BROOKS",
+   "kana": "ブルックス",
+   "name_en": "BROOKS",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "idea-onlineshop.com",
+   "name": "BRUNO online",
+   "kana": "ブルーノ",
+   "name_en": "BRUNO",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "burton.com",
+   "name": "BURTON",
+   "kana": "バートン",
+   "name_en": "BURTON",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "travel.buyma.com",
+   "name": "BUYMA TRAVEL",
+   "kana": "バイマトラベル",
+   "name_en": "BUYMA TRAVEL",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bestlens",
+   "name": "BestLens",
+   "kana": "ベストレンズ",
+   "name_en": "BestLens",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bizmates.com",
+   "name": "Bizmates",
+   "kana": "ビズメイツ",
+   "name_en": "Bizmates",
+   "reward": "3,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "booking.com",
+   "name": "Booking.com",
+   "kana": "ブッキングドットコム",
+   "name_en": "Booking.com",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "brandear.com",
+   "name": "Brandear（宅配買取）",
+   "kana": "ブランディアタクハイカイトリ",
+   "name_en": "Brandear",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "auction.brandear.com",
+   "name": "Brandear（販売）",
+   "kana": "ブランディアハンバイ",
+   "name_en": "brandearhanbai",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "britishairways.com",
+   "name": "British Airways",
+   "kana": "ブリティッシュエアウェイズ",
+   "name_en": "British Airways",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "brooks-brothers",
+   "name": "Brooks Brothers",
+   "kana": "ブルックスブラザーズ",
+   "name_en": "BrooksBrothers",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "caguuu.com",
+   "name": "CAGUUU",
+   "kana": "カグー",
+   "name_en": "CAGUUU",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "camp-fire.com",
+   "name": "CAMPFIRE",
+   "kana": "キャンプファイヤー",
+   "name_en": "CAMPFIRE",
+   "reward": "最大2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "casetify.com",
+   "name": "CASETiFY",
+   "kana": "ケースティファイ",
+   "name_en": "CASETiFY",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "charleskeith.com",
+   "name": "CHARLES & KEITH",
+   "kana": "チャールズアンドキース",
+   "name_en": "CHARLES & KEITH",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "chouchou-shop.com",
+   "name": "CHOUCHOU",
+   "kana": "シュシュ",
+   "name_en": "CHOUCHOU",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cimabue.jp",
+   "name": "CIMABUE",
+   "kana": "チマブエ",
+   "name_en": "CIMABUE",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cocorostore.jp.sharp",
+   "name": "COCORO STORE",
+   "kana": "ココロストア",
+   "name_en": "COCORO STORE",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "colehaan.com",
+   "name": "COLE HAAN",
+   "kana": "コールハーン",
+   "name_en": "COLE HAAN",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cosstores.com",
+   "name": "COS（コス）公式オンラインストア",
+   "kana": "コス",
+   "name_en": "COS",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "creadaily.official.com",
+   "name": "CREA公式オンラインストア",
+   "kana": "クレア",
+   "name_en": "CREA",
+   "reward": "6.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ctn-net.com",
+   "name": "CTN車一括査定",
+   "kana": "シーティーエヌクルマイッカツサテイ",
+   "name_en": "CTN kurumaikkatsusatei",
+   "reward": "3,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "cake.com",
+   "name": "Cake.jp",
+   "kana": "ケーキジェーピー",
+   "name_en": "Cake.jp",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cariru.jp",
+   "name": "Cariru Formal Rental",
+   "kana": "カリルフォーマルレンタル",
+   "name_en": "Cariru Formal Rental",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "casadei.com",
+   "name": "Casadei【海外ストア】",
+   "kana": "カサデイ",
+   "name_en": "Casadei",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "chachacha-toy.com",
+   "name": "Cha Cha Cha",
+   "kana": "チャチャチャ",
+   "name_en": "Cha Cha Cha",
+   "reward": "1,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "christopherobin",
+   "name": "Christophe Robin",
+   "kana": "クリストフロビン",
+   "name_en": "Christophe Robin",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cleanlens.jp",
+   "name": "CleanLens（クリーンレンズ）",
+   "kana": "クリーンレンズ",
+   "name_en": "CleanLens",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "codashop.com",
+   "name": "Codashop",
+   "kana": "コダショップ",
+   "name_en": "Codashop",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "codibook.com",
+   "name": "Codibook",
+   "kana": "コーディブック",
+   "name_en": "Codibook",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "coloso.jp",
+   "name": "Coloso",
+   "kana": "コロソ",
+   "name_en": "Coloso",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "conoha.com",
+   "name": "ConoHa WING",
+   "kana": "コノハウィング",
+   "name_en": "ConoHa WING",
+   "reward": "500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "coursera",
+   "name": "Coursera",
+   "kana": "コーセラ",
+   "name_en": "Coursera",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cream-dot.co.jp",
+   "name": "Cream dot",
+   "kana": "クリームドット",
+   "name_en": "Cream dot",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "currentbody.com",
+   "name": "CurrentBody【海外ストア】",
+   "kana": "カレントボディ",
+   "name_en": "CurrentBody",
+   "reward": "最大2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cyberghostvpn.com",
+   "name": "CyberGhost VPN",
+   "kana": "サイバーゴースト ブイピーエヌ",
+   "name_en": "CyberGhost VPN",
+   "reward": "20.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "dadway",
+   "name": "DADWAY ONLINE SHOP",
+   "kana": "ダッドウェイ",
+   "name_en": "DADWAY",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "watch-dazn.com",
+   "name": "DAZN",
+   "kana": "ダゾーン",
+   "name_en": "DAZN",
+   "reward": "最大2,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "dcm-ekurashi.com",
+   "name": "DCMオンライン",
+   "kana": "ディーシーエム",
+   "name_en": "DCM",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "decencia.co.com",
+   "name": "DECENCIAショップ",
+   "kana": "ディセンシア",
+   "name_en": "DECENCIA",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "decocho.com",
+   "name": "DECOチョコ",
+   "kana": "デコチョコ",
+   "name_en": "DECO Choco",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "de-limmo.jp",
+   "name": "DEL'IMMO",
+   "kana": "デリーモ",
+   "name_en": "DEL'IMMO",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "dhc",
+   "name": "DHC",
+   "kana": "ディーエイチシー",
+   "name_en": "dhc",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "diesel.co.jp",
+   "name": "DIESEL",
+   "kana": "ディーゼル",
+   "name_en": "DIESEL",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store-dji",
+   "name": "DJI",
+   "kana": "ディージェイアイ",
+   "name_en": "DJI",
+   "reward": "最大4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "premium.dmm.com",
+   "name": "DMM TV（プレミアム会員）",
+   "kana": "ディーエムエム ティーヴィー",
+   "name_en": "DMM TV",
+   "reward": "190pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "drvape_jp",
+   "name": "DR.VAPE",
+   "kana": "ドクターベイプ",
+   "name_en": "dr.vape",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "d-rw",
+   "name": "DRW",
+   "kana": "ドロー",
+   "name_en": "DRW",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "dazzy-store",
+   "name": "DazzyStore",
+   "kana": "デイジーストア",
+   "name_en": "DazzyStore",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "draft",
+   "name": "Dcollection",
+   "kana": "ディーコレクション",
+   "name_en": "Dcollection",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop-deasgarden.jp",
+   "name": "Dea's Garden ONLINESHOP",
+   "kana": "ディーズガーデン",
+   "name_en": "Dea's Garden",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "dell",
+   "name": "Dell",
+   "kana": "デル",
+   "name_en": "dell",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "desigual.com",
+   "name": "Desigual【海外ストア】",
+   "kana": "デシグアル",
+   "name_en": "Desigual",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "disneyplus.com",
+   "name": "Disney+",
+   "kana": "ディズニープラス",
+   "name_en": "Disney+",
+   "reward": "最大12.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ditatokyo_jp",
+   "name": "Dita",
+   "kana": "ディータ",
+   "name_en": "Dita",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "doclasse",
+   "name": "DoCLASSE",
+   "kana": "ドゥクラッセ",
+   "name_en": "doclasse",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.dolcegabbana.com",
+   "name": "Dolce&Gabbana【海外ストア】",
+   "kana": "ドルチェアンドガッバーナ",
+   "name_en": "Dolce&Gabbana",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "dorrydoll.com",
+   "name": "Dorry Doll",
+   "kana": "ドリードール",
+   "name_en": "Dorry Doll",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "drmartens.com",
+   "name": "Dr.Martens",
+   "kana": "ドクターマーチン",
+   "name_en": "Dr.Martens",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "toshiba",
+   "name": "Dynabook Direct(旧東芝ダイレクト)",
+   "kana": "ダイナブックダイレクト　トウシバ",
+   "name_en": "DynabookDirect toshiba",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ec-current.com",
+   "name": "ECカレント",
+   "kana": "イーシーカレント",
+   "name_en": "EC Current",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.el.gm-beauty.com",
+   "name": "ELECTRON",
+   "kana": "エレクトロン",
+   "name_en": "ELECTRON",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "elevin.com",
+   "name": "ELEVIN",
+   "kana": "エレヴァン",
+   "name_en": "ELEVIN",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "elleshop",
+   "name": "ELLE SHOP",
+   "kana": "エルショップ",
+   "name_en": "ELLE SHOP",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "end",
+   "name": "END. Clothing",
+   "kana": "エンドクロージング",
+   "name_en": "endclothing",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "enen-interior.com",
+   "name": "ENEN",
+   "kana": "エネン",
+   "name_en": "ENEN",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "epsopia.jp",
+   "name": "EPSOPIA",
+   "kana": "エプソピア",
+   "name_en": "EPSOPIA",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "etro.com.jp-ja",
+   "name": "ETRO",
+   "kana": "エトロ",
+   "name_en": "ETRO",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "etvos.com",
+   "name": "ETVOS",
+   "kana": "エトヴォス",
+   "name_en": "etvos",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "exetime.com",
+   "name": "EXETIME",
+   "kana": "エグゼタイム",
+   "name_en": "EXETIME",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "myearfun.com",
+   "name": "EarFun公式サイト",
+   "kana": "イヤーファン",
+   "name_en": "EarFun",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.easeus.com",
+   "name": "EaseUS",
+   "kana": "イーザス",
+   "name_en": "EaseUS",
+   "reward": "20.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.ecoflow.com",
+   "name": "EcoFlow Japan公式ストア",
+   "kana": "エコフロージャパン",
+   "name_en": "EcoFlow Japan",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "emmafrancis.com",
+   "name": "Emma Francis",
+   "kana": "エマフランシス",
+   "name_en": "Emma Francis",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "epoi-jp.com",
+   "name": "Epoi公式ストア",
+   "kana": "エポイコウシキストア",
+   "name_en": "Epoi",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.etoren.com",
+   "name": "Etoren.com",
+   "kana": "イートレンドットコム",
+   "name_en": "Etoren.com",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "expressvpn.com",
+   "name": "ExpressVPN",
+   "kana": "エクスプレスヴィーピーエヌ",
+   "name_en": "ExpressVPN",
+   "reward": "17.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "wlens.com",
+   "name": "Eyette",
+   "kana": "アイエット",
+   "name_en": "Eyette",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fo-online.jp",
+   "name": "F.O.Online Store",
+   "kana": "エフオー オンラインストア",
+   "name_en": "F.O.Online Store",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "farfetch-jp",
+   "name": "FARFETCH",
+   "kana": "ファーフェッチ",
+   "name_en": "farfetch",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "online.fivefoxes.com",
+   "name": "FIVE FOXes ONLINE STORE",
+   "kana": "ファイブフォックス オンラインストア",
+   "name_en": "FIVE FOXes ONLINE STORE",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fujitsu-jp",
+   "name": "FMV Store",
+   "kana": "エフエムブイ ストア",
+   "name_en": "FMV Store",
+   "reward": "10.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "foreo",
+   "name": "FOREO.com 【海外ストア】",
+   "kana": "フォレオ",
+   "name_en": "FOREO",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fossil.com",
+   "name": "FOSSIL",
+   "kana": "フォッシル",
+   "name_en": "FOSSIL",
+   "reward": "9.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fpdvision.jp",
+   "name": "FPD",
+   "kana": "エフピーディー",
+   "name_en": "FPD",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "freaksstore.com",
+   "name": "FREAK'S STORE（デイトナパーク）",
+   "kana": "フリークスストア（デイトナパーク）",
+   "name_en": "FREAK'S STORE（デイトナパーク）",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fujifilm",
+   "name": "FUJIFILMプリント＆ギフト／フジフイルムモール",
+   "kana": "フジフイルムモール",
+   "name_en": "Fujifilmmall",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "felisi.com",
+   "name": "Felisi Online Shop",
+   "kana": "フェリージ オンラインショップ",
+   "name_en": "Felisi Online Shop",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "flexispot.com",
+   "name": "FlexiSpot",
+   "kana": "フレキシスポット",
+   "name_en": "FlexiSpot",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "freestyle-wifi.jp",
+   "name": "Free-Style Wi-Fi",
+   "kana": "フリースタイルワイファイ",
+   "name_en": "Free-Style Wi-Fi",
+   "reward": "1,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "fujisan.co.com",
+   "name": "Fujisan.co.jp",
+   "kana": "フジサンドットシーオードットジェーピー",
+   "name_en": "Fujisan.co.jp",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "g-star.com",
+   "name": "G-Star RAW",
+   "kana": "ジースターロウ",
+   "name_en": "G-Star RAW",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "gala-navi.com",
+   "name": "GALA NAVI",
+   "kana": "ガーラナビ",
+   "name_en": "GALA NAVI",
+   "reward": "324pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "ec.ed-inter.co.com",
+   "name": "GENI(ジェニ)公式オンラインショップ",
+   "kana": "ジェニ",
+   "name_en": "GENI",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.gera.fan",
+   "name": "GERA SHOP",
+   "kana": "ゲラショップ",
+   "name_en": "GERA SHOP",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "giglio.com",
+   "name": "GIGLIO.COM【海外ストア】",
+   "kana": "ジリオ",
+   "name_en": "GIGLIO",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "gluck.style",
+   "name": "GLUCK",
+   "kana": "グルック",
+   "name_en": "GLUCK",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "goelia1995.com",
+   "name": "GOELIA",
+   "kana": "ゴエリア",
+   "name_en": "goelia",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "gu-japan",
+   "name": "GU（ジーユー）",
+   "kana": "ジーユー",
+   "name_en": "gu",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "gap-jp",
+   "name": "Gap",
+   "kana": "ギャップ",
+   "name_en": "Gap",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "getyourguide.com",
+   "name": "GetYourGuide",
+   "kana": "ゲットユアガイド",
+   "name_en": "GetYourGuide",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "gocity.com",
+   "name": "Go City",
+   "kana": "ゴーシティ",
+   "name_en": "Go City",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "workspace.google.com",
+   "name": "Google Workspace",
+   "kana": "グーグルワークプレイス",
+   "name_en": "Google Workspace",
+   "reward": "最大1,530pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "growgorgeous.com",
+   "name": "Grow Gorgeous",
+   "kana": "グロウゴージャス",
+   "name_en": "Grow Gorgeous",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hm.com",
+   "name": "H&M",
+   "kana": "エイチアンドエム",
+   "name_en": "H&M",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hoshinotaro.com",
+   "name": "H.T BAG LABO",
+   "kana": "エイチティーバッグラボ",
+   "name_en": "H.T BAG LABO",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "haba",
+   "name": "HABA",
+   "kana": "ハーバー",
+   "name_en": "HABA",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "haneda-shopping.jp",
+   "name": "HANEDA Shopping",
+   "kana": "ハネダショッピング",
+   "name_en": "HANEDA Shopping",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hh-online.com",
+   "name": "HANKYU HANSHIN E-STORES",
+   "kana": "ハンキュウイーストア",
+   "name_en": "HANKYU E-STORES",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.hariocorp.co.com",
+   "name": "HARIO NETSHOP",
+   "kana": "ハリオネットショップ",
+   "name_en": "HARIO NETSHOP",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hayashigo-store.com",
+   "name": "HAYASHIGO STORE",
+   "kana": "ハヤシゴストア",
+   "name_en": "HAYASHIGO STORE",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hayni.com",
+   "name": "HAYNI（ヘイニ）",
+   "kana": "ヘイニ",
+   "name_en": "HAYNI",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hbx.com",
+   "name": "HBX【海外ストア】",
+   "kana": "エイチビーエックス",
+   "name_en": "HBX",
+   "reward": "最大1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hidya.jp",
+   "name": "HID屋",
+   "kana": "エイチアイディーヤ",
+   "name_en": "HIDya",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hmv",
+   "name": "HMV&BOOKS online",
+   "kana": "エイチエムブイアンドブックス",
+   "name_en": "HMV&BOOKS online",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hokaoneone.com",
+   "name": "HOKA 公式サイト",
+   "kana": "ホカコウシキサイト",
+   "name_en": "HOKA",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hp-jp",
+   "name": "HP公式オンラインストア",
+   "kana": "エイチピー",
+   "name_en": "HP",
+   "reward": "10.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hugoboss.com",
+   "name": "HUGO BOSS",
+   "kana": "ヒューゴボス",
+   "name_en": "HUGO BOSS",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hallelujah.com",
+   "name": "Hallelujah公式ストア",
+   "kana": "ハレルヤ",
+   "name_en": "Hallelujah",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "harveynichols.com",
+   "name": "Harvey Nichols【海外ストア】",
+   "kana": "ハーヴェイ・ニコルズ",
+   "name_en": "Hervey Nichols",
+   "reward": "最大3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "esim.holafly.com",
+   "name": "Holafly",
+   "kana": "オラフライ",
+   "name_en": "Holafly",
+   "reward": "最大6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "honeys-onlineshop.com",
+   "name": "Honeys",
+   "kana": "ハニーズ",
+   "name_en": "Honeys",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hostelworld.com",
+   "name": "Hostelworld",
+   "kana": "ホステルワールド",
+   "name_en": "Hostelworld",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hostinger",
+   "name": "Hostinger",
+   "kana": "ホスティンガー",
+   "name_en": "Hostinger",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "www.hulu.com-static-disneyplus_set",
+   "name": "Hulu | Disney+ セットプラン",
+   "kana": "フールーディズニープラスセットプラン",
+   "name_en": "Hulu Disney plus set plan",
+   "reward": "290pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "intercontinentalhotelsandresorts.com",
+   "name": "IHG ホテルズ & リゾート",
+   "kana": "インターコンチネンタルホテルズアンドリゾート",
+   "name_en": "IHG Hotels & Resorts",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ilemer.jp",
+   "name": "ILEMER",
+   "kana": "イルメール",
+   "name_en": "ILEMER",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ipsa.co.jp",
+   "name": "IPSA 公式オンラインショップ",
+   "kana": "イプサ",
+   "name_en": "IPSA",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "meeco.mistore.com",
+   "name": "ISETAN BEAUTY online",
+   "kana": "イセタンビューティーオンライン",
+   "name_en": "ISETAN BEAUTY online",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jal-domestic",
+   "name": "JAL 国内線航空券",
+   "kana": "ジャルコクナイセン",
+   "name_en": "JALkokunaisen",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jal-international",
+   "name": "JAL 国際線航空券",
+   "kana": "ジャルコクサイセン",
+   "name_en": "jal",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jalcard.jal.co.com-clubest",
+   "name": "JALカードCLUB EST（3種）",
+   "kana": "ジャルカード",
+   "name_en": "JAL CARD",
+   "reward": "5,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "jalcard.jal.co.com-visa",
+   "name": "JALカードVISA（2種）",
+   "kana": "ジャルカード",
+   "name_en": "JAL CARD",
+   "reward": "5,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "jalcard.jal.co.com-navi",
+   "name": "JALカードnavi",
+   "kana": "ジャルカード",
+   "name_en": "JAL CARD",
+   "reward": "2,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "jalcard.jal.co.com-suica",
+   "name": "JALカードsuica（3種）",
+   "kana": "ジャルカード",
+   "name_en": "JAL CARD",
+   "reward": "4,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "jalcard.jal.co.com-gold",
+   "name": "JALカード（CLUB-A・ゴールド）",
+   "kana": "ジャルカード",
+   "name_en": "JAL CARD",
+   "reward": "7,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "jal.co.com",
+   "name": "JALパック 国内ツアー",
+   "kana": "ジャルパック国内",
+   "name_en": "JALPAK国内",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jal.com",
+   "name": "JALパック 海外ツアー",
+   "kana": "ジャルパック海外",
+   "name_en": "JALPAK海外",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "duty-free-japan.com-narita-en",
+   "name": "JAPAN DUTY FREE",
+   "kana": "ジャパンデューティーフリー",
+   "name_en": "JAPAN DUTY FREE",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ja-town.com",
+   "name": "JAタウン",
+   "kana": "ジェイエイタウン",
+   "name_en": "JAタウン",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jdsports.com",
+   "name": "JD Sports【海外ストア】",
+   "kana": "ジェーディースポーツ",
+   "name_en": "JD Sports",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jetpacglobal.com",
+   "name": "JETPAC",
+   "kana": "ジェットパック",
+   "name_en": "JETPAC",
+   "reward": "15.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jpreturns.com-1000",
+   "name": "JPリターンズ【マンション投資 年収1,000万円以上限定】",
+   "kana": "ジェイピーリターンズ",
+   "name_en": "jpreturns",
+   "reward": "60,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "jpreturns.com-1500",
+   "name": "JPリターンズ【マンション投資 年収1,500万円以上限定】",
+   "kana": "ジェイピーリターンズ",
+   "name_en": "jpreturns",
+   "reward": "85,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "jpreturns.com-700",
+   "name": "JPリターンズ【マンション投資 年収700万円以上限定】",
+   "kana": "ジェイピーリターンズ",
+   "name_en": "jpreturns",
+   "reward": "48,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "shopping.jreast.co.jp",
+   "name": "JRE MALL ショッピング　2回目以降の利用",
+   "kana": "ジェイアールイーモールショッピング",
+   "name_en": "jremallshopping",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shopping.jreast.co.jp.ntf",
+   "name": "JRE MALL ショッピング　初回利用",
+   "kana": "ジェイアールイーモールショッピング",
+   "name_en": "JREMALLshopping",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "travel.jr-central.co.jp",
+   "name": "JR東海ツアーズ",
+   "kana": "ジェイアールトウカイツアーズ",
+   "name_en": "jr toukai tours",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shopping.jtb.com",
+   "name": "JTBショッピング",
+   "kana": "ジェイティービーショッピング",
+   "name_en": "JTBSHOPPING",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jtb.com",
+   "name": "JTB国内旅行",
+   "kana": "ジェイティービー",
+   "name_en": "JTB",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jtb.co.com",
+   "name": "JTB海外旅行",
+   "kana": "ジェイティービーカイガイリョコウ",
+   "name_en": null,
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "juicestore.com",
+   "name": "JUICE STORE【海外ストア】",
+   "kana": "ジュースストア",
+   "name_en": "JUICE STORE",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jackery.com",
+   "name": "Jackery Japan",
+   "kana": "ジャクリ ジャパン",
+   "name_en": "Jackery Japan",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "joshin",
+   "name": "Joshin",
+   "kana": "ジョーシン",
+   "name_en": "joshin",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "justanswer.com",
+   "name": "JustAnswer",
+   "kana": "ジャストアンサー",
+   "name_en": "JustAnswer",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "kanademono.design",
+   "name": "KANADEMONO",
+   "kana": "カナデモノ",
+   "name_en": "KANADEMONO",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "onlineshop.kanebo.com",
+   "name": "KANEBO 公式オンラインショップ",
+   "kana": "カネボウ",
+   "name_en": "KANEBO",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "keenfootwear.jp",
+   "name": "KEEN",
+   "kana": "キーン",
+   "name_en": "KEEN",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "keurig.jp",
+   "name": "KEURIG（キューリグ）",
+   "kana": "キューリグ",
+   "name_en": "KEURIG",
+   "reward": "1,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "kleman.jp",
+   "name": "KLEMAN",
+   "kana": "クレマン",
+   "name_en": "KLEMAN",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "komehyo.com",
+   "name": "KOMEHYO",
+   "kana": "コメヒョウ",
+   "name_en": "komehyo",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "koubo.shop",
+   "name": "KOUBOロングライフパン",
+   "kana": "コウボロングライフパン",
+   "name_en": "KOUBO long life pan",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.krkcom.com",
+   "name": "KRKC&CO",
+   "kana": null,
+   "name_en": "KRKC&CO",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kusmitea_jp",
+   "name": "KUSMI TEA",
+   "kana": "クスミティー",
+   "name_en": "KUSMI TEA",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kagg.jp",
+   "name": "Kagg.jp",
+   "kana": "カグドットジェイピー",
+   "name_en": "Kagg.jp",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "keepersecurity.com",
+   "name": "Keeper Security",
+   "kana": "キーパーセキュリティ",
+   "name_en": "Keeper Security",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kizik-japan.com",
+   "name": "Kizik",
+   "kana": "キジック",
+   "name_en": "Kizik",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kohgendocosmetics.com",
+   "name": "Koh Gen Do 公式オンラインショップ",
+   "kana": "コウゲンドウ",
+   "name_en": "KohGenDo",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "l-co-shop.jp",
+   "name": "L&Co.",
+   "kana": "エルアンドコー",
+   "name_en": "L&Co.",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "larcobaleno.com",
+   "name": "L'arcobaleno",
+   "kana": "ラルコバレーノ",
+   "name_en": "L'arcobaleno",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "l-l-bean",
+   "name": "L.L.Bean公式通販サイト",
+   "kana": "エルエルビーンコウシキツウハンサイト",
+   "name_en": "L.L.Bean",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "larachristie.com",
+   "name": "LARA Christie",
+   "kana": "ララクリスティー",
+   "name_en": "LARA Christie",
+   "reward": "6.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "morevalue.shop",
+   "name": "LASIEM公式ストア",
+   "kana": "ラシエム",
+   "name_en": "LASIEM",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lensfree.jp",
+   "name": "LENSFREE（レンズフリー）",
+   "kana": "レンズフリー",
+   "name_en": "LENSFREE",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lensmode",
+   "name": "LENSMODE",
+   "kana": "レンズモード",
+   "name_en": "lensmode",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lhme.com",
+   "name": "LHME",
+   "kana": "エルエイチエムイー",
+   "name_en": "LHME",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.litime.com",
+   "name": "LI Time",
+   "kana": "リタイム",
+   "name_en": "LI Time",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store.life-pocket.jp",
+   "name": "LIFE POCKET STORE",
+   "kana": "ライフポケットストア",
+   "name_en": "LIFE POCKET STORE",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lionheart-store.com",
+   "name": "LION HEART",
+   "kana": "ライオンハート",
+   "name_en": "LION HEART",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ln-cc",
+   "name": "LN-CC【海外ストア】",
+   "kana": "エルエヌシーシー",
+   "name_en": "LNCC",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lohaco.com",
+   "name": "LOHACO",
+   "kana": "ロハコ",
+   "name_en": "LOHACO",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lunasol-official.com",
+   "name": "LUNASOL公式オンラインストア",
+   "kana": "ルナソル",
+   "name_en": "LUNASOL",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jewelry-queen-shop.com",
+   "name": "LUPIS（ルピス）公式通販",
+   "kana": "ルピス",
+   "name_en": "LUPIS",
+   "reward": "10.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "luty.com",
+   "name": "LUTY（ルーティー）",
+   "kana": "ルーティー",
+   "name_en": "LUTY",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lenszero.com",
+   "name": "Lenszero",
+   "kana": "レンズゼロ",
+   "name_en": "Lenszero",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.libernovo.com",
+   "name": "LiberNovo",
+   "kana": "リベルノヴォ",
+   "name_en": "LiberNovo",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "loopearplugs.jp",
+   "name": "Loop Earplugs",
+   "kana": "ループイヤープラグ",
+   "name_en": "Loop Earplugs",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "looplaundry.com",
+   "name": "Loop Laundry",
+   "kana": "ループランドリー",
+   "name_en": "Loop Laundry",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "lovebonito.com",
+   "name": "Love,Bonito",
+   "kana": "ラブボニート",
+   "name_en": "Love,Bonito",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lufthansa",
+   "name": "Lufthansa",
+   "kana": "ルフトハンザ",
+   "name_en": "Lufthansa",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lupilina.com",
+   "name": "Lupilina",
+   "kana": "ルピリーナ",
+   "name_en": "Lupilina",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "malks.jp",
+   "name": "MALKS",
+   "kana": "モルクス",
+   "name_en": "MALKS",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "markandlona.com",
+   "name": "MARK & LONA",
+   "kana": "マークアンドロナ",
+   "name_en": "MARK & LONA",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "masonpearson.com",
+   "name": "MASON PEARSON",
+   "kana": "メイソンピアソン",
+   "name_en": "MASON PEARSON",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mogustore.com",
+   "name": "MOGUストア",
+   "kana": "モグストア",
+   "name_en": "mogu store",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "monster-mobile.com",
+   "name": "MONSTER MOBILE",
+   "kana": "モンスターモバイル",
+   "name_en": "MONSTER MOBILE",
+   "reward": "最大1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "autoc-one.jp",
+   "name": "MOTA車買取",
+   "kana": "モータクルマカイトリ",
+   "name_en": "mota kuruma kaitori",
+   "reward": "2,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "mrporter",
+   "name": "MR PORTER【海外ストア】",
+   "kana": "ミスターポーター",
+   "name_en": "MRPORTER",
+   "reward": "最大3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mtgec.com",
+   "name": "MTG ONLINE SHOP",
+   "kana": "エムティージー",
+   "name_en": "MTG　ONLINE　SHOP",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "muk-store.com",
+   "name": "MUK公式オンライン",
+   "kana": "エムユーケー",
+   "name_en": "MUK",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "global.musinsa.com",
+   "name": "MUSINSA",
+   "kana": null,
+   "name_en": "MUSINSA",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mutukistyle.com",
+   "name": "MUTUKI",
+   "kana": "ムツキ",
+   "name_en": "MUTUKI",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "myhoneyjapan.com",
+   "name": "MYHONEY",
+   "kana": "マイハニー",
+   "name_en": "MYHONEY",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "macys",
+   "name": "Macy's 【海外ストア】",
+   "kana": "メイシーズ",
+   "name_en": "Macy's",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "maison.kose.co.jp",
+   "name": "Maison KOSÉ",
+   "kana": "メゾンコーセー",
+   "name_en": "MaisonKOSÉ",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-marriott-bonvoy",
+   "name": "Marriott Bonvoy アメリカン・エキスプレス・カード",
+   "kana": "マリオットボンヴォイアメリカンエキスプレスカード",
+   "name_en": "MarriottBonvoyAmericanExpressCard",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-marriott-bonvoy-premium",
+   "name": "Marriott Bonvoy アメリカン・エキスプレス・プレミアム・カード",
+   "kana": "マリオットボンヴォイアメリカンエキスプレスプレミアムカード",
+   "name_en": "MarriottBonvoyAmericanExpressPremiumCard",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "meshy.ai",
+   "name": "Meshy AI",
+   "kana": "メッシーエーアイ",
+   "name_en": "MeshyAI",
+   "reward": "15.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "meta",
+   "name": "Meta",
+   "kana": "メタ",
+   "name_en": "Meta",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "milktea",
+   "name": "Milk tea",
+   "kana": "ミルクティ",
+   "name_en": "milktea",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "minisforum.jp",
+   "name": "Minisforum公式ストア",
+   "kana": "ミニスフォーラム",
+   "name_en": "Minisforum",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "momastore",
+   "name": "MoMA Design Store",
+   "kana": "モーマデザインストア",
+   "name_en": "MoMA Design Store",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "modaoperandi",
+   "name": "Moda Operandi【海外ストア】",
+   "kana": "モーダオペランディ",
+   "name_en": "Moda Operandi",
+   "reward": "最大4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "myscue.com",
+   "name": "MySCUE",
+   "kana": "マイスキュー",
+   "name_en": "MySCUE",
+   "reward": "100pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "mywineclub.com",
+   "name": "MyWineCLUB",
+   "kana": "マイワインクラブ",
+   "name_en": "MyWineCLUB",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "narscosmetics.com",
+   "name": "NARS公式オンラインショップ",
+   "kana": "ナーズ",
+   "name_en": "NARS",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "travel.navitime.com",
+   "name": "NAVITIME Travel",
+   "kana": "ナビタイムトラベル",
+   "name_en": "NAVITIME Travel",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "necdirect",
+   "name": "NEC Direct",
+   "kana": "エヌイーシー",
+   "name_en": "NEC Direct",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "net-a-porter",
+   "name": "NET-A-PORTER【海外ストア】",
+   "kana": "ネットアポーター",
+   "name_en": "NET-A-PORTER",
+   "reward": "最大5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "newt.net",
+   "name": "NEWT",
+   "kana": "ニュート",
+   "name_en": "NEWT",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "niplux.jp",
+   "name": "NIPLUX公式ストア",
+   "kana": "ニップラックス",
+   "name_en": "NIPLUX",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ny-onlinestore.com",
+   "name": "NYオンライン",
+   "kana": "エヌワイオンライン",
+   "name_en": "NYonline",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store.naturelab.co.jp",
+   "name": "Nature Lab Store",
+   "kana": "ネイチャーラボストア",
+   "name_en": "Nature Lab Store",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "naturecan.jp",
+   "name": "Naturecan",
+   "kana": "ネイチャーカン",
+   "name_en": "Naturecan",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "naturecan-fitness.jp",
+   "name": "Naturecan Fitness",
+   "kana": "ネイチャーカンフィットネス",
+   "name_en": "Naturecan Fitness",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "neowing",
+   "name": "Neowing/ネオウィング",
+   "kana": "ネオウィング",
+   "name_en": "NEOWING",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nordpass.com",
+   "name": "NordPass",
+   "kana": "ノードパス",
+   "name_en": "NordPass",
+   "reward": "15.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nordvpn",
+   "name": "NordVPN【海外ストア】",
+   "kana": "ノードブイピーエヌ",
+   "name_en": "NordVPN",
+   "reward": "20.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.omsystem.com",
+   "name": "OM SYSTEM",
+   "kana": "オーエムシステム",
+   "name_en": "OM SYSTEM",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "orihica.com",
+   "name": "ORIHICA",
+   "kana": "オリヒカ",
+   "name_en": "ORIHICA",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "oroton-jp",
+   "name": "OROTON 【海外ストア】",
+   "kana": "オロトン",
+   "name_en": "OROTON",
+   "reward": "最大3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ozmall.com",
+   "name": "OZmall(オズモール)",
+   "kana": "オズモール",
+   "name_en": "OZmall",
+   "reward": "最大2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "offwhite",
+   "name": "Off-White",
+   "kana": "オフホワイト",
+   "name_en": "OffWhite",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "oisix.com",
+   "name": "Oisix",
+   "kana": "オイシックス",
+   "name_en": "Oisix",
+   "reward": "最大1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "omio.com",
+   "name": "Omio【海外ストア】",
+   "kana": "オマイオ",
+   "name_en": "Omio",
+   "reward": "最大4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "on-running.com",
+   "name": "On 公式サイト",
+   "kana": "オン",
+   "name_en": "On",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ops-official.com",
+   "name": "Ops.公式ストア",
+   "kana": "オプス",
+   "name_en": "Ops.",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "perfect-s-com",
+   "name": "P.S.FAオンラインストア",
+   "kana": "パーフェクトスーツファクトリー",
+   "name_en": "Perfect suit factory",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pal-closet",
+   "name": "PAL CLOSET",
+   "kana": "パルクローゼット",
+   "name_en": "PAL CLOSET",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "papabubble.co.jp",
+   "name": "PAPABUBBLE",
+   "kana": "パパブブレ",
+   "name_en": "PAPABUBBLE",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pcwrap.com",
+   "name": "PC WRAP",
+   "kana": "ピーシーラップ",
+   "name_en": "PC WRAP",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pellemorbida.com",
+   "name": "PELLE MORBIDA",
+   "kana": "ペッレモルビダ",
+   "name_en": "PELLE MORBIDA",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "petit-bateau.com",
+   "name": "PETIT BATEAU",
+   "kana": "プチバトー",
+   "name_en": "PETIT BATEAU",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "plst",
+   "name": "PLST",
+   "kana": "プラステ",
+   "name_en": "plst",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "poplens.com",
+   "name": "POPLENS【海外ストア】",
+   "kana": "ポップレンズ",
+   "name_en": "POPLENS",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "palmangels.com",
+   "name": "Palm Angels",
+   "kana": "パームエンジェルス",
+   "name_en": "Palm Angels",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ec-club.panasonic.com",
+   "name": "Panasonic Store Plus",
+   "kana": "パナソニックストアプラス",
+   "name_en": "Panasonic Store Plus",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "parallels.com",
+   "name": "Parallels.com",
+   "kana": "パラレルズ",
+   "name_en": "parallels.com",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "paulsmith.co.jp",
+   "name": "Paul Smith 公式オンラインショップ",
+   "kana": "ポールスミス",
+   "name_en": "Paulsmith",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pearls-store.com",
+   "name": "Pearls【パールズ】",
+   "kana": "パールズ",
+   "name_en": "Pearls",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "petsnowy.com",
+   "name": "PetSnowy",
+   "kana": "ペットスノーイー",
+   "name_en": "Petsnowy",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.plaud.ai",
+   "name": "Plaud.ai公式ストア",
+   "kana": "プラウドエーアイ",
+   "name_en": "Plaud.ai",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "preply.com",
+   "name": "Preply",
+   "kana": "プレプリー",
+   "name_en": "Preply",
+   "reward": "20.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "princesspolly.com",
+   "name": "Princess Polly【海外ストア】",
+   "kana": "プリンセスポリー",
+   "name_en": "Princess Polly",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.qeeq.com",
+   "name": "QEEQレンタカー",
+   "kana": "キックレンタカー",
+   "name_en": "QEEQ Rent A Car",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "qieto.com",
+   "name": "Qieto",
+   "kana": "キエト",
+   "name_en": "Qieto",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "qoo10",
+   "name": "Qoo10",
+   "kana": "キューテン",
+   "name_en": "Qoo10",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yrl-qualit.com",
+   "name": "Qualit",
+   "kana": "クオリット",
+   "name_en": "Qualit",
+   "reward": "10.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "quayaustralia.com",
+   "name": "Quay Australia【海外ストア】",
+   "kana": "キーオーストラリア",
+   "name_en": "Quay Australia",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "readyfor.jp",
+   "name": "READYFOR",
+   "kana": "レディーフォー",
+   "name_en": "READYFOR",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "reclo.com",
+   "name": "RECLO",
+   "kana": "リクロ",
+   "name_en": "RECLO",
+   "reward": "1,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "rf28.com",
+   "name": "RF28",
+   "kana": "アールエフニジュウハチ",
+   "name_en": "RF28",
+   "reward": "10.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "runway-webstore.com",
+   "name": "RUNWAY channel",
+   "kana": "ランウェイチャンネル",
+   "name_en": "RUNWAY　channel",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "radissonhotels.com",
+   "name": "Radisson Hotels",
+   "kana": "ラディソンホテル",
+   "name_en": "Radisson Hotel",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "rakuten-fashion",
+   "name": "Rakuten Fashion",
+   "kana": "ラクテンファッション",
+   "name_en": "Rakuten Fashion",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "vacation-stay.com",
+   "name": "Rakuten Oyado",
+   "kana": "ラクテンオヤド",
+   "name_en": "Rakuten Oyado",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "rakuten-stay.com",
+   "name": "Rakuten STAY",
+   "kana": "ラクテンステイ",
+   "name_en": "RakutenSTAY",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "recoverysleep.com",
+   "name": "Recovery Sleep",
+   "kana": "リカバリースリープ",
+   "name_en": "Recovery Sleep",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "rlx.com",
+   "name": "Relux",
+   "kana": "リラックス",
+   "name_en": "Relux",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "renta",
+   "name": "Renta!",
+   "kana": "レンタ！",
+   "name_en": "Renta!",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "renta.papy.co.jp",
+   "name": "Renta! 新規会員",
+   "kana": "レンタ！シンキカイイン",
+   "name_en": "Renta! Sinkikaiin",
+   "reward": "200pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "ryuyu.net",
+   "name": "Rew-you",
+   "kana": "リューユ",
+   "name_en": "Rew-you",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "robertocavalli.com",
+   "name": "Roberto Cavalli",
+   "kana": "ロベルトカヴァリ",
+   "name_en": "Roberto Cavalli",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ropping.tv-asahi.com",
+   "name": "Ropping(ロッピング)",
+   "kana": "ロッピング",
+   "name_en": "Ropping",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "rpc.ringrow.co.jp",
+   "name": "R∞PCダイレクト",
+   "kana": "アールピーシーダイレクト",
+   "name_en": "R∞PC Direct",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sabon.co.jp",
+   "name": "SABON (サボン）",
+   "kana": "サボン",
+   "name_en": "SABON",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "saiboku.com",
+   "name": "SAIBOKU公式ショップ",
+   "kana": "サイボクコウシキショップ",
+   "name_en": "SAIBOKU",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "salomon.com",
+   "name": "SALOMON（サロモン）",
+   "kana": "サロモン",
+   "name_en": "SALOMON",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shaka-jp.com",
+   "name": "SHAKA公式オンラインストア",
+   "kana": "シャカ",
+   "name_en": "SHAKA",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sheinside.com",
+   "name": "SHEIN（シーイン）【海外ストア】",
+   "kana": "シーイン",
+   "name_en": "SHEIN",
+   "reward": "最大10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sheltter",
+   "name": "SHEL'TTER",
+   "kana": "シェルター",
+   "name_en": "SHEL'TTER",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shirai-store.net",
+   "name": "SHIRAI STORE",
+   "kana": "シライ",
+   "name_en": "SHIRAI STORE",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "skagen.com",
+   "name": "SKAGEN",
+   "kana": "スカーゲン",
+   "name_en": "SKAGEN",
+   "reward": "10.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "somresta.com",
+   "name": "SOMRESTA公式ショップ",
+   "kana": "ソムレスタ",
+   "name_en": "SOMRESTA",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "spacee.jp",
+   "name": "SPACEE",
+   "kana": "スペイシー",
+   "name_en": "SPACEE",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "spinnakerboutique.com",
+   "name": "SPINNAKER BOUTIQUE【海外ストア】",
+   "kana": "スピネイカーブティック",
+   "name_en": "SPINNAKER BOUTIQUE",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sputnicks",
+   "name": "SPU スプ",
+   "kana": "スプ",
+   "name_en": "SPU",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sputnicks.com",
+   "name": "SPUのスタイルアップ便",
+   "kana": "スプノスタイルアップビン",
+   "name_en": "SPU styleupbin",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ssense",
+   "name": "SSENSE【海外ストア】",
+   "kana": "エスセンス",
+   "name_en": "SSENSE",
+   "reward": "最大12.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "studious.co.jp",
+   "name": "STUDIOUS",
+   "kana": "ステュディオス",
+   "name_en": "STUDIOUS",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "studying.jp",
+   "name": "STUDYing",
+   "kana": "スタディング",
+   "name_en": "STUDYing",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "uktsc",
+   "name": "SUIT SQUARE",
+   "kana": "スーツスクエア",
+   "name_en": "SUIT SQUARE",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "onlineshop.suqqu.com",
+   "name": "SUQQU",
+   "kana": "スック",
+   "name_en": "SUQQU",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "surprisebox.jp",
+   "name": "SURPRISE BOX",
+   "kana": "サプライズボックス",
+   "name_en": "SURPRISEBOX",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "saily.com",
+   "name": "Saily eSim",
+   "kana": "サイリーイーシム",
+   "name_en": "Saily eSim",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "samsung",
+   "name": "Samsungオンラインショップ",
+   "kana": "サムスン",
+   "name_en": "Samsung",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sandisk.com",
+   "name": "SanDisk",
+   "kana": "サンディスク",
+   "name_en": "SanDisk",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "savannahs.com",
+   "name": "Savannahs【海外ストア】",
+   "kana": "サヴァンナス",
+   "name_en": "Savannahs",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "scarosso.com",
+   "name": "Scarosso【海外ストア】",
+   "kana": "スカロッソ",
+   "name_en": "Scarosso",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sea-ny.com",
+   "name": "Sea (New York)【海外ストア】",
+   "kana": "シーニューヨーク",
+   "name_en": "SeaNewYork",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "direct.shark.co.com",
+   "name": "SharkNinja公式オンラインストア",
+   "kana": "シャークニンジャ",
+   "name_en": "SharkNinja",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shopbop.com",
+   "name": "Shopbop【海外ストア】",
+   "kana": "ショップボップ",
+   "name_en": "Shopbop",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop-list",
+   "name": "Shoplist",
+   "kana": "ショップリスト",
+   "name_en": "shoplist",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "smartbuyglasses_jp",
+   "name": "SmartBuyGlasses JP",
+   "kana": "スマートバイグラス",
+   "name_en": "SmartBuyGlassesJP",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "stuartweitzman.com",
+   "name": "Stuart Weitzman【海外ストア】",
+   "kana": "スチュアートワイツマン",
+   "name_en": "Stuart Weitzman",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "suit-ya.com",
+   "name": "Suit ya",
+   "kana": "スーツヤ",
+   "name_en": "Suit ya",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "suprint.com",
+   "name": "Suprint",
+   "kana": "スプリント",
+   "name_en": "Suprint",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "surfshark.com",
+   "name": "Surfshark【海外ストア】",
+   "kana": "サーフシャーク",
+   "name_en": "サーフシャーク",
+   "reward": "20.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "switchbot.com",
+   "name": "SwitchBot",
+   "kana": "スイッチボット",
+   "name_en": "SwitchBot",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tatras-official.jp",
+   "name": "TATRAS 公式ストア‎",
+   "kana": "タトラス",
+   "name_en": "TATRAS",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tbs",
+   "name": "TBSショッピング",
+   "kana": "ティービーエスアイショップ",
+   "name_en": "tbsishop",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "temu.com",
+   "name": "TEMU",
+   "kana": "テム",
+   "name_en": "TEMU",
+   "reward": "最大20.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tential.com",
+   "name": "TENTIAL公式オンラインストア",
+   "kana": "テンシャル",
+   "name_en": "TENTIAL",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bagmania.com",
+   "name": "THE BAGMANIA",
+   "kana": "バッグマニア",
+   "name_en": "THE BAGMANIA",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "online_thekiss_co_jp",
+   "name": "THE KISS",
+   "kana": "ザ キッス",
+   "name_en": "THE KISS",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "duty-free-japan.com-haneda-jp",
+   "name": "TIAT DUTY FREE",
+   "kana": "ティアットデューティーフリー",
+   "name_en": "TIAT DUTY FREE",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tire-hood.com",
+   "name": "TIREHOOD",
+   "kana": "タイヤフッド",
+   "name_en": "TIREHOOD",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tokyolife.com",
+   "name": "TOKYO LIFE",
+   "kana": "トウキョウライフ",
+   "name_en": "TOKYO LIFE",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tower-com",
+   "name": "TOWER RECORDS ONLINE",
+   "kana": "タワーレコード",
+   "name_en": "TOWER RECORDS",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tsarbomba.com",
+   "name": "TSAR BOMBA WATCHES",
+   "kana": "サーボンバウォッチ",
+   "name_en": "TSAR BOMBA WATCHES",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tsunagu-uchiiwai.com",
+   "name": "TSUNAGU内祝い専門店",
+   "kana": "ツナグウチイワイセンモンテン",
+   "name_en": "TSUNAGU uchiiwaisenmonten",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "service.teamviewer.com",
+   "name": "TeamViewer【海外ストア】",
+   "kana": "チームビューアー",
+   "name_en": "TeamViewer",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.teva.com",
+   "name": "Teva 公式サイト",
+   "kana": "テバ",
+   "name_en": "Teva",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "the-body-shop",
+   "name": "The Body Shop",
+   "kana": "ボディショップ",
+   "name_en": "TheBodyShop",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "thedoublef.com",
+   "name": "TheDoubleF【海外ストア】",
+   "kana": "ザダブルエフ",
+   "name_en": "TheDoubleF",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "theory-jp",
+   "name": "Theory",
+   "kana": "セオリー",
+   "name_en": "theory",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "travelist.jp-hotel",
+   "name": "Travelist（ホテル・旅館）",
+   "kana": "トラベリスト",
+   "name_en": "TRAVELIST",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "travelist.com",
+   "name": "Travelist（国内格安航空券）",
+   "kana": "トラベリスト",
+   "name_en": "TRAVELIST",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "travelist.jp-international-air",
+   "name": "Travelist（海外格安航空券）",
+   "kana": "トラベリスト",
+   "name_en": "TRAVELIST",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "traveloka.com",
+   "name": "Traveloka",
+   "kana": "トラベロカ",
+   "name_en": "Traveloka",
+   "reward": "最大17.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.trip.com",
+   "name": "Trip.com（ホテル）",
+   "kana": "トリップドットコムホテル",
+   "name_en": "Trip.com hotel",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp_trip_com_flights",
+   "name": "Trip.com（航空券）",
+   "kana": "トリップドットコムコウクウケン",
+   "name_en": "Trip.com koukuken",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.trip.co",
+   "name": "Trip.com（航空券＋ホテル）",
+   "kana": "トリップドットコムコウクウケンホテル",
+   "name_en": "Trip.com flights hotel",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.trip.com-things-to-do",
+   "name": "Trip.com（遊び・体験）",
+   "kana": "トリップドットコムアソビタイケン",
+   "name_en": "trip.com asobi taiken",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "u-next",
+   "name": "U-NEXT",
+   "kana": "ユーネクスト",
+   "name_en": "UNEXT",
+   "reward": "600pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "uggaustralia",
+   "name": "UGG 公式サイト",
+   "kana": "アグ",
+   "name_en": "UGG",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nas.ugreen.jp",
+   "name": "UGREEN",
+   "kana": "ユーグリーン",
+   "name_en": "ugreen",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ultora.co.jp",
+   "name": "ULTORA公式ストア",
+   "kana": "ウルトラ",
+   "name_en": "ULTORA",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "united-arrows",
+   "name": "UNITED ARROWS ONLINE",
+   "kana": "ユナイテッドアローズ",
+   "name_en": "UNITED ARROWS",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "urona.com",
+   "name": "URONA（ウローナ）",
+   "kana": "ウローナ",
+   "name_en": "URONA",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "usagi-online.com",
+   "name": "USAGI ONLINE",
+   "kana": "ウサギオンライン",
+   "name_en": "USAGI ONLINE",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ubereats.com.ntf",
+   "name": "Uber Eats 初回注文",
+   "kana": "ウーバー　イーツ　ショカイゲンテイ",
+   "name_en": "Uber Eats 初回注文",
+   "reward": "200pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "udemy.com",
+   "name": "Udemy",
+   "kana": "ユーデミー",
+   "name_en": "udemy",
+   "reward": "最大14.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ultrahuman.com",
+   "name": "Ultrahuman Healthcare",
+   "kana": "ウルトラヒューマンヘルスケア",
+   "name_en": "Ultrahuman Healthcare",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "umbro",
+   "name": "Umbro【海外ストア】",
+   "kana": "アンブロ",
+   "name_en": "Umbro",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store-vaio.com",
+   "name": "VAIOストア",
+   "kana": "バイオ",
+   "name_en": "VAIO",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "veltra.com",
+   "name": "VELTRA（ベルトラ）",
+   "kana": "ベルトラ",
+   "name_en": "VELTRA",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "verycard",
+   "name": "VERY CARD",
+   "kana": "ベリーカード",
+   "name_en": "VERY CARD",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.vivaiacollection.com",
+   "name": "VIVAIA【海外ストア】",
+   "kana": "ヴィバイア",
+   "name_en": "VIVAIA",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "vivid-golf.com",
+   "name": "VIVID GOLF（ビビゴルフ）",
+   "kana": "ビビゴルフ",
+   "name_en": "VIVID GOLF",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "vimeo.com",
+   "name": "Vimeo",
+   "kana": "ヴィメオ",
+   "name_en": "Vimeo",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "vision-lens.jp",
+   "name": "Vision Lens",
+   "kana": "ビジョンレンズ",
+   "name_en": "Vision Lens",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "vitacost.com",
+   "name": "Vitacost【海外ストア】",
+   "kana": "ヴァイタコスト",
+   "name_en": "Vitacost",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "vrbo.com",
+   "name": "Vrbo (バーボ）",
+   "kana": "ホームアウェイ",
+   "name_en": "HomeAway",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store.wacoal.com",
+   "name": "WACOAL WEB STORE",
+   "kana": "ワコールウェブストア",
+   "name_en": "WACOAL WEB STORE",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "wester-mall",
+   "name": "WESTERモール",
+   "kana": "ウェスターモール",
+   "name_en": "WESTER Mall",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "directstyleworld",
+   "name": "WORLD ONLINE STORE",
+   "kana": "ワールドオンラインストア",
+   "name_en": "WORLD ONLINE STORE",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "wowow",
+   "name": "WOWOW",
+   "kana": "ワウワウ",
+   "name_en": "WOWOW",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "wondershare.com",
+   "name": "Wondershare【海外ストア】",
+   "kana": "ワンダーシェア",
+   "name_en": "Wondershare",
+   "reward": "15.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "wpc-store.com",
+   "name": "Wpc. ONLINE STORE",
+   "kana": "ダブリューピーシーオンラインストア",
+   "name_en": "Wpc. ONLINE STORE",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "xexymix.com",
+   "name": "XEXYMIX",
+   "kana": "ゼクシィミックス",
+   "name_en": "XEXYMIX",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store.ymdy.co.jp",
+   "name": "YAMADAYA STORE",
+   "kana": "ヤマダヤストア",
+   "name_en": "YAMADAYA STORE",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yogibo.com",
+   "name": "Yogibo（ヨギボー）",
+   "kana": "ヨギボー",
+   "name_en": "yogibo",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "zacc.com",
+   "name": "ZACCオンラインショップ",
+   "kana": "ザックオンラインショップ",
+   "name_en": "ZACC onlineshop",
+   "reward": "11.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "zutto",
+   "name": "ZUTTO",
+   "kana": "ズット",
+   "name_en": "ZUTTO",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "zoff",
+   "name": "Zoff",
+   "kana": "ゾフ",
+   "name_en": "zoff",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "zwebonlinestore_com",
+   "name": "Zweb online store",
+   "kana": "ゼットウェブオンラインストア",
+   "name_en": "Zweb online store",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "a-depeche.jp",
+   "name": "a.depeche",
+   "kana": "アデペシュ",
+   "name_en": "adepeche",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "agoda.com",
+   "name": "agoda（アゴダ）",
+   "kana": "アゴダ",
+   "name_en": "agoda",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.aimerfeel.com",
+   "name": "aimerfeel公式通販サイト",
+   "kana": "エメフィール",
+   "name_en": "aimerfeel",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "airalo.com",
+   "name": "airalo eSIM",
+   "kana": "エラロイーシム",
+   "name_en": "airalo eSIM",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "airlist.com",
+   "name": "airlist",
+   "kana": "エアリスト",
+   "name_en": "airlist",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "anatae.co.com",
+   "name": "anatae",
+   "kana": "アナタエ",
+   "name_en": "anatae",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "dot-st",
+   "name": "and ST",
+   "kana": "アンドエスティ",
+   "name_en": "and ST",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aqua-garage.com",
+   "name": "aquagarage",
+   "kana": "アクアガレージ",
+   "name_en": "aquagarage",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "atmos-tokyo.com",
+   "name": "atmos公式サイト",
+   "kana": "アトモス",
+   "name_en": "atmos",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kddi-fs.com-function-promotion",
+   "name": "au PAY カード",
+   "kana": "エーユーペイカード",
+   "name_en": "au PAY card",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "wowma",
+   "name": "au PAY マーケット",
+   "kana": "エーユーペイ マーケット",
+   "name_en": "au pay market",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cado.com",
+   "name": "cado／カドー公式",
+   "kana": "カドー",
+   "name_en": "cado",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "coen",
+   "name": "coen ONLINE STORE",
+   "kana": "コーエン",
+   "name_en": "coen",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "colleize.com",
+   "name": "colleize（コレイズ）",
+   "kana": "コレイズ",
+   "name_en": "colleize",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cucannetshop",
+   "name": "cucan",
+   "kana": "クーカン",
+   "name_en": "cucan",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cui-cui-onlineshop.com",
+   "name": "cui-cui ONLINE SHOP",
+   "kana": "キュイキュイオンラインショップ",
+   "name_en": "cui-cui ONLINE SHOP",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "devirock.com",
+   "name": "devirock",
+   "kana": "デビロック",
+   "name_en": "devirock",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ebest.co.com",
+   "name": "eBEST",
+   "kana": "イーベスト",
+   "name_en": "eBEST",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ebay",
+   "name": "eBay【海外ストア】",
+   "kana": "イーベイ",
+   "name_en": "ebay",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "eeo.today",
+   "name": "eeo Store (ｲｰｵｽﾄｱ)",
+   "kana": "イーオストア",
+   "name_en": "eeo Store",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "onlineshop.est-online.com",
+   "name": "est（エスト）公式オンラインショップ",
+   "kana": "エスト",
+   "name_en": "est",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "every.frecious.com",
+   "name": "every frecious",
+   "kana": "エブリィフレシャス",
+   "name_en": "every frecious",
+   "reward": "10,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "e-earphone.com",
+   "name": "eイヤホン",
+   "kana": "イーイヤホン",
+   "name_en": "e earphone",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "5-fifth",
+   "name": "fifth",
+   "kana": "フィフス",
+   "name_en": "fifth",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "visiontrust",
+   "name": "glens",
+   "kana": "グッドレンズ",
+   "name_en": "glens",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "haru-shop.jp",
+   "name": "haruオンラインショップ",
+   "kana": "ハル",
+   "name_en": "haru",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hince.jp",
+   "name": "hince日本公式ECサイト",
+   "kana": "ヒンスニホンコウシキイーシーサイト",
+   "name_en": "hince Japan Official EC Site",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "iherb",
+   "name": "iHerb(アイハーブ)【海外ストア】",
+   "kana": "アイハーブ",
+   "name_en": "iHerb",
+   "reward": "最大2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hankopremium",
+   "name": "inkans.com",
+   "kana": "インカンズドットコム",
+   "name_en": "inkans.com",
+   "reward": "12.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kkday.com",
+   "name": "kkday",
+   "kana": "ケイケイデイ",
+   "name_en": "Kkday",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lookfantastic.com",
+   "name": "lookfantastic【海外ストア】",
+   "kana": "ルックファンタスティック",
+   "name_en": "lookfantastic",
+   "reward": "最大5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lululemon.com",
+   "name": "lululemon(ルルレモン)",
+   "kana": "ルルレモン",
+   "name_en": "lululemon",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mix.tokyo.com",
+   "name": "mix.tokyo",
+   "kana": "ミックスドットトウキョウ",
+   "name_en": "mix.tokyo",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "moji-family.com",
+   "name": "moji公式ストア",
+   "kana": "モジコウシキストア",
+   "name_en": "Moji",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.myfirst.tech",
+   "name": "myFirst",
+   "kana": "マイファースト",
+   "name_en": "myFirst",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nissen-ncs.com",
+   "name": "n,カードJCB（エヌカードジェーシービー）",
+   "kana": "エヌカードジェーシービー",
+   "name_en": "n cardJCB",
+   "reward": "800pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "online.nojima.com",
+   "name": "nojima online",
+   "kana": "ノジマオンライン",
+   "name_en": "nojima online",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "novicetokyo.com",
+   "name": "novice",
+   "kana": "ノーヴィス",
+   "name_en": "novice",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ohora.com",
+   "name": "ohora",
+   "kana": "オホーラ",
+   "name_en": "ohora",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "overe-shop.com",
+   "name": "overE",
+   "kana": "オーバーイー",
+   "name_en": "overE",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shuuemura-jp",
+   "name": "shu uemura",
+   "kana": "シュウウエムラ",
+   "name_en": "SHU UEMURA",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "theoryluxe",
+   "name": "theory luxe",
+   "kana": "セオリーリュクス",
+   "name_en": "Theory luxe",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tickadoo.com",
+   "name": "tickadoo",
+   "kana": "ティカドゥー",
+   "name_en": "tickadoo",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "toonecosmetics.com",
+   "name": "to/one(トーン)",
+   "kana": "トーン",
+   "name_en": "to/one",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tu-hacci.co.com",
+   "name": "tu-hacci",
+   "kana": "ツーハッチ",
+   "name_en": "tu-hacci",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "viagogo.jp",
+   "name": "viagogo",
+   "kana": "ビアゴーゴー",
+   "name_en": "viagogo",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "vidaxl.jp",
+   "name": "vidaXL",
+   "kana": "ヴィダエックスエル",
+   "name_en": "vidaXL",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "woodlife.jp",
+   "name": "woodlife",
+   "kana": "ウッドライフ",
+   "name_en": "woodlife",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "millet.com",
+   "name": "『ミレー(MILLET)』公式オンラインストア",
+   "kana": "ミレーコウシキオンラインストア",
+   "name_en": "MILLET koshiki online store",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "allinhole.android",
+   "name": "【Android】All in Hole",
+   "kana": "オールインホール",
+   "name_en": "All in Hole",
+   "reward": "最大1,387pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "mergecooking.android",
+   "name": "【Android】Merge Cooking®",
+   "kana": "マージクッキング",
+   "name_en": "MergeCooking",
+   "reward": "最大3,632pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "tiktok.lite.android",
+   "name": "【Android】TikTok Lite",
+   "kana": "ティックトックライト",
+   "name_en": "TikTokLite",
+   "reward": "最大579pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "evertale.android",
+   "name": "【Android】エバーテイル",
+   "kana": "エバーテイル",
+   "name_en": "evertale",
+   "reward": "131pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "stickertown.android",
+   "name": "【Android】ステッカータウン：シールパズル",
+   "kana": "ステッカータウンシールパズル",
+   "name_en": "Sticker Town Seal Puzzle",
+   "reward": "40pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "ztmslg.android",
+   "name": "【Android】パズル＆サバイバル",
+   "kana": "パズルアンドサバイバル",
+   "name_en": "puzzleandsurvival",
+   "reward": "最大6,935pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "tokyodebunker.android",
+   "name": "【Android】東京ディバンカー",
+   "kana": "トウキョウディバンカー",
+   "name_en": "tokyodebunker",
+   "reward": "90pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "depaco.daimaru-matsuzakaya.com",
+   "name": "【DEPACO】大丸松坂屋コスメオンラインストア",
+   "kana": "デパコダイマルマツザカヤコスメオンラインストア",
+   "name_en": "DEPACOdaimarumatsuzakayacosmeonlinestore",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "klook.com",
+   "name": "【Klook】クルック",
+   "kana": "クルック",
+   "name_en": "Klook",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "allinhole.ios",
+   "name": "【iOS】All in Hole",
+   "kana": "オールインホール",
+   "name_en": "All in Hole",
+   "reward": "最大1,596pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "mergecooking.ios",
+   "name": "【iOS】Merge Cooking®",
+   "kana": "マージクッキング",
+   "name_en": "MergeCooking",
+   "reward": "最大3,632pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "tiktok.lite.ios",
+   "name": "【iOS】TikTok Lite",
+   "kana": "ティックトックライト",
+   "name_en": "TikTokLite",
+   "reward": "最大1,176pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "evertale.ios",
+   "name": "【iOS】エバーテイル",
+   "kana": "エバーテイル",
+   "name_en": "evertale",
+   "reward": "131pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "stickertown.ios",
+   "name": "【iOS】ステッカータウン：カラーブック パズル",
+   "kana": "ステッカータウンカラーブックパズル",
+   "name_en": "Sticker Town Color Book Puzzle",
+   "reward": "40pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "ztmslg.ios",
+   "name": "【iOS】パズル＆サバイバル",
+   "kana": "パズルアンドサバイバル",
+   "name_en": "puzzleandsurvival",
+   "reward": "最大6,506pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "tokyodebunker.ios",
+   "name": "【iOS】東京ディバンカー",
+   "kana": "トウキョウディバンカー",
+   "name_en": "tokyodebunker",
+   "reward": "90pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "fukuya.com",
+   "name": "【公式】味の明太子ふくや",
+   "kana": "アジノメンタイコフクヤ",
+   "name_en": "Aji no mentaiko fukuya",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "osechi-takumihonpo",
+   "name": "【匠本舗】おせち通販",
+   "kana": "タクミホンポ オセチツウハン",
+   "name_en": "takumihonpo osechituhan",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kanihonpo-takumihonpo",
+   "name": "【匠本舗】かに本舗",
+   "kana": "タクミホンポ カニホンポ",
+   "name_en": "takumihonpo kanihonpo",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.aeon.com",
+   "name": "【地域限定】イオンネットスーパー",
+   "kana": "イオンネットスーパー",
+   "name_en": "aeonnetsuper",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "amiami.jp",
+   "name": "あみあみオンラインショップ",
+   "kana": "アミアミ",
+   "name_en": "amiami",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ulunom.tokai.com",
+   "name": "おいしい水の贈りものうるのん",
+   "kana": "オイシイミズノオクリモノウルノン",
+   "name_en": "Oishimizunookurimono Ulunon",
+   "reward": "5,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "dress-cons.com",
+   "name": "おしゃれコンシャス",
+   "kana": "オシャレコンシャス",
+   "name_en": "OshareConscious",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kimono-rentalier.jp",
+   "name": "きものレンタリエ",
+   "kana": "キモノレンタリエ",
+   "name_en": "kimono rentalier",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kimono-rentaru",
+   "name": "きもの３６５",
+   "kana": "キモノ365",
+   "name_en": "kimono365",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "m-kirei.com",
+   "name": "きれいみつけた",
+   "kana": "キレイミツケタ",
+   "name_en": "kireimitsuketa",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kutsulenet.com",
+   "name": "くつリネット",
+   "kana": "クツリネット",
+   "name_en": "kutsulenet",
+   "reward": "750pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "kumapon",
+   "name": "くまポンbyGMO",
+   "kana": "クマポンバイジーエムオー",
+   "name_en": "kumaponbygmo",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sakano",
+   "name": "さかの",
+   "kana": "サカノ",
+   "name_en": "sakano",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "www.n-pri.com-photobook",
+   "name": "しまうまプリント フォトブック",
+   "kana": "シマウマプリント フォトブック",
+   "name_en": "shimaumaprint photobook",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "n-pri.com",
+   "name": "しまうまプリント 写真プリント",
+   "kana": "シマウマプリント シャシンプリント",
+   "name_en": "shimaumaprint syashinprint",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "delivery.skylark.co.com",
+   "name": "すかいらーくの宅配",
+   "kana": "スカイラークノタクハイ",
+   "name_en": "skylark",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "benessegift",
+   "name": "たまひよSHOP",
+   "kana": "タマヒヨショップ",
+   "name_en": "tamahiyoshop",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tsurutontan-udon.com",
+   "name": "つるとんたん",
+   "kana": "ツルトンタン",
+   "name_en": "Tsurutontan",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ec.tsuruyagolf.co.com",
+   "name": "つるやゴルフオンライン",
+   "kana": "ツルヤゴルフオンライン",
+   "name_en": "tsuruya golf online",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tonkatsu-saboten.com",
+   "name": "とんかつさぼてん",
+   "kana": "トンカツサボテン",
+   "name_en": "tonkatsusaboten",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nachulife.com",
+   "name": "なちゅライフ",
+   "kana": "ナチュライフ",
+   "name_en": "Nachulife",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kakuyasu.com",
+   "name": "なんでも酒やカクヤス",
+   "kana": "ナンデモサカヤカクヤス",
+   "name_en": "nandemosakayakakuyasu",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "www.hankodehanko.com",
+   "name": "はんこdeハンコ",
+   "kana": "ハンコデハンコ",
+   "name_en": "はんこdeはんこ",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tanomail",
+   "name": "ぱーそなるたのめーる",
+   "kana": "パーソナルタノメール",
+   "name_en": "personaltanomail",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "eki-net.com",
+   "name": "びゅうトラベル（えきねっと JR東日本国内ツアー）",
+   "kana": "エキネットビュウ",
+   "name_en": "ekinet",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fujimedical.jp",
+   "name": "ふじメディカル",
+   "kana": "フジメディカル",
+   "name_en": "fujimedical",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "futonlenet.com",
+   "name": "ふとんリネット",
+   "kana": "フトンリネット",
+   "name_en": "hutonlenet",
+   "reward": "750pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "print-gakufu.com",
+   "name": "ぷりんと楽譜",
+   "kana": "プリントガクフ",
+   "name_en": "Print Gakufu",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yanoman.com",
+   "name": "やのまん通信販売",
+   "kana": "ヤノマンツウシンハンバイ",
+   "name_en": "yanomantuushinhannbai",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yoka-mall.com",
+   "name": "よかもーる",
+   "kana": "ヨカモール",
+   "name_en": "Yokamall",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "rurubu.com",
+   "name": "るるぶトラベル",
+   "kana": "ルルブトラベル",
+   "name_en": "rurubutravel",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ioplaza.jp",
+   "name": "アイオープラザ",
+   "kana": "アイオープラザ",
+   "name_en": "ioplaza",
+   "reward": "最大4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.ice-watch.com",
+   "name": "アイスウォッチ公式ストア",
+   "kana": "アイスウォッチ",
+   "name_en": "ice watch",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ibeautystore.com",
+   "name": "アイビューティーストアー",
+   "kana": "アイビューティーストアー",
+   "name_en": "iBeautyStore",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "irisplaza",
+   "name": "アイリスプラザ",
+   "kana": "アイリスプラザ",
+   "name_en": "irisplaza",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lumine",
+   "name": "アイルミネ/i LUMINE",
+   "kana": "アイルミネ",
+   "name_en": "i LUMINE",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "irobot",
+   "name": "アイロボット公式",
+   "kana": "アイロボット",
+   "name_en": "irobot",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "naturum",
+   "name": "アウトドア＆フィッシング　ナチュラム",
+   "kana": "ナチュラム",
+   "name_en": "naturum",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aunworks.jp",
+   "name": "アウンワークス",
+   "kana": "アウンワークス",
+   "name_en": "aunworks",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "akachanhonpo",
+   "name": "アカチャンホンポ",
+   "kana": "アカチャンホンポ",
+   "name_en": "akachanhonpo",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "agaroot.jp",
+   "name": "アガルートアカデミー",
+   "kana": "アガルートアカデミー",
+   "name_en": "agaroot academy",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "achilles-webshop.com",
+   "name": "アキレスウェブショップ",
+   "kana": "アキレスウェブショップ",
+   "name_en": "achilleswebshop",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aquaclara.co.jp",
+   "name": "アクアクララ",
+   "kana": "アクアクララ",
+   "name_en": "Aquaclara",
+   "reward": "5,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.axesfemme.com",
+   "name": "アクシーズファム",
+   "kana": "アクシーズファム",
+   "name_en": "axesfemme",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "acseine.co.jp",
+   "name": "アクセーヌ",
+   "kana": "アクセーヌ",
+   "name_en": "acseine",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "activityjapan_com",
+   "name": "アクティビティジャパン",
+   "kana": "アクティビティジャパン",
+   "name_en": "activityjapan",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "calpis-shop.com",
+   "name": "アサヒカルピスウェルネスショップ",
+   "kana": "カルピス",
+   "name_en": "Calpis",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "asoview.com",
+   "name": "アソビュー！",
+   "kana": "アソビュー",
+   "name_en": "asoview",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "at-contact.jp",
+   "name": "アットコンタクト",
+   "kana": "アットコンタクト",
+   "name_en": "attocontact",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "atnetstyle",
+   "name": "アットスタイル",
+   "kana": "アットスタイル",
+   "name_en": "atstyle",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "atlens",
+   "name": "アットレンズ",
+   "kana": "アットレンズ",
+   "name_en": "atlens",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "adidas",
+   "name": "アディダス｜adidas 公式オンラインショップ",
+   "kana": "アディダス",
+   "name_en": "adidas",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "attrangs.com",
+   "name": "アトランス",
+   "kana": "アトランス",
+   "name_en": "attrangs",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aknas.com",
+   "name": "アトリエ アクナス",
+   "kana": "アトリエ アクナス",
+   "name_en": "atelier aknas",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "animate",
+   "name": "アニメイト通販",
+   "kana": "アニメイトツウハン",
+   "name_en": "Animatetuuhan",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.aboutvintage.com",
+   "name": "アバウトヴィンテージ",
+   "kana": "アバウトヴィンテージ",
+   "name_en": "About Vintage",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "af-liquor.com",
+   "name": "アフリカー",
+   "kana": "アフリカー",
+   "name_en": "af-liquor",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "amiami345.shop",
+   "name": "アミアミ公式通販",
+   "kana": "アミアミ",
+   "name_en": "amiami",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-green-business",
+   "name": "アメックスグリーンビジネスカード(個人)",
+   "kana": "アメックスグリーンビジネスカードコジン",
+   "name_en": "americanexpressbusinessgreencardKojin",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-green-business-corp",
+   "name": "アメックスグリーンビジネスカード(法人)",
+   "kana": "アメックスビジネスグリーンカードホウジン",
+   "name_en": "americanexpressbusinessgreencardhoujin",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-gold-business",
+   "name": "アメックスゴールドビジネスカード(個人)",
+   "kana": "アメックスゴールドビジネスカードコジン",
+   "name_en": "americanexpressgoldbusinesscardKojin",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-gold-business-corp",
+   "name": "アメックスゴールドビジネスカード(法人)",
+   "kana": "アメックスゴールドビジネスカードホウジン",
+   "name_en": "americanexpressgoldbusinesscardhoujin",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-platinum",
+   "name": "アメリカンエキスプレスプラチナカード",
+   "kana": "アメリカンエキスプレスプラチナカード",
+   "name_en": "americanexpressplatinumcard",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-green",
+   "name": "アメリカン・エキスプレス・グリーン・カード",
+   "kana": "アメリカンエキスプレスグリーンカード",
+   "name_en": "americanexpressgreencard",
+   "reward": "200pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-gold-preferred",
+   "name": "アメリカン・エキスプレス・ゴールド・プリファード・カード",
+   "kana": "アメリカンエキスプレスゴールドプリファードカード",
+   "name_en": "americanexpressgoldpreferredcard",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-platinum-business",
+   "name": "アメリカン・エキスプレス・ビジネス・プラチナ・カード",
+   "kana": "アメリカンエキスプレスビジネスプラチナカード",
+   "name_en": "americanexpressbusinessplatinumcard",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "alibaba.com",
+   "name": "アリババドットコム",
+   "kana": "アリババドットコム",
+   "name_en": "Alibaba.com",
+   "reward": "最大6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ankhcross-shop.com",
+   "name": "アンククロスショップ",
+   "kana": null,
+   "name_en": "ankhcrossshop",
+   "reward": "15.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "underarmour",
+   "name": "アンダーアーマー公式サイト",
+   "kana": "アンダーアーマー",
+   "name_en": "Under Armour",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "infirmiere.co.com",
+   "name": "アンファミエ",
+   "kana": "アンファミエ",
+   "name_en": "infirmiere",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "angfa-store.com",
+   "name": "アンファーストア",
+   "kana": "アンファー",
+   "name_en": "Angfa",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "chenri-suzette-shop.com",
+   "name": "アンリ・シャルパンティエ",
+   "kana": "アンリ・シャルパンティエ",
+   "name_en": "Henri Chardentier",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aveda-jp",
+   "name": "アヴェダ",
+   "kana": "アヴェダ",
+   "name_en": "AVEDA",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ec.artnature.com",
+   "name": "アートネイチャー・オンラインショップ",
+   "kana": "アートネイチャーオンライン",
+   "name_en": "artnature online",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "the0123.com",
+   "name": "アート引越センター",
+   "kana": "アートヒッコシセンター",
+   "name_en": "arthikoshi center",
+   "reward": "357pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "urban-research",
+   "name": "アーバンリサーチ",
+   "kana": "アーバンリサーチ",
+   "name_en": "Urban Research",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ry-rental.com",
+   "name": "アールワイレンタル",
+   "kana": "アールワイレンタル",
+   "name_en": "R&Y Rental",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "e87",
+   "name": "イイハナ・ドットコム",
+   "kana": "イイハナ",
+   "name_en": "iihana",
+   "reward": "13.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeon.co.com-card-lp-select",
+   "name": "イオンカードセレクト",
+   "kana": "イオンカードセレクト",
+   "name_en": "AEON CARD SELECT",
+   "reward": "500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeon.co.com-card-lp-toystory-select",
+   "name": "イオンカードセレクト（トイ・ストーリー デザイン）",
+   "kana": "イオンカードセレクト",
+   "name_en": "AEON CARD SELECT",
+   "reward": "500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeon.co.com-card-lp-disney-select",
+   "name": "イオンカードセレクト（ミッキーマウス デザイン）",
+   "kana": "イオンカードセレクト",
+   "name_en": "AEON CARD SELECT",
+   "reward": "500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeon.co.com-campaign-lp-minions-select",
+   "name": "イオンカードセレクト（ミニオンズ）",
+   "kana": "イオンカードセレクト",
+   "name_en": "AEON CARD SELECT",
+   "reward": "500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeon.co.com-card-lp-toystory",
+   "name": "イオンカード（WAON一体型/トイ・ストーリー デザイン）",
+   "kana": "イオンカード",
+   "name_en": "AEON CARD",
+   "reward": "500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeon.co.com-card-lp-disney",
+   "name": "イオンカード（WAON一体型/ミッキーマウス デザイン）",
+   "kana": "イオンカード",
+   "name_en": "AEON CARD",
+   "reward": "500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeon.co.com-card-aeoncardwaon",
+   "name": "イオンカード（WAON一体型）",
+   "kana": "イオンカード",
+   "name_en": "AEON CARD",
+   "reward": "1,250pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeon.co.com-campaign-lp-minions",
+   "name": "イオンカード（ミニオンズ）",
+   "kana": "イオンカード",
+   "name_en": "AEON CARD",
+   "reward": "1,250pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeoncompass.com-car",
+   "name": "イオンコンパストラベルモール 全国レンタカー",
+   "kana": "イオンコンパストラベルモールゼンコクレンタカー",
+   "name_en": "AEON COMPASS Travel Mall Nationwide Rent A Car",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeoncompass.com",
+   "name": "イオンコンパストラベルモール 国内宿泊",
+   "kana": "イオンコンパストラベルモールコクナイシュクハク",
+   "name_en": "AEON COMPASS Travel Mall Domestic Accommodation",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeonshop",
+   "name": "イオンショップ",
+   "kana": "イオンショップ",
+   "name_en": "aeonshop",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeon-kyushu.com",
+   "name": "イオン九州オンライン",
+   "kana": "イオンキュウシュウオンライン",
+   "name_en": "aeonkyushuonline",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ikebe-gakki.com",
+   "name": "イケベ楽器店オンラインストア",
+   "kana": "イケベガッキテン",
+   "name_en": "ikebegakkiten",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "iittala.com",
+   "name": "イッタラ",
+   "kana": "イッタラ",
+   "name_en": "ittala",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "itokin",
+   "name": "イトキンオンラインストア",
+   "kana": "イトキンオンラインストア",
+   "name_en": "ITOKIN ONLINESTORE",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.itoki.jp",
+   "name": "イトーキオンラインストア",
+   "kana": "イトーキオンラインストア",
+   "name_en": "itoki",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ibiza.co.com",
+   "name": "イビサ公式オンラインショップ",
+   "kana": "イビサ",
+   "name_en": "Ibiza",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "instabase.jp-ntf",
+   "name": "インスタベース 初回利用",
+   "kana": "インスタベース ショカイリヨウ",
+   "name_en": "instabase syokairiyou",
+   "reward": "最大675pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "shirohato",
+   "name": "インナーショップ白鳩",
+   "kana": "インナーショップシロハト",
+   "name_en": "innershopshirohato",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yves-saint-laurent-beauty",
+   "name": "イヴ・サンローラン・ボーテ公式オンラインブティック",
+   "kana": "イヴサンローラン",
+   "name_en": "Yves Saint Laurent",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "e-capcom.com",
+   "name": "イーカプコン",
+   "kana": "イーカプコン",
+   "name_en": "e-capcom",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "esupply.co.jp",
+   "name": "イーサプライ",
+   "kana": "イーサプライ",
+   "name_en": "esupply",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "eflora",
+   "name": "イーフローラ",
+   "kana": "イーフローラ",
+   "name_en": "Eflora",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "webpo.com",
+   "name": "ウェブポ",
+   "kana": "ウェブポ",
+   "name_en": "webpo",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sleep-airweave.com",
+   "name": "エアウィーヴ",
+   "kana": "エアウィーヴ",
+   "name_en": "airweave",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mall.air-closet.com",
+   "name": "エアクロモール",
+   "kana": "エアクロモール",
+   "name_en": "airClosetMall",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "airtrip.com",
+   "name": "エアトリ（国内航空券）",
+   "kana": "エアトリ",
+   "name_en": "airtrip",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "skygate.jp",
+   "name": "エアトリ（海外ホテル・海外航空券）",
+   "kana": "エアトリカイガイリョコウ",
+   "name_en": "airtrip",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "air-r.com",
+   "name": "エアリゾームインテリア本店",
+   "kana": "エアリゾームインテリアホンテン",
+   "name_en": "Air Rhizome Interior",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "airindia.com",
+   "name": "エア・インディア",
+   "kana": "エアインディア",
+   "name_en": "AirIndia",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "his-j.com",
+   "name": "エイチ・アイ・エス",
+   "kana": "エイチアイエス",
+   "name_en": "HIS",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ex-shop.com",
+   "name": "エクスショップ",
+   "kana": "エクスショップ",
+   "name_en": "Exshop",
+   "reward": "1,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "expedia.co.jp.vacation-packages",
+   "name": "エクスペディア（パッケージ）",
+   "kana": "エクスペディア",
+   "name_en": "Expedia",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "expedia.hotels.jp",
+   "name": "エクスペディア（ホテル）",
+   "kana": "エクスペディア",
+   "name_en": "Expedia",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "expedia.co.jp",
+   "name": "エクスペディア（現地ツアー）",
+   "kana": "エクスペディア",
+   "name_en": "Expedia",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "expedia.flights.jp",
+   "name": "エクスペディア（航空券）",
+   "kana": "エクスペディア",
+   "name_en": "Expedia",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "esteelauder.com",
+   "name": "エスティ ローダー",
+   "kana": "エスティローダー",
+   "name_en": "ESTEE LAUDER",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "etihadairways.com",
+   "name": "エティハド航空",
+   "kana": "エティハドコウクウ",
+   "name_en": "Etihad Airways",
+   "reward": "0.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "enoteca-online",
+   "name": "エノテカ・オンライン",
+   "kana": "エノテカ",
+   "name_en": "enoteca",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "eposcard.co.com",
+   "name": "エポスカード",
+   "kana": "エポスカード",
+   "name_en": "epos card",
+   "reward": "2,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "emma-sleep-japan.com",
+   "name": "エマ・スリープ・ジャパン",
+   "kana": "エマ・スリープ・ジャパン",
+   "name_en": "emma sleep japan",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "emirates.com",
+   "name": "エミレーツ航空",
+   "kana": "エミレーツコウクウ",
+   "name_en": "Emirates",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "elecom",
+   "name": "エレコムダイレクト",
+   "kana": "エレコムダイレクト",
+   "name_en": "ELECOM Dyrect",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "angeliebe.com",
+   "name": "エンジェリーベ",
+   "kana": "エンジェリーベ",
+   "name_en": "ANGELIEBE",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "osharewalker",
+   "name": "オシャレウォーカー",
+   "kana": "オシャレウォーカー",
+   "name_en": "osharewalker",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "office-com.com",
+   "name": "オフィスコム",
+   "kana": "オフィスコム",
+   "name_en": "officecom",
+   "reward": "最大12.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "look-it.jp",
+   "name": "オフィス家具通販 LOOKIT",
+   "kana": "ルキット",
+   "name_en": "LOOKIT",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "original-happyturn.kameda-netshop.jp",
+   "name": "オリジナルハッピーターン",
+   "kana": "オリジナルハッピーターン",
+   "name_en": "originalhappyturn",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "global.oliveyoung.com",
+   "name": "オリーブヤング公式ストア",
+   "kana": "オリーブヤング",
+   "name_en": "oliveyoung",
+   "reward": "11.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "orbis-jp",
+   "name": "オルビス",
+   "kana": "オルビス",
+   "name_en": "orbis",
+   "reward": "最大15.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "od.ignica.com",
+   "name": "オンラインデリバリーイグニカ（マルエツ・カスミのネットスーパー）",
+   "kana": "オンラインデリバリーイグニカ（マルエツ・カスミノネットスーパー）",
+   "name_en": "onlinedeliveryignica (maruetsu・kasumi・maxvalu kanto no netsuper)",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yaman",
+   "name": "オンリーミネラル",
+   "kana": "オンリーミネラル",
+   "name_en": "Only Minerals",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "o-ken.com",
+   "name": "オーケンウォーター",
+   "kana": "オーケンウォーター",
+   "name_en": "O-KENWATAR",
+   "reward": "5,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "ozio",
+   "name": "オージオ ネット",
+   "kana": "オージオ ネット",
+   "name_en": "OZIO net",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "order-cheese",
+   "name": "オーダーチーズ",
+   "kana": "オーダーチーズ",
+   "name_en": "ordercheese",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "olightstore.com",
+   "name": "オーライト",
+   "kana": "オーライト",
+   "name_en": "Olights",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kagome",
+   "name": "カゴメ健康直送便",
+   "kana": "カゴメケンコウチョクソウビン",
+   "name_en": "kagome",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kashispace.com",
+   "name": "カシカシ",
+   "kana": "カシカシ",
+   "name_en": "kashikashi",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "castelbajac.com",
+   "name": "カステルバジャック",
+   "kana": "カステルバジャック",
+   "name_en": "Castelbajac",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "belluna",
+   "name": "カタログ通販ベルーナ",
+   "kana": "ベルーナ",
+   "name_en": "belluna",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "qatarairways.com",
+   "name": "カタール航空",
+   "kana": "カタール航空",
+   "name_en": "QatarAirways",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "xn--lck4c8046ax4c.com",
+   "name": "カニ通販.com",
+   "kana": "カニツウハンドットコム",
+   "name_en": "kanitsuuhan.com",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "oumigyuu.co.com",
+   "name": "カネ吉山本オンライン",
+   "kana": "カネキチヤマモト",
+   "name_en": "kanekichiyamamoto",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.kitamura.com",
+   "name": "カメラのキタムラ ネットショップ",
+   "kana": "カメラノキタムラ ネットショップ",
+   "name_en": "Camera Kitamura",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "karada39.com",
+   "name": "カラダファクトリー",
+   "kana": "カラダファクトリー",
+   "name_en": "Karada Factory",
+   "reward": "500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "kaldi.co.com",
+   "name": "カルディコーヒーファーム　オンラインストア",
+   "kana": "カルディコーヒーファーム",
+   "name_en": "KALDI COFFEE FARM",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "camper.com",
+   "name": "カンペール公式ストア",
+   "kana": "カンペールコウシキストア",
+   "name_en": "camper",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "www.covearth.co.com",
+   "name": "カヴァース",
+   "kana": "カヴァース",
+   "name_en": "covearth",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "maluzen.com",
+   "name": "カーポートマルゼン",
+   "kana": "カーポートマルゼン",
+   "name_en": "carportmaluzen",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "carclub.com",
+   "name": "カー用品専門店CARCLUB",
+   "kana": "カーヨウヒンセンモンテンカークラブ",
+   "name_en": "CARCLUB",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "carry-on",
+   "name": "キャリーオン",
+   "kana": "キャリーオン",
+   "name_en": "carryon",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "callawaygolf.com",
+   "name": "キャロウェイオンラインストア",
+   "kana": "キャロウェイオンラインストア",
+   "name_en": "Callaway Onlinestore",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "eset-info.canon-its.jp",
+   "name": "キヤノンITS",
+   "kana": "キヤノンアイティーエス",
+   "name_en": "CanonITS",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store.canon.jp",
+   "name": "キヤノンオンラインショップ",
+   "kana": "キヤノン",
+   "name_en": "Canon",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kyusai",
+   "name": "キューサイ公式ショッピングサイト",
+   "kana": "キューサイ",
+   "name_en": "Kyusai",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kingjim.com",
+   "name": "キングジム公式ストア",
+   "kana": "キングジム",
+   "name_en": "kingjim",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pay.kingsoft.com",
+   "name": "キングソフト",
+   "kana": "キングソフト",
+   "name_en": "Kingsoft",
+   "reward": "20.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kiehls",
+   "name": "キールズ公式オンラインショップ",
+   "kana": "キールズ",
+   "name_en": "Kiehl's",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hyacca.online",
+   "name": "ギフト HYACCA",
+   "kana": "ギフトヒャッカ",
+   "name_en": "GIFT HYACCA",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "clasic.jp",
+   "name": "クラシコ",
+   "kana": "クラシコ",
+   "name_en": "Classico",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "club-t.com",
+   "name": "クラブツーリズム",
+   "kana": "クラブツーリズム",
+   "name_en": "clubtourism",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "clarins.com",
+   "name": "クラランス",
+   "kana": "クラランス",
+   "name_en": "Clarins",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "clear-contact",
+   "name": "クリアコンタクト",
+   "kana": "クリアコンタクト",
+   "name_en": "clearcontact",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "clinique-jp",
+   "name": "クリニーク",
+   "kana": "クリニーク",
+   "name_en": "QLINIQUE",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cleaningmonster.com",
+   "name": "クリーニングモンスター",
+   "kana": "クリーニングモンスター",
+   "name_en": "Cleaning Monster",
+   "reward": "750pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "hanamaru870.net",
+   "name": "クルマ買取ソコカラ",
+   "kana": "クルマカイトリソコカラ",
+   "name_en": "Kurumakaitori Sokokara",
+   "reward": "12,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "crocs-jp",
+   "name": "クロックス",
+   "kana": "クロックス",
+   "name_en": "crocs",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "greenpan.store",
+   "name": "グリーンパン　ストア",
+   "kana": "グリーンパン　ストア",
+   "name_en": "greenpan store",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "gregory.com",
+   "name": "グレゴリー",
+   "kana": "グレゴリー",
+   "name_en": "Gregory",
+   "reward": "9.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sekimiki-online.jp",
+   "name": "グレディブリリアン",
+   "kana": "グレディブリリアン",
+   "name_en": "gready brilliant",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "gunze-store-jp",
+   "name": "グンゼストア",
+   "kana": "グンゼ",
+   "name_en": "gunze",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ksdenki",
+   "name": "ケーズデンキ",
+   "kana": "ケーズデンキ",
+   "name_en": "ksdenki",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "geo-arekore.com",
+   "name": "ゲオあれこれレンタル",
+   "kana": "ゲオあれこれレンタル",
+   "name_en": "Geoarekorerental",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ec.geo-online.com",
+   "name": "ゲオオンラインストア",
+   "kana": "ゲオオンラインストア",
+   "name_en": "geoonlinestore",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "gamers.com",
+   "name": "ゲーマーズ",
+   "kana": "ゲーマーズ",
+   "name_en": "gamers",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "koala.com",
+   "name": "コアラマットレス",
+   "kana": "コアラマットレス",
+   "name_en": "koalamattress",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cocodecow.com",
+   "name": "ココデカウ【日用品通販】",
+   "kana": "ココデカウニチヨウヒンツウハン",
+   "name_en": "kokodekaunitiyouhintuuhan",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kojima",
+   "name": "コジマネット",
+   "kana": "コジマネット",
+   "name_en": "kojimanet",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cosmekitchen-webstore.jp",
+   "name": "コスメキッチン",
+   "kana": "コスメキッチン",
+   "name_en": "cosmekitchen",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cosmetic-times.com",
+   "name": "コスメティックタイムズ",
+   "kana": "コスメティックタイムズ",
+   "name_en": "cosmetictimes",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop-columbia",
+   "name": "コロムビアミュージックショップ",
+   "kana": "コロムビア",
+   "name_en": "columbia",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "columbia",
+   "name": "コロンビアスポーツウェア　公式サイト",
+   "kana": "コロンビアスポーツウエア",
+   "name_en": "Columbia Sportswear",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "contact2han.com",
+   "name": "コンタクト通販.com",
+   "kana": "コンタクトツウハンドットコム",
+   "name_en": "contact2han.com",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.combi.com",
+   "name": "コンビ公式ブランドストア",
+   "kana": "コンビ公式ショップ",
+   "name_en": "combi",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "godiva.com",
+   "name": "ゴディバ(GODIVA)",
+   "kana": "ゴディバ",
+   "name_en": "GODIVA",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cb-asahi.com",
+   "name": "サイクルベースあさひ",
+   "kana": "アイクルベースアサヒ",
+   "name_en": "cyclebaseasahi",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nrc.co.jp",
+   "name": "サイバーパネル",
+   "kana": "サイバーパネル",
+   "name_en": "Cyber Panel",
+   "reward": "600pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "hikkoshi-sakai.biz",
+   "name": "サカイ引越センター",
+   "kana": "サカイヒッコシセンター",
+   "name_en": "Sakai hikkosi center",
+   "reward": "160pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "sskamo",
+   "name": "サッカーショップ加茂",
+   "kana": "サッカーショップカモ",
+   "name_en": "Soccer Shop Kamo",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "samsonite.co.com",
+   "name": "サムソナイト公式オンラインストア",
+   "kana": "サムソナイト",
+   "name_en": "Samsonite",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "salonderoyal",
+   "name": "サロンドロワイヤル",
+   "kana": "サロンドワイヤル",
+   "name_en": "salonderoyal",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "thankyoumart.jp",
+   "name": "サンキューマート",
+   "kana": "サンキューマート",
+   "name_en": "thankyoumart",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "stcousair.com",
+   "name": "サンクゼール",
+   "kana": "サンクゼール",
+   "name_en": "stcousair",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sunspel.com",
+   "name": "サンスペル公式オンライン",
+   "kana": "サンスペル",
+   "name_en": "Sunspel",
+   "reward": "最大2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sundaymountain.com",
+   "name": "サンデーマウンテン",
+   "kana": "サンデーマウンテン",
+   "name_en": "Sunday Mountain",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "suntory",
+   "name": "サントリーウエルネス",
+   "kana": "サントリーウエルネス",
+   "name_en": "suntory",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sundrug-online.com",
+   "name": "サンドラッグ",
+   "kana": "サンドラッグ",
+   "name_en": "Sundrug",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "3ple.com",
+   "name": "サンプル百貨店",
+   "kana": "サンプルヒャッカテン",
+   "name_en": null,
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "direct-sanwa",
+   "name": "サンワダイレクト",
+   "kana": "サンワダイレクト",
+   "name_en": "Sanwadirect",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shopthermos.jp",
+   "name": "サーモスオンライン",
+   "kana": "サーモス",
+   "name_en": "thermos",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sheer.jp",
+   "name": "シアーミュージック",
+   "kana": "シアーミュージック",
+   "name_en": "sheermusic",
+   "reward": "2,600pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "shellwomb.com",
+   "name": "シェルゥーム",
+   "kana": "シェルゥーム",
+   "name_en": "shellwomb",
+   "reward": "15.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shikaketegami.com",
+   "name": "シカケテガミ",
+   "kana": "シカケテガミ",
+   "name_en": "shikaketegami",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shaddy",
+   "name": "シャディギフトモール",
+   "kana": "シャディギフトモール",
+   "name_en": "shaddygiftmall",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shopjapan",
+   "name": "ショップジャパン",
+   "kana": "ショップジャパン",
+   "name_en": "shopjapan",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shopch.com",
+   "name": "ショップチャンネル",
+   "kana": "ショップチャンネル",
+   "name_en": "shopchannel",
+   "reward": "0.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "symenergy.net",
+   "name": "シン・エナジー",
+   "kana": "シン・エナジー",
+   "name_en": "symenergy",
+   "reward": "200pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "jtrip",
+   "name": "ジェイトリップツアー",
+   "kana": "ジェイトリップツアー",
+   "name_en": "jtriptour",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "gelateriagelabo.shop",
+   "name": "ジェラボ",
+   "kana": "ジェラボ",
+   "name_en": "gelabo",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "smile-zemi.com",
+   "name": "ジャストシステム【スマイルゼミ】（入会）",
+   "kana": "ジャストシステムすまいるぜみ",
+   "name_en": "Just system",
+   "reward": "500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "smilezemi.com",
+   "name": "ジャストシステム【スマイルゼミ】（資料請求）",
+   "kana": "ジャストシステムスマイルゼミ",
+   "name_en": "justsystemssmilezemi",
+   "reward": "100pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "jomalone.com",
+   "name": "ジョー マローン ロンドン",
+   "kana": "ジョーマローンロンドン",
+   "name_en": "Jo Malone London",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sweetmommy",
+   "name": "スウィートマミー",
+   "kana": "スウィートマミー",
+   "name_en": "sweetmommy",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "skycontact.com",
+   "name": "スカイコンタクト",
+   "kana": "スカイコンタクト",
+   "name_en": "SkyContact",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "skyscanner.jp-hotels",
+   "name": "スカイスキャナー",
+   "kana": "スカイスキャナー",
+   "name_en": "skyscanner",
+   "reward": "最大2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "skyticket",
+   "name": "スカイチケット(航空券)",
+   "kana": "スカイチケット",
+   "name_en": "skyticket",
+   "reward": "最大1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "skypaktours.co.jp",
+   "name": "スカイパックツアーズ",
+   "kana": "スカイパックツアーズ",
+   "name_en": "skypaktours",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tanabesports.com",
+   "name": "スキー用品専門店タナベスポーツ",
+   "kana": "タナベスポーツ",
+   "name_en": "tanabe　sports",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "skater-onlineshop.com",
+   "name": "スケーター公式ストア",
+   "kana": "スケーター",
+   "name_en": "Skater",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "starbucks.co.jp",
+   "name": "スターバックス公式オンラインストア",
+   "kana": "スターバックス",
+   "name_en": "starbucks",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "snidelbeauty.com",
+   "name": "スナイデルビューティ",
+   "kana": "スナイデルビューティ",
+   "name_en": "SNIDEL BEAUTY",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "spacioshop.com",
+   "name": "スパクリショップ",
+   "kana": "スパクリショップ",
+   "name_en": "Spacioshop",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "app.adjust.com",
+   "name": "スピークバディ",
+   "kana": "スピークバディ",
+   "name_en": "speakbuddy",
+   "reward": "660pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.ch.com",
+   "name": "スプリング・ジャパン",
+   "kana": "スプリング・ジャパン",
+   "name_en": "Spring Japan",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "spacemarket.com",
+   "name": "スペースマーケット",
+   "kana": "スペースマーケット",
+   "name_en": "spacemarket",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sm-mn.jp",
+   "name": "スマモニ",
+   "kana": "スマモニ",
+   "name_en": "sumamoni",
+   "reward": "5,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "swarovski.com",
+   "name": "スワロフスキー",
+   "kana": "スワロフスキー",
+   "name_en": "swarovski",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aoki",
+   "name": "スーツのAOKI公式オンラインショップ",
+   "kana": "アオキ",
+   "name_en": "AOKI",
+   "reward": "14.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ssx.xebio-online.com",
+   "name": "スーパースポーツゼビオ",
+   "kana": "ゼビオ",
+   "name_en": "XEBIO",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sekaimon.com",
+   "name": "セカイモン",
+   "kana": "セカイモン",
+   "name_en": "sekaimon",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "2ndstreet",
+   "name": "セカンドストリート（買取）",
+   "kana": "セカンドストリート（カイトリ）",
+   "name_en": "2ndstreet（kaitori）",
+   "reward": "500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "cecile",
+   "name": "セシール",
+   "kana": "セシール",
+   "name_en": "cecile",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cefinecosmetics.com",
+   "name": "セフィーヌ公式オンラインショップ",
+   "kana": "セフィーヌ",
+   "name_en": "CEFINE",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "7net",
+   "name": "セブンネット",
+   "kana": "セブンネット",
+   "name_en": "Seven Net",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "celvoke.com",
+   "name": "セルヴォーク",
+   "kana": "セルヴォーク",
+   "name_en": "Celvoke",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sowxp.com",
+   "name": "ソウ・エクスペリエンス",
+   "kana": "ソウ・エクスペリエンス",
+   "name_en": "sow experience",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sony",
+   "name": "ソニーストア",
+   "kana": "ソニーストア",
+   "name_en": "sony sore",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sofastyle.com",
+   "name": "ソファスタイル",
+   "kana": "ソファスタイル",
+   "name_en": "sofastyle",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sofmap",
+   "name": "ソフマップドットコム",
+   "kana": "ソフマップ",
+   "name_en": "sofmap",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sommelier.gift",
+   "name": "ソムリエ＠ギフト",
+   "kana": "ソムリエアットギフト",
+   "name_en": "sommelier＠gift",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sourcenext",
+   "name": "ソースネクスト",
+   "kana": "ソースネクスト",
+   "name_en": "SourceNext",
+   "reward": "最大11.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "btimes.com",
+   "name": "タイムズのB",
+   "kana": "タイムズノビィ",
+   "name_en": "B-times",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "t-fashion.com",
+   "name": "タカシマヤファッションスクエア",
+   "kana": "タカシマヤファッションスクエア",
+   "name_en": "yakashimaya fashion square",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "takami-labo.com",
+   "name": "タカミ公式オンラインショップ",
+   "kana": "タカミ",
+   "name_en": "TAKAMI",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "takaratomy",
+   "name": "タカラトミーモール",
+   "kana": "タカラトミーモール",
+   "name_en": "takaratomymall",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "daieikk.com",
+   "name": "ダイエーネットショッピング",
+   "kana": "ダイエー",
+   "name_en": "daiei",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "dyson",
+   "name": "ダイソン公式オンラインストア",
+   "kana": "ダイソン",
+   "name_en": "dyson",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.daisonet.com",
+   "name": "ダイソーネットストア",
+   "kana": "ダイソー",
+   "name_en": "Daiso",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "direct-teleshop.com",
+   "name": "ダイレクトテレショップ",
+   "kana": "ダイレクトテレショップ",
+   "name_en": "directteleshop",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.danielwellington.com",
+   "name": "ダニエルウェリントン",
+   "kana": "ダニエルウェリントン",
+   "name_en": "danielwellington",
+   "reward": "9.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "d-sports-online.dunlop.co.com",
+   "name": "ダンロップスポーツ",
+   "kana": "ダンロップスポーツ",
+   "name_en": "Dunlop Sports",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "t.pia.com",
+   "name": "チケットぴあ",
+   "kana": "チケットピア",
+   "name_en": "ticket pia",
+   "reward": "0.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "charmcolor.jp",
+   "name": "チャームカラー",
+   "kana": "チャームカラー",
+   "name_en": "charmcolor",
+   "reward": "11.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "online.tutuanna.com",
+   "name": "チュチュアンナ",
+   "kana": "チュチュアンナ",
+   "name_en": "Tutuanna",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "twinbird-store.com",
+   "name": "ツインバード公式ストア",
+   "kana": "ツインバード・ストア",
+   "name_en": "twinbird-store",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tuqru.com",
+   "name": "ツクル",
+   "kana": "ツクル",
+   "name_en": "Tsuqru",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "zwilling.com",
+   "name": "ツヴィリング 公式オンラインショップ",
+   "kana": "ツヴィリング",
+   "name_en": "zwilling",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tealife",
+   "name": "ティーライフ",
+   "kana": "ティーライフ",
+   "name_en": "tealife",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tescom-shop.jp",
+   "name": "テスコムオンラインショップ",
+   "kana": "テスコムオンラインショップ",
+   "name_en": "TESCOM ONLINE SHOP",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "atomicgolf.com",
+   "name": "テレ東アトミックゴルフ本店",
+   "kana": "テレトウアトミックゴルフホンテン",
+   "name_en": "Atomic Golf",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tempur",
+   "name": "テンピュール公式",
+   "kana": "テンピュール",
+   "name_en": "TEMPUR",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "taylormadegolf",
+   "name": "テーラーメイド",
+   "kana": "テーラーメイド",
+   "name_en": "TaylorMade",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store.disney.co.jp",
+   "name": "ディズニーストア",
+   "kana": "ディズニーストア",
+   "name_en": "disneystore",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "world-family.co.jp",
+   "name": "ディズニー英語システム",
+   "kana": "ディズニーエイゴシステム",
+   "name_en": "Disney english system",
+   "reward": "200pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "dinos",
+   "name": "ディノス",
+   "kana": "ディノス",
+   "name_en": "dinos",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-delta",
+   "name": "デルタ スカイマイルアメリカン・エキスプレス・カード",
+   "kana": "デルタスカイマイルアメリカンエキスプレスカード",
+   "name_en": "deltaskymileamericanexpresscard",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "americanexpress-delta-gold",
+   "name": "デルタ スカイマイルアメリカン・エキスプレス・ゴールド・カード",
+   "kana": "デルタスカイマイルアメリカンエキスプレスゴールドカード",
+   "name_en": "deltaskymileamericanexpressgoldcard",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "toys-r-us",
+   "name": "トイザらス･ベビーザらス",
+   "kana": "トイザラスベビーザラス",
+   "name_en": "Toys' rusus Babysarus",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tumi.co.com",
+   "name": "トゥミ公式サイト",
+   "kana": "トゥミ",
+   "name_en": "TUMI",
+   "reward": "10.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tocohanalogy.com",
+   "name": "トコハナロジーストア",
+   "kana": "トコハナロジーストア",
+   "name_en": "tocohanalogystore",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "travelwith.jp",
+   "name": "トラベルスタンダードジャパン",
+   "kana": "トラベルスタンダードジャパン",
+   "name_en": "travel standard japan",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "triumph",
+   "name": "トリンプ・オンラインショップ",
+   "kana": "トリンプ",
+   "name_en": "Triumph",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "toryburch",
+   "name": "トリー バーチ 公式オンラインストア",
+   "kana": "トリーバーチ",
+   "name_en": "toryburch",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "trendmicro",
+   "name": "トレンドマイクロ・オンラインショップ",
+   "kana": "トレンドマイクロオンラインショップ",
+   "name_en": "trendmicroonlineshop",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "doctork.com",
+   "name": "ドクターケイ",
+   "kana": "ドクターケイ",
+   "name_en": "DoctorK",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "drci-labo",
+   "name": "ドクターシーラボ",
+   "kana": "ドクターシーラボ",
+   "name_en": "Dr.CiLabo",
+   "reward": "20.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.naigai.co.jp",
+   "name": "ナイガイオンラインショップ",
+   "kana": "ナイガイ",
+   "name_en": "naigai",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nike-jp",
+   "name": "ナイキオンラインストア",
+   "kana": "ナイキ",
+   "name_en": "nike",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pasta-source.com",
+   "name": "ナチュラルグレース",
+   "kana": "ナチュラルグレース",
+   "name_en": "naturalgrace",
+   "reward": "6.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nissen",
+   "name": "ニッセン",
+   "kana": "ニッセン",
+   "name_en": "nissen",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "newbalance-outlet",
+   "name": "ニューバランス公式オンラインアウトレット",
+   "kana": "ニューバランスコウシキオンラインアウトレット",
+   "name_en": "New Balance Official Online Outlet",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "newbalance-com",
+   "name": "ニューバランス公式オンラインストア",
+   "kana": "ニューバランス",
+   "name_en": "new balance",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nealsyard-jp",
+   "name": "ニールズヤード",
+   "kana": "ニールズヤード",
+   "name_en": "nealsyard",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nespresso_com_jp_ja",
+   "name": "ネスプレッソ公式サイト",
+   "kana": "ネスプレッソ",
+   "name_en": "nespresso",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "raksul.com",
+   "name": "ネット印刷のラクスル",
+   "kana": "ネットインサツノラクスル",
+   "name_en": "net print raksul",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "i-office1.com",
+   "name": "ネルコンシェルジュ neruco",
+   "kana": "ネルコ",
+   "name_en": "neruco",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "buy.norton.com",
+   "name": "ノートンストア",
+   "kana": "ノートンストア",
+   "name_en": "Nortron Store",
+   "reward": "20.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hor.com",
+   "name": "ハウスオブローゼ",
+   "kana": "ハウスオブローゼ",
+   "name_en": "house of rose",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "amarilyn.com",
+   "name": "ハッピーマリリン",
+   "kana": "ハッピーマリリン",
+   "name_en": "HAPPY MARILYN",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "happyhotel.jp",
+   "name": "ハピホテ",
+   "kana": "ハピホテ",
+   "name_en": "happyhotel",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hankoyacom",
+   "name": "ハンコヤドットコム",
+   "kana": "ハンコヤドットコム",
+   "name_en": "hankoya.com",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hands.com",
+   "name": "ハンズネットストア",
+   "kana": "ハンズ",
+   "name_en": "hands",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "enherb.com",
+   "name": "ハーブ専門店「enherb」",
+   "kana": "エンハーブ",
+   "name_en": "enherb",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "harmonick.co.jp",
+   "name": "ハーモニック公式",
+   "kana": "ハーモニック",
+   "name_en": "harmonick",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pc-koubou.com",
+   "name": "パソコン工房",
+   "kana": "パソコンコウボウ",
+   "name_en": "pasokonkobo",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "palemoba.com",
+   "name": "パレモバ公式ストア",
+   "kana": "パレモバ",
+   "name_en": "palemoba",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hitosara.com",
+   "name": "ヒトサラ",
+   "kana": "ヒトサラ",
+   "name_en": "hitosara",
+   "reward": "150pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "himaraya.co.com",
+   "name": "ヒマラヤオンライン",
+   "kana": "ヒマラヤオンライン",
+   "name_en": "Himaraya",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tanomana.com",
+   "name": "ヒューマンアカデミー通信講座",
+   "kana": "ヒューマンアカデミーツウシンコウザ",
+   "name_en": "humanacademy tsushinkouza",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bic-camera",
+   "name": "ビックカメラ.com",
+   "kana": "ビックカメラ",
+   "name_en": "biccamera",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "big-m-one.com",
+   "name": "ビッグエムワン",
+   "kana": "ビッグエムワン",
+   "name_en": "bigMone",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bigs.com",
+   "name": "ビッグホリデー",
+   "kana": "ビッグホリデー",
+   "name_en": "Big Holiday",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ski.bigs.com",
+   "name": "ビッグホリデー　スキー＆スノボ旅行",
+   "kana": "ビッグホリデー スキーアンドスノボリョコウ",
+   "name_en": "Big Holiday Ski and Snowboard Ryoko",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "vivahome.com",
+   "name": "ビバホームオンライン",
+   "kana": "ビバホームオンライン",
+   "name_en": "vivahomeonline",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pierreherme.com",
+   "name": "ピエール・エルメ・パリ 公式オンラインブティック",
+   "kana": "ピエールエルメ",
+   "name_en": "Pierreherme",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pizzahut",
+   "name": "ピザハット",
+   "kana": "ピザハット",
+   "name_en": "PizzaHut",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "peachjohn",
+   "name": "ピーチ・ジョン",
+   "kana": "ピーチジョン",
+   "name_en": "PEACH JOHN",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "phiten-jpy",
+   "name": "ファイテン公式通販",
+   "kana": "ファイテン",
+   "name_en": "phiten",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "family-life.biz",
+   "name": "ファミリー・ライフ",
+   "kana": "ファミリー・ライフ",
+   "name_en": "family life",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fancl",
+   "name": "ファンケルオンライン",
+   "kana": "ファンケルオンライン",
+   "name_en": "FANCL",
+   "reward": "最大7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "consumer.huawei.com",
+   "name": "ファーウェイ公式サイト",
+   "kana": "ファーウェイ",
+   "name_en": "HUAWEI",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "firadis.net",
+   "name": "フィラディスワインクラブ",
+   "kana": "フィラディスワインクラブ",
+   "name_en": "Firadis Wine Club",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fairwaygolf",
+   "name": "フェアウェイゴルフ",
+   "kana": "フェアウェイゴルフ",
+   "name_en": "fairwaygolf",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "felissimo",
+   "name": "フェリシモ",
+   "kana": "フェリシモ",
+   "name_en": "felissimo",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bon-book.com",
+   "name": "フォトブックBON",
+   "kana": "フォトブックボン",
+   "name_en": "photobookbon",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fourteen.com",
+   "name": "フォーティーンストア",
+   "kana": "フォーティーンストア",
+   "name_en": "fourteen store",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fujitv-flower-net",
+   "name": "フジテレビフラワーネット",
+   "kana": "フジテレビフラワーネット",
+   "name_en": "fujitvflowernet",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ruhru.com",
+   "name": "フライパンのPENTA＆ruhru",
+   "kana": "フライパンノペンタアンドルール",
+   "name_en": "フライパンのPENTA＆ruhru",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "frecious.com",
+   "name": "フレシャス",
+   "kana": "フレシャス",
+   "name_en": "FRECIOUS",
+   "reward": "10,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "bookoff",
+   "name": "ブックオフ公式オンラインストア",
+   "kana": "ブックオフオンライン",
+   "name_en": "BOOK OFF",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "booklive-jp",
+   "name": "ブックライブ",
+   "kana": "ブックライブ",
+   "name_en": "booklive",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bookhodai.jp",
+   "name": "ブック放題",
+   "kana": "ブックホウダイ",
+   "name_en": "bookhodai",
+   "reward": "125pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "sp.handycomic.jp",
+   "name": "ブッコミ",
+   "kana": "ブッコミ",
+   "name_en": "bukkomi",
+   "reward": "60pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "englishonline.britishcouncil.org",
+   "name": "ブリティッシュ・カウンシル",
+   "kana": "ブリティッシュ・カウンシル",
+   "name_en": "British Council",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bluetti.com",
+   "name": "ブルーティ公式ストア",
+   "kana": "ブルーティ",
+   "name_en": "BLUETTI",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bluebottlecoffee.com",
+   "name": "ブルーボトルコーヒー",
+   "kana": "ブルーボトルコーヒー",
+   "name_en": "bluebottlecoffee",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "boulmich.shop",
+   "name": "ブールミッシュ",
+   "kana": "ブールミッシュ",
+   "name_en": "Boulmish",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "printrider.jp",
+   "name": "プリントライダー",
+   "kana": "プリントライダー",
+   "name_en": null,
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "puma-jp",
+   "name": "プーマ公式ストア",
+   "kana": "プーマ",
+   "name_en": "puma",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "baycrews.jp-outlet",
+   "name": "ベイクルーズストア【OUTLET】",
+   "kana": "ベイクルーズストアアウトレット",
+   "name_en": "baycrews store outlet",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "vector.com",
+   "name": "ベクターPCショップ",
+   "kana": "ベクターピーシーショップ",
+   "name_en": "pcshop.vector",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bestprints.com",
+   "name": "ベストプリント",
+   "kana": "ベストプリント",
+   "name_en": "BestPrint",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "betta.com",
+   "name": "ベッタ ベビーストア",
+   "kana": "ベッタ ベビーストア",
+   "name_en": "betta babry store",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bedstyle.jp",
+   "name": "ベッドスタイル",
+   "kana": "ベッドスタイル",
+   "name_en": "bedstyle",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store.venex-j.co.jp",
+   "name": "ベネクス公式",
+   "kana": "ベネクス",
+   "name_en": "venex",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "benesse.com",
+   "name": "ベネッセコーポレーション",
+   "kana": "ベネッセコーポレーション",
+   "name_en": "benesse",
+   "reward": "600pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "babyrenta.com",
+   "name": "ベビレンタ",
+   "kana": "ベビレンタ",
+   "name_en": "babyrenta",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bellemaison-jp",
+   "name": "ベルメゾン",
+   "kana": "ベルメゾン",
+   "name_en": "bellemaison",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "belluna-gourmet.com",
+   "name": "ベルーナグルメ",
+   "kana": "ベルーナグルメ",
+   "name_en": "belluna gourmet",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lauss.com",
+   "name": "ペアアクセサリーLauss",
+   "kana": "ペアアクセサリーラウス",
+   "name_en": "pairaccessorie lauss",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "peppynet",
+   "name": "ペット用品通販ペピイ",
+   "kana": "ペットヨウヒンツウハンペピイ",
+   "name_en": "petyouhintuhanpeppy",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pelicansoap",
+   "name": "ペリカン石鹸オンラインショップ",
+   "kana": "ペリカンセッケンオンラインショップ",
+   "name_en": "pelicansekkenonlineshop",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hotels.com",
+   "name": "ホテルズドットコム",
+   "kana": "ホテルズドットコム",
+   "name_en": "Hotels.com",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "bobbibrown-jp",
+   "name": "ボビイ ブラウン",
+   "kana": "ボビイブラウン",
+   "name_en": "bobbibrown",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pocketalk.com",
+   "name": "ポケトーク公式オンラインストア",
+   "kana": "ポケトーク",
+   "name_en": "Pocketalk",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pola.co.jp",
+   "name": "ポーラ公式オンラインストア",
+   "kana": "ポーラ",
+   "name_en": "POLA",
+   "reward": "最大5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "michaelkorsoutlet.com",
+   "name": "マイケル・コース公式オンラインアウトレットストア",
+   "kana": "マイケルコースアウトレット",
+   "name_en": "Michaelkors outlet",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "misignal.jp",
+   "name": "マイシグナル",
+   "kana": "マイシグナル",
+   "name_en": "maisignal",
+   "reward": "最大1,923pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "myprotein.com",
+   "name": "マイプロテイン",
+   "kana": "マイプロテイン",
+   "name_en": "myprotein",
+   "reward": "最大9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mousecomputer",
+   "name": "マウスコンピューター",
+   "kana": "マウスコンピューター",
+   "name_en": "mousecomputer",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "creativeyoko.com",
+   "name": "マザーガーデン＆ペットパラダイス",
+   "kana": "マザーガーデンアンドペットパラダイス",
+   "name_en": "Mothergarden&Petparadise",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "matsukiyo-jp",
+   "name": "マツキヨココカラ",
+   "kana": "マツキヨココカラ",
+   "name_en": "matsukiyococokara",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "manara.jp",
+   "name": "マナラ",
+   "kana": "マナラ",
+   "name_en": "manara",
+   "reward": "20pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "natural-s.com",
+   "name": "ママ＆キッズ/ナチュラルサイエンス公式",
+   "kana": "ママアンドキッズ/ナチュラルサイエンス",
+   "name_en": "Mama&Kids/naturalscience",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mameil.com",
+   "name": "マメイル",
+   "kana": "マメイル",
+   "name_en": "Mameil",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "marui",
+   "name": "マルイウェブチャネル",
+   "kana": "マルイ",
+   "name_en": "marui",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "malaysiaairlines.com",
+   "name": "マレーシア航空",
+   "kana": "マレーシアコウクウ",
+   "name_en": "Malaysia Airlines",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ozushop.com",
+   "name": "ミシンのオズ本店",
+   "kana": "ミシンノオズ",
+   "name_en": "mishin no ozu",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mizunoshop",
+   "name": "ミズノ公式オンラインショップ",
+   "kana": "ミズノ",
+   "name_en": "mizuno",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "online.ministop.co.jp",
+   "name": "ミニストップオンライン",
+   "kana": "ミニストップ",
+   "name_en": "ministop",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mvtk.com",
+   "name": "ムビチケ",
+   "kana": "ムビチケ",
+   "name_en": "Mvtk",
+   "reward": "0.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "murauchi.com",
+   "name": "ムラウチドットコム",
+   "kana": "ムラウチドットコム",
+   "name_en": "murauchi.com",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "murasaki.com",
+   "name": "ムラサキスポーツ",
+   "kana": "ムラサキスポーツ",
+   "name_en": "murasaki sports",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "the-sports-authority",
+   "name": "メガスポーツオンラインショップ",
+   "kana": "メガスポーツオンラインショップ",
+   "name_en": "megasports",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "owndays.com",
+   "name": "メガネのOWNDAYS（オンデーズ）公式オンラインストア",
+   "kana": "メガネノオンデーズ",
+   "name_en": "meganenoowndays",
+   "reward": "14.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "meganesuper",
+   "name": "メガネスーパー通販",
+   "kana": "メガネスーパー",
+   "name_en": "meganesuper",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "maisonmargiela-fragrances.jp",
+   "name": "メゾン マルジェラ フレグランス",
+   "kana": "メゾンマルジェラフレグランス",
+   "name_en": "maisonmargielafragrances",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mensleatherstore.com",
+   "name": "メンズレザーストア",
+   "kana": "メンズレザーストア",
+   "name_en": "mensleatherstore",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "travel.yahoo.co.jp-dp-jal",
+   "name": "ヤフーパック（JAL便）",
+   "kana": "ヤフーパック（ジャルビン）",
+   "name_en": "Yahoopack (jal bin)",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yamatoya-itoigawa.com",
+   "name": "ヤマトヤクリーニング",
+   "kana": "ヤマトヤクリーニング",
+   "name_en": "Yamatoya Cleaning",
+   "reward": "最大7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ya-man.com",
+   "name": "ヤーマンオンライン",
+   "kana": "ヤーマン",
+   "name_en": "ya-man",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yourmystar.jp",
+   "name": "ユアマイスター",
+   "kana": "ユアマイスター",
+   "name_en": "yourmystar",
+   "reward": "6.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "uniqlo.com",
+   "name": "ユニクロオンラインストア",
+   "kana": "ユニクロ",
+   "name_en": "UNIQLO",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "laroche-posay",
+   "name": "ラ ロッシュ ポゼ",
+   "kana": "ラロッシュポゼ",
+   "name_en": "larocheposay",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lacoste",
+   "name": "ラコステ公式オンラインショップ",
+   "kana": "ラコステ",
+   "name_en": "Lacoste",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "la-sana",
+   "name": "ラサーナ公式通販",
+   "kana": "ラサーナ",
+   "name_en": "lasana",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lappy-balloon.com",
+   "name": "ラッピーバルーン",
+   "kana": "ラッピーバルーン",
+   "name_en": "Lappy Balloon",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lancome-jp",
+   "name": "ランコム",
+   "kana": "ランコム",
+   "name_en": "lancome",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "delamer.com",
+   "name": "ラ・メール",
+   "kana": "ラ・メール",
+   "name_en": "La Mer",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "travel-west.com",
+   "name": "リアルチケット",
+   "kana": "リアルチケット",
+   "name_en": "real ticket",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "used.sofmap.com",
+   "name": "リコレ！ソフマップの中古通販サイト",
+   "kana": "リコレ！ソフマップノチュウコハンバイサイト",
+   "name_en": "rikore sofmap",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lenet.com",
+   "name": "リネット",
+   "kana": "リネット",
+   "name_en": "lenet",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "relive-shirt.myshopify.com",
+   "name": "リライブシャツ",
+   "kana": "リライブシャツ",
+   "name_en": "reliveshirt",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "liliarge.com",
+   "name": "リリアージュ",
+   "kana": "リリアージュ",
+   "name_en": "liliarge",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lindtchocolate.com",
+   "name": "リンツ・チョコレート",
+   "kana": "リンツ・チョコレート",
+   "name_en": "Lindt Chocolate",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ringbell",
+   "name": "リンベル",
+   "kana": "リンベル",
+   "name_en": "ringbell",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "levis.com",
+   "name": "リーバイス®",
+   "kana": "リーバイス",
+   "name_en": "levis",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kcc",
+   "name": "ルタオ（Letao）",
+   "kana": "ルタオ",
+   "name_en": "LeTAO",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "luminous-club.com",
+   "name": "ルミナスクラブ",
+   "kana": "ルミナスクラブ",
+   "name_en": "luminous-club",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "le-creuset",
+   "name": "ル・クルーゼ　公式オンラインショップ",
+   "kana": "ルクルーゼ",
+   "name_en": "Le Creuset",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "rarejob.com",
+   "name": "レアジョブ英会話",
+   "kana": "レアジョブエイカイワ",
+   "name_en": "Rare job English conversation",
+   "reward": "1,880pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "raycop",
+   "name": "レイコップ公式ストア",
+   "kana": "レイコップ",
+   "name_en": "raycop",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "recochoku.com",
+   "name": "レコチョク",
+   "kana": "レコチョク",
+   "name_en": "recochoku",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lego",
+   "name": "レゴ公式サイト",
+   "kana": "レゴ",
+   "name_en": "LEGO",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pierrotshop.com",
+   "name": "レディースファッション通販「Pierrot（ピエロ）」",
+   "kana": "ピエロ",
+   "name_en": "Pierrot",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lenovo-jp",
+   "name": "レノボ・ショッピング",
+   "kana": "レノボショッピング",
+   "name_en": "Lenovoshopping",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lens-aaa.jp",
+   "name": "レンズAAA",
+   "kana": "レンズトリプルエー",
+   "name_en": "lensaaa",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lensup.jp",
+   "name": "レンズアップ",
+   "kana": "レンズアップ",
+   "name_en": "lensup",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lens-apple",
+   "name": "レンズアップル",
+   "kana": "レンズアップル",
+   "name_en": "lensapple",
+   "reward": "7.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lenson.jp",
+   "name": "レンズオン",
+   "kana": "レンズオン",
+   "name_en": "lenson",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lens-smile.com",
+   "name": "レンズスマイル",
+   "kana": "レンズスマイル",
+   "name_en": "lens-smile",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lensnet.jp",
+   "name": "レンズネット",
+   "kana": "レンズネット",
+   "name_en": "lensnet",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lensfirst.com",
+   "name": "レンズファースト",
+   "kana": "レンズファースト",
+   "name_en": "lensfirst",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lens-labo.com",
+   "name": "レンズラボ",
+   "kana": "レンズラボ",
+   "name_en": "LENS LABO",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "rentio.com",
+   "name": "レンティオ",
+   "kana": "レンティオ",
+   "name_en": "rentio",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "royalcopenhagen.com",
+   "name": "ロイヤルコペンハーゲン",
+   "kana": "ロイヤルコペンハーゲン",
+   "name_en": "royalcopenhagen",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lofty.co.jp",
+   "name": "ロフテー公式オンラインストア",
+   "kana": "ロフテー",
+   "name_en": "LOFTY",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "romapri.com",
+   "name": "ロマンティックプリンセス",
+   "kana": "ロマンティックプリンセス",
+   "name_en": "RomanticPrincess",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shirts.com",
+   "name": "ワイシャツの山喜オフィシャル通販",
+   "kana": "ワイシャツノヤマキ",
+   "name_en": "Yshirtno Yamaki",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "online.ysroad.co.com",
+   "name": "ワイズロードオンライン",
+   "kana": "ワイズロードオンライン",
+   "name_en": "Y's Road ONLINE",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "watts-online-biz.jp",
+   "name": "ワッツまとめ買いプラスオンライン",
+   "kana": "ワッツマトメガイプラスオンライン",
+   "name_en": "watts online",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "onepiece-rental.net",
+   "name": "ワンピの魔法",
+   "kana": "ワンピノマホウ",
+   "name_en": "wanpinomahou",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "victoriagolf-xebio-online",
+   "name": "ヴィクトリアゴルフ",
+   "kana": "ヴィクトリアゴルフ",
+   "name_en": "victoriagolf",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "online.1kuji.com",
+   "name": "一番くじONLINE",
+   "kana": "イチバンクジオンライン",
+   "name_en": "Ichibankuji Online",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mistore.com",
+   "name": "三越伊勢丹オンラインストア",
+   "kana": "ミツコシイセタン",
+   "name_en": "mitsukoshi isetan",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "carnext-haishakaitori.com",
+   "name": "中古車買取カーネクスト",
+   "kana": "チュウコシャカイトリカーネクスト",
+   "name_en": "Carnext",
+   "reward": "11,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "shobo-an",
+   "name": "久原本家通販サイト(公式)",
+   "kana": "クバラホンケ",
+   "name_en": "kubarahonke",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "otoriyose_site",
+   "name": "九州お取り寄せ本舗",
+   "kana": "キュウシュウオトリヨセホンポ",
+   "name_en": "kyuusyuu otoriyose honnpo",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kbwine.com",
+   "name": "京橋ワイン",
+   "kana": "キョウバシワイン",
+   "name_en": "Kyobashi Wine",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "keionet.com",
+   "name": "京王百貨店",
+   "kana": "ケイオウヒャッカテン",
+   "name_en": "KEIO net shopping",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kimonomachi.co.com",
+   "name": "京都きもの町",
+   "kana": "キョウトキモノマチ",
+   "name_en": "kyotokimonomachi",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "itohkyuemon.com",
+   "name": "伊藤久右衛門",
+   "kana": "イトウキュウエモン",
+   "name_en": "itohkyuemon",
+   "reward": "9.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yamamotoyama.co.jp",
+   "name": "元禄三年創業　山本山",
+   "kana": "ヤマモトヤマ",
+   "name_en": "yamamotoyama",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "rimawarikun.com",
+   "name": "利回りくん",
+   "kana": "リマワリクン",
+   "name_en": "rimawarikun",
+   "reward": "4,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "hakata-hisamatsu.net",
+   "name": "博多久松",
+   "kana": "ハカタヒサマツ",
+   "name_en": "Hakatahisamatu",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "inkart.jp",
+   "name": "印刷のプリントアース",
+   "kana": "インサツノプリントアース",
+   "name_en": "Insatsu no Print Earth",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pentaro.jp",
+   "name": "同人誌印刷ペンタロー",
+   "kana": "ドウジンシインサツペンタロー",
+   "name_en": "pentaro",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.tamadenco.co.jp",
+   "name": "多摩電子工業",
+   "kana": "タマデンシコウギョウ",
+   "name_en": "TamaDenshiKogyo",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ryugaku.yume-kana.com",
+   "name": "夢カナ留学",
+   "kana": "ユメカナリュウガク",
+   "name_en": "yumekanaryugaku",
+   "reward": "7,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "daimaru-matsuzakaya",
+   "name": "大丸松坂屋オンラインストア",
+   "kana": "ダイマルマツザカヤ",
+   "name_en": "daimarumatsuzakaya",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "o-ohsho.com",
+   "name": "大阪王将公式通販 本店",
+   "kana": "オオサカオウショウ",
+   "name_en": "OSAKA OHSHO",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fujin-gahou",
+   "name": "婦人画報のお取り寄せ",
+   "kana": "フジンガホウ",
+   "name_en": "fujingahou",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nosh.com",
+   "name": "宅食サービス【nosh】",
+   "kana": "タクショクサービスナッシュ",
+   "name_en": null,
+   "reward": "700pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "takumen.com",
+   "name": "宅麺",
+   "kana": "タクメン",
+   "name_en": "takumen",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "well-stone.info",
+   "name": "家庭教師の銀河",
+   "kana": "カテイキョウシノギンガ",
+   "name_en": "kateikyoushinoginga",
+   "reward": "4,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "emoor.jp",
+   "name": "寝具家具のエムール",
+   "kana": "シングカグノエムール",
+   "name_en": "Shingukagu no emoor",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "odakyuu",
+   "name": "小田急オンラインショッピング",
+   "kana": "オダキュウ",
+   "name_en": "Odakyu",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nyogankensa.jp",
+   "name": "尿がん検査くん",
+   "kana": "ニョウガンケンサクン",
+   "name_en": "nyogankensakun",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "yamadabeefarm",
+   "name": "山田養蜂場",
+   "kana": "ヤマダヨウホウジョウ",
+   "name_en": "yamadayouhoujyou",
+   "reward": "20.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "simamoto.co.jp",
+   "name": "島本食品公式ストア",
+   "kana": "シマモトショクヒン コウシキストア",
+   "name_en": "shimamotoshokuhin offical store",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "carnext-haishakaitori",
+   "name": "廃車買取カーネクスト",
+   "kana": "ハイシャカイトリカーネクスト",
+   "name_en": "Haisha Kaitori CarNext",
+   "reward": "5,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "kaimin-times.com",
+   "name": "快眠タイムズストア",
+   "kana": "カイミンタイムズストア",
+   "name_en": "Kaimin Times",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "seijoishii.com",
+   "name": "成城石井.com",
+   "kana": "セイジョウイシイ",
+   "name_en": "seijoishii",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aisatsujo.com",
+   "name": "挨拶状ドットコム Professional",
+   "kana": "アイサツジョウドットコム プロフェッショナル",
+   "name_en": "aisatsujo.com professional",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ntvshop.com",
+   "name": "日テレポシュレ",
+   "kana": "ニッテレポシュレ",
+   "name_en": "nittereposhlech",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nta.com",
+   "name": "日本旅行",
+   "kana": "ニッポンリョコウ",
+   "name_en": "Nippon Travel Agency",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "inabaen-shop.jp",
+   "name": "日本橋いなば園",
+   "kana": "ニホンバシイナバエン",
+   "name_en": "nihonbashiinabaen",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "666-666",
+   "name": "日本直販",
+   "kana": "ニホンチョクハン",
+   "name_en": "Nihonchokuhan",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hibiyakadan",
+   "name": "日比谷花壇",
+   "kana": "ヒビヤカダン",
+   "name_en": "Hibiyakadan",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store.nissin.com",
+   "name": "日清食品グループ オンラインストア",
+   "kana": "ニッシンショクヒングループオンラインストア",
+   "name_en": "nisshinshokuhingrouponlinestore",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kurashi-ec.com",
+   "name": "暮らしのデザイン",
+   "kana": "クラシノデザイン",
+   "name_en": "Kurahi no Design",
+   "reward": "8.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "a-golf.com",
+   "name": "有賀園ゴルフONLINE",
+   "kana": "アリガエンゴルフオンライン",
+   "name_en": "arigaengolfonline",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "thg.co.jp",
+   "name": "東京法経学院",
+   "kana": "トウキョウホウケイガクイン",
+   "name_en": "tokyouhoukeigakuin",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tokyu-ps.com",
+   "name": "東急でんき＆ガス",
+   "kana": "トウキュウデンキアンドガス",
+   "name_en": "Tokyu Power Supply",
+   "reward": "5,075pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "tobu-online.com",
+   "name": "東武オンラインストア",
+   "kana": "トウブ",
+   "name_en": "Tobu",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "tobutoptours.jp",
+   "name": "東武トップツアーズ",
+   "kana": "トウブトップツアーズ",
+   "name_en": "tobutoptours",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yamato",
+   "name": "松阪牛専門店やまと",
+   "kana": "ヤマト",
+   "name_en": "yamato",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.izasa.co.com",
+   "name": "柿の葉寿司のゐざさ",
+   "kana": "カキノハスシノイザサ",
+   "name_en": "Kakinohasushinoizasa",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "rakuten-card.co.jp-card-rakuten-amc-card",
+   "name": "楽天ANAマイレージクラブカード",
+   "kana": "ラクテンアナマイレージクラブカード",
+   "name_en": "RakutenANAmileageclubcard",
+   "reward": "476pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "car.rakuten.co.com",
+   "name": "楽天Car洗車・コーティング",
+   "kana": "ラクテンカーセンシャ・コーティング",
+   "name_en": "RakutenCarSensha・Coating",
+   "reward": "185pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "shaken.rakuten.co.com",
+   "name": "楽天Car車検",
+   "kana": "ラクテンカーシャケン",
+   "name_en": "RakutenCarShaken",
+   "reward": "548pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "rakuten-sec.co.jp-web-fx",
+   "name": "楽天FX",
+   "kana": "ラクテンエフエックス",
+   "name_en": "RakutenFX",
+   "reward": "238pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "gora.golf.rakuten.co.jp",
+   "name": "楽天GORA",
+   "kana": "ラクテンゴーラ",
+   "name_en": "rakuten gora",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "keirin.kdreams.com",
+   "name": "楽天Kドリームス",
+   "kana": "ラクテンケイドリームス",
+   "name_en": "rakutenKdreams",
+   "reward": "50pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "toto.rakuten.com",
+   "name": "楽天toto",
+   "kana": "ラクテントト",
+   "name_en": "Rakuten toto",
+   "reward": "100pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "gnavi.co.jp",
+   "name": "楽天ぐるなびネット予約",
+   "kana": "ラクテングルナビネットヨヤク",
+   "name_en": "Rakuten GURUNAVI Net Yoyaku",
+   "reward": "50pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "insight.rakuten.com",
+   "name": "楽天インサイト",
+   "kana": "ラクテンインサイト",
+   "name_en": "Rakuten Insight",
+   "reward": "250pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "rakuten-card.co.com",
+   "name": "楽天カード",
+   "kana": "ラクテンカード",
+   "name_en": "Rakuten Card",
+   "reward": "476pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "rakuten-card.co.jp-card-rakuten-gold-card",
+   "name": "楽天ゴールドカード",
+   "kana": "ラクテンゴールドカード",
+   "name_en": "Rakutengoldcard",
+   "reward": "476pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "ticket.rakuten.co.jp",
+   "name": "楽天チケット",
+   "kana": "ラクテンチケット",
+   "name_en": "Rakutenticket",
+   "reward": "0.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "travel.rakuten.co.jp.com",
+   "name": "楽天トラベル",
+   "kana": "ラクテントラベル",
+   "name_en": "rakuten travel",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "experiences.travel.rakuten.co.com",
+   "name": "楽天トラベル観光体験",
+   "kana": "ラクテントラベルカンコウタイケン",
+   "name_en": "rakutentravelexperiences",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "beauty.rakuten.com",
+   "name": "楽天ビューティ",
+   "kana": "ラクテンビューティ",
+   "name_en": "rakutenbeauty",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pay.rakuten.co.jp",
+   "name": "楽天ペイ実店舗決済",
+   "kana": "ラクテンペイジツテンポケッサイ",
+   "name_en": "rakutenpay",
+   "reward": "1,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "magazine.rakuten.co.jp",
+   "name": "楽天マガジン",
+   "kana": "ラクテンマガジン",
+   "name_en": "Rakuten Magazine",
+   "reward": "100pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "music.rakuten.co.jp",
+   "name": "楽天ミュージック",
+   "kana": "ラクテンミュージック",
+   "name_en": "Rakuten music",
+   "reward": "250pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "fril.com",
+   "name": "楽天ラクマ【WEB版】",
+   "kana": "ラクテンラクマ",
+   "name_en": "Rakuten Rakuma",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "rakuten-ichiba",
+   "name": "楽天市場",
+   "kana": "ラクテンイチバ",
+   "name_en": "rakutenichiba",
+   "reward": "0.2%",
+   "reward_was": ""
+  },
+  {
+   "slug": "keiba.rakuten.com",
+   "name": "楽天競馬",
+   "kana": "ラクテンケイバ",
+   "name_en": "Rakuten Keiba",
+   "reward": "250pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "rakuten-sec.com",
+   "name": "楽天証券",
+   "kana": "ラクテンショウケン",
+   "name_en": "Rakuten Secrities",
+   "reward": "200pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "rakuten-bank.co.jp",
+   "name": "楽天銀行口座開設",
+   "kana": "ラクテンギンコウコウザカイセツ",
+   "name_en": "Rakuten bank",
+   "reward": "1,500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "hotel.ikenotaira-resort",
+   "name": "池の平ホテル",
+   "kana": "イケノタイラホテル",
+   "name_en": "ikenotairahotel",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "y-aoyama",
+   "name": "洋服の青山オンライン",
+   "kana": "ヨウフクノアオヤマオンラインストア",
+   "name_en": "youhukunoaoyamaonlinestore",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.koikeya.co.com",
+   "name": "湖池屋オンラインショップ",
+   "kana": "コイケヤ",
+   "name_en": "Koikeya",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "minamotobed.jp",
+   "name": "源ベッド",
+   "kana": "ミナモトベッド",
+   "name_en": "minamotobed",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "unashabu.jp",
+   "name": "滋味六感 蓮こん",
+   "kana": "ジミロッカンレンコン",
+   "name_en": "Jimi Rokkan Renkon",
+   "reward": "14.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "mangazenkan.com",
+   "name": "漫画全巻ドットコム",
+   "kana": "マンガゼンカンドットコム",
+   "name_en": "Mangazenkan.com",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "muji.com",
+   "name": "無印良品ネットストア",
+   "kana": "ムジルシリョウヒンネットストア",
+   "name_en": "Mujirushiryohin netstore",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pal-system.co.com",
+   "name": "生協の宅配 パルシステム",
+   "kana": "セイキョウノタクハイ パルシステム",
+   "name_en": "Pal System",
+   "reward": "429pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "u-can.com",
+   "name": "生涯学習のユーキャン",
+   "kana": "ユーキャン",
+   "name_en": "U-CAN",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "folk.co.com",
+   "name": "白衣・事務服のフォーク",
+   "kana": "フォーク",
+   "name_en": "Folk",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nursery",
+   "name": "看護師通販ナースリー",
+   "kana": "ナースリー",
+   "name_en": "nursery",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "science-toyshop.com",
+   "name": "知育玩具名品館",
+   "kana": "チイクガングメイヒンカン",
+   "name_en": "Chiiku Gangu Meihinkan",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "frantz.com",
+   "name": "神戸フランツ",
+   "kana": "コウベフランツ",
+   "name_en": "Kobefrantz",
+   "reward": "4.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "lettuce",
+   "name": "神戸レタス",
+   "kana": "コウベレタス",
+   "name_en": "kobelettuce",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kobeya-online.com",
+   "name": "神戸屋オンラインストア",
+   "kana": "コウベヤオンラインストア",
+   "name_en": "kobeya online store",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kinokuniya",
+   "name": "紀伊國屋書店",
+   "kana": "キノクニヤ",
+   "name_en": "kinokuniya",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nakatafoods.com",
+   "name": "紀州梅の里なかた",
+   "kana": "キシュウウメノサトナカタ",
+   "name_en": "Kisyuumenosatonakata",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "beniharuka.com",
+   "name": "紅茶房",
+   "kana": "ベニサボウ",
+   "name_en": "benisabou",
+   "reward": "10.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "haneda-sanchoku.com",
+   "name": "羽田産直セレクション",
+   "kana": "ハネダサンチョクセレクション",
+   "name_en": "hanedasanchokuselection",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "at_az_com",
+   "name": "育てるタオル",
+   "kana": "ソダテルタオル",
+   "name_en": "sodateru towel",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "cyclemarket.com",
+   "name": "自転車通販サイマ",
+   "kana": "サイマ",
+   "name_en": "cyma",
+   "reward": "1,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "tasuhana.com",
+   "name": "花の定期便 +hana",
+   "kana": "ハナノテイキビン タスハナ",
+   "name_en": "Hananoteikibin Tasuhana",
+   "reward": "500pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "i879",
+   "name": "花キューピット",
+   "kana": "ハナキューピット",
+   "name_en": "hanacupid",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hanabatakebokujo-store.com",
+   "name": "花畑牧場",
+   "kana": "ハナバタケボクジョウ",
+   "name_en": "hanabatakebokujyo",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.florasis.com",
+   "name": "花西子（FLORASIS）",
+   "kana": "フローラシス",
+   "name_en": "FLORASIS",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sokamocka",
+   "name": "草花木果",
+   "kana": "ソウカモッカ",
+   "name_en": "soukamocka",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.giontsujiri.co.com",
+   "name": "衹園辻利",
+   "kana": "ギオンツジリ",
+   "name_en": "Giontsujiri",
+   "reward": "9.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nishikawa-store.com",
+   "name": "西川ストア公式",
+   "kana": "ニシカワストアコウシキ",
+   "name_en": "nishikawastorekoushiki",
+   "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.nishikawa1566.com",
+   "name": "西川公式オンラインショップ",
+   "kana": "ニシカワ",
+   "name_en": "nishikawa",
+   "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "sogo-seibu",
+   "name": "西武・そごう公式オンラインストア e.デパート",
+   "kana": "セイブ・ソゴウ",
+   "name_en": "seibu sogo",
+   "reward": "5.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yomiuri-ryokou.co.jp",
+   "name": "読売旅行",
+   "kana": "ヨミウリリョコウ",
+   "name_en": "yomiuriryokou",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "kai-group.com",
+   "name": "貝印オンラインストア",
+   "kana": "カイジルシ オンラインストア",
+   "name_en": "Kaijirushi Online Store",
+   "reward": "7.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shiseido-jp",
+   "name": "資生堂オンラインストア",
+   "kana": "シセイドウオンラインストア",
+   "name_en": "shiseido onlinstore",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "parlour.shiseido.co.jp",
+   "name": "資生堂パーラー公式オンラインショップ",
+   "kana": "シセイドウパーラー",
+   "name_en": "shiseidoparlour",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "parking-nokisaki.com",
+   "name": "軒先パーキング",
+   "kana": "ノキサキパーキング",
+   "name_en": "nokisakiparking",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "fukusaya.info",
+   "name": "辛子めんたい福さ屋",
+   "kana": "カラシメンタイフクサヤ",
+   "name_en": "karashimentaikofukusaya",
+   "reward": "9.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "knt.co.com",
+   "name": "近畿日本ツーリスト　国内",
+   "kana": "キンキニホンツーリースト コクナイ",
+   "name_en": "kinkinihon tourist kokunai",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "yasaiwomotto.com",
+   "name": "野菜をMOTTO",
+   "kana": "ヤサイヲモット",
+   "name_en": null,
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "ec.kamaboko.com",
+   "name": "鈴廣かまぼこ",
+   "kana": "スズヒロカマボコ",
+   "name_en": "Suzuhiro Kamaboko",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hankyu",
+   "name": "阪急ギフトモール",
+   "kana": "ハンキュウ",
+   "name_en": "hankyu",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "hankyu-dept.com",
+   "name": "阪神ギフトモール",
+   "kana": "ハンシンオンラインショッピング",
+   "name_en": "HANSHIN ONLINE SHOPPING",
+   "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "flagshop",
+   "name": "集英社HAPPY PLUS",
+   "kana": "シュウエイシャハッピープラス",
+   "name_en": "shueishaHAPPY PLUS",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aoyamaflowermarket.com",
+   "name": "青山フラワーマーケット",
+   "kana": "アオヤマフラワーマーケット",
+   "name_en": "aoyamaflowermarket",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aoyamahanamo",
+   "name": "青山花茂本店",
+   "kana": "アオヤマハナモ",
+   "name_en": "aoyamahanamo",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "abcmart",
+   "name": "靴の総合通販:ABC-MART.net",
+   "kana": "エービーシーマート",
+   "name_en": "ABC-MART",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "netoff.co.com",
+   "name": "高価宅配買取ネットオフ",
+   "kana": "コウカタクハイカイトリネットオフ",
+   "name_en": "Net Off",
+   "reward": "最大425pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "takashimaya",
+   "name": "高島屋オンラインストア",
+   "kana": "タカシマヤ",
+   "name_en": "takashimaya",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "takashimaya.co.com",
+   "name": "高島屋コスメサイトTBEAUT",
+   "kana": "タカシマヤコスメサイトティービューティー",
+   "name_en": "takashimayacosmesiteTBEAUT",
+   "reward": "5.0%",
+   "reward_was": ""
+  }
+ ]
+}
