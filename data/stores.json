@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04",
+ "updated": "2026-10-05",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -2430,7 +2430,7 @@
    "name": "Qoo10",
    "kana": "キューテン",
    "name_en": "Qoo10",
-   "reward": "8.0%",
+   "reward": "6.0%",
    "reward_was": ""
   },
   {
