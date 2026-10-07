@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07",
+ "updated": "2026-10-08",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -182,7 +182,7 @@
    "name": "AliExpress",
    "kana": "アリエクスプレス",
    "name_en": "Aliexpress",
-   "reward": "最大8.0%",
+   "reward": "最大3.5%",
    "reward_was": ""
   },
   {
@@ -1198,7 +1198,7 @@
    "name": "H&M",
    "kana": "エイチアンドエム",
    "name_en": "H&M",
-   "reward": "2.5%",
+   "reward": "1.5%",
    "reward_was": ""
   },
   {
@@ -4590,7 +4590,7 @@
    "name": "インナーショップ白鳩",
    "kana": "インナーショップシロハト",
    "name_en": "innershopshirohato",
-   "reward": "3.5%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -4830,7 +4830,7 @@
    "name": "オリーブヤング公式ストア",
    "kana": "オリーブヤング",
    "name_en": "oliveyoung",
-   "reward": "11.0%",
+   "reward": "8.0%",
    "reward_was": ""
   },
   {
@@ -5158,7 +5158,7 @@
    "name": "グレディブリリアン",
    "kana": "グレディブリリアン",
    "name_en": "gready brilliant",
-   "reward": "4.5%",
+   "reward": "6.0%",
    "reward_was": ""
   },
   {
@@ -6014,7 +6014,7 @@
    "name": "ドクターシーラボ",
    "kana": "ドクターシーラボ",
    "name_en": "Dr.CiLabo",
-   "reward": "12.5%",
+   "reward": "15.0%",
    "reward_was": ""
   },
   {
