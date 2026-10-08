@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08",
+ "updated": "2026-10-09",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -2734,7 +2734,7 @@
    "name": "Samsungオンラインショップ",
    "kana": "サムスン",
    "name_en": "Samsung",
-   "reward": "2.5%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -3162,6 +3162,14 @@
    "reward_was": ""
   },
   {
+   "slug": "veritickets.com",
+   "name": "VeriTickets",
+   "kana": "ヴェリチケット",
+   "name_en": "VeriTickets",
+   "reward": "6.0%",
+   "reward_was": ""
+  },
+  {
    "slug": "vimeo.com",
    "name": "Vimeo",
    "kana": "ヴィメオ",
@@ -3307,10 +3315,26 @@
   },
   {
    "slug": "agoda.com",
-   "name": "agoda（アゴダ）",
+   "name": "agoda（アゴダ）宿泊",
    "kana": "アゴダ",
    "name_en": "agoda",
    "reward": "3.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "agoda.com-flights",
+   "name": "agoda（アゴダ）航空券",
+   "kana": "アゴダコウクウケン",
+   "name_en": "agodakoukuuken",
+   "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "agoda.com-activities",
+   "name": "agoda（アゴダ）遊び体験",
+   "kana": "アゴダアソビタイケン",
+   "name_en": "agodaasobitaiken",
+   "reward": "2.5%",
    "reward_was": ""
   },
   {
@@ -3646,7 +3670,7 @@
    "name": "to/one(トーン)",
    "kana": "トーン",
    "name_en": "to/one",
-   "reward": "3.5%",
+   "reward": "4.5%",
    "reward_was": ""
   },
   {
@@ -5334,7 +5358,7 @@
    "name": "サンキューマート",
    "kana": "サンキューマート",
    "name_en": "thankyoumart",
-   "reward": "1.5%",
+   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -6254,7 +6278,7 @@
    "name": "ピザハット",
    "kana": "ピザハット",
    "name_en": "PizzaHut",
-   "reward": "8.0%",
+   "reward": "20.0%",
    "reward_was": ""
   },
   {
@@ -6710,7 +6734,7 @@
    "name": "ムラサキスポーツ",
    "kana": "ムラサキスポーツ",
    "name_en": "murasaki sports",
-   "reward": "3.0%",
+   "reward": "4.0%",
    "reward_was": ""
   },
   {
