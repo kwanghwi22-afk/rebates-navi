@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10",
+ "updated": "2026-10-11",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -398,7 +398,7 @@
    "name": "BURTON",
    "kana": "バートン",
    "name_en": "BURTON",
-   "reward": "3.5%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -5638,7 +5638,7 @@
    "name": "スマモニ",
    "kana": "スマモニ",
    "name_en": "sumamoni",
-   "reward": "5,000pt",
+   "reward": "6,000pt",
    "reward_was": ""
   },
   {
