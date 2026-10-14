@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -362,8 +362,8 @@
    "reward_was": ""
   },
   {
-   "slug": "zzz-land.com",
-   "name": "BRAIN SLEEP STORE",
+   "slug": "brain-sleep.com",
+   "name": "BRAIN SLEEP OFFICIAL SITE",
    "kana": "ブレインスリープ",
    "name_en": "BRAIN SLEEP STORE",
    "reward": "4.5%",
@@ -6098,14 +6098,6 @@
    "reward_was": ""
   },
   {
-   "slug": "i-office1.com",
-   "name": "ネルコンシェルジュ neruco",
-   "kana": "ネルコ",
-   "name_en": "neruco",
-   "reward": "2.5%",
-   "reward_was": ""
-  },
-  {
    "slug": "buy.norton.com",
    "name": "ノートンストア",
    "kana": "ノートンストア",
@@ -6526,7 +6518,7 @@
    "name": "ベルーナグルメ",
    "kana": "ベルーナグルメ",
    "name_en": "belluna gourmet",
-   "reward": "3.5%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -6958,7 +6950,7 @@
    "name": "レゴ公式サイト",
    "kana": "レゴ",
    "name_en": "LEGO",
-   "reward": "4.0%",
+   "reward": "2.5%",
    "reward_was": ""
   },
   {
