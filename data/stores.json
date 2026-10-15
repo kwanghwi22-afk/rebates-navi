@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -110,7 +110,7 @@
    "name": "ANAトラベラーズ",
    "kana": "エーエヌエー",
    "name_en": "ANA",
-   "reward": "1.5%",
+   "reward": "1.0%",
    "reward_was": ""
   },
   {
@@ -786,6 +786,14 @@
    "reward_was": ""
   },
   {
+   "slug": "dell",
+   "name": "Dell",
+   "kana": "デル",
+   "name_en": "dell",
+   "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
    "slug": "desigual.com",
    "name": "Desigual【海外ストア】",
    "kana": "デシグアル",
@@ -918,7 +926,7 @@
    "name": "EXETIME",
    "kana": "エグゼタイム",
    "name_en": "EXETIME",
-   "reward": "2.5%",
+   "reward": "6.0%",
    "reward_was": ""
   },
   {
@@ -1294,7 +1302,7 @@
    "name": "HP公式オンラインストア",
    "kana": "エイチピー",
    "name_en": "HP",
-   "reward": "4.5%",
+   "reward": "3.0%",
    "reward_was": ""
   },
   {
@@ -1551,6 +1559,14 @@
    "kana": "ジェイティービーショッピング",
    "name_en": "JTBSHOPPING",
    "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jtb-gift.com",
+   "name": "JTBデジタルギフト「してね」",
+   "kana": "ジェイティービーデジタルギフトシテネ",
+   "name_en": "JTBdigitalgiftshitene",
+   "reward": "3.0%",
    "reward_was": ""
   },
   {
@@ -2270,7 +2286,7 @@
    "name": "PAL CLOSET",
    "kana": "パルクローゼット",
    "name_en": "PAL CLOSET",
-   "reward": "1.5%",
+   "reward": "2.0%",
    "reward_was": ""
   },
   {
@@ -2546,6 +2562,14 @@
    "reward_was": ""
   },
   {
+   "slug": "jp.rokid.com",
+   "name": "Rokid スマートAIグラス",
+   "kana": "ロキッドスマートエーアイグラス",
+   "name_en": "RokidsmartAIglasses",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
    "slug": "ropping.tv-asahi.com",
    "name": "Ropping(ロッピング)",
    "kana": "ロッピング",
@@ -2607,6 +2631,14 @@
    "kana": "シェルター",
    "name_en": "SHEL'TTER",
    "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shipsltd.co.com",
+   "name": "SHIPS（シップス）",
+   "kana": "シップス",
+   "name_en": "SHIPS",
+   "reward": "2.0%",
    "reward_was": ""
   },
   {
@@ -3754,6 +3786,14 @@
    "reward_was": ""
   },
   {
+   "slug": "moumantime.android",
+   "name": "【Android】モーマンタイム",
+   "kana": "モーマンタイム",
+   "name_en": "moumantime",
+   "reward": "最大5,070pt",
+   "reward_was": ""
+  },
+  {
    "slug": "tokyodebunker.android",
    "name": "【Android】東京ディバンカー",
    "kana": "トウキョウディバンカー",
@@ -3823,6 +3863,14 @@
    "kana": "パズルアンドサバイバル",
    "name_en": "puzzleandsurvival",
    "reward": "最大6,506pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "moumantime.ios",
+   "name": "【iOS】モーマンタイム",
+   "kana": "モーマンタイム",
+   "name_en": "moumantime",
+   "reward": "最大5,070pt",
    "reward_was": ""
   },
   {
@@ -4846,7 +4894,7 @@
    "name": "オリーブヤング公式ストア",
    "kana": "オリーブヤング",
    "name_en": "oliveyoung",
-   "reward": "8.0%",
+   "reward": "12.0%",
    "reward_was": ""
   },
   {
@@ -5438,7 +5486,7 @@
    "name": "シャディギフトモール",
    "kana": "シャディギフトモール",
    "name_en": "shaddygiftmall",
-   "reward": "2.5%",
+   "reward": "11.0%",
    "reward_was": ""
   },
   {
@@ -7286,7 +7334,7 @@
    "name": "小田急オンラインショッピング",
    "kana": "オダキュウ",
    "name_en": "Odakyu",
-   "reward": "4.5%",
+   "reward": "6.0%",
    "reward_was": ""
   },
   {
