@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18",
+ "updated": "2026-10-19",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -3694,7 +3694,7 @@
    "name": "to/one(トーン)",
    "kana": "トーン",
    "name_en": "to/one",
-   "reward": "4.5%",
+   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -5630,7 +5630,7 @@
    "name": "スターバックス公式オンラインストア",
    "kana": "スターバックス",
    "name_en": "starbucks",
-   "reward": "3.0%",
+   "reward": "1.0%",
    "reward_was": ""
   },
   {
