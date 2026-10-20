@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -702,7 +702,7 @@
    "name": "DECOチョコ",
    "kana": "デコチョコ",
    "name_en": "DECO Choco",
-   "reward": "6.0%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -718,7 +718,7 @@
    "name": "DHC",
    "kana": "ディーエイチシー",
    "name_en": "dhc",
-   "reward": "2.5%",
+   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -2527,22 +2527,6 @@
    "kana": "リラックス",
    "name_en": "Relux",
    "reward": "1.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "renta",
-   "name": "Renta!",
-   "kana": "レンタ！",
-   "name_en": "Renta!",
-   "reward": "3.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "renta.papy.co.jp",
-   "name": "Renta! 新規会員",
-   "kana": "レンタ！シンキカイイン",
-   "name_en": "Renta! Sinkikaiin",
-   "reward": "200pt",
    "reward_was": ""
   },
   {
@@ -4974,7 +4958,7 @@
    "name": "カステルバジャック",
    "kana": "カステルバジャック",
    "name_en": "Castelbajac",
-   "reward": "5.0%",
+   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -5239,14 +5223,6 @@
    "kana": "ケーズデンキ",
    "name_en": "ksdenki",
    "reward": "1.0%",
-   "reward_was": ""
-  },
-  {
-   "slug": "geo-arekore.com",
-   "name": "ゲオあれこれレンタル",
-   "kana": "ゲオあれこれレンタル",
-   "name_en": "Geoarekorerental",
-   "reward": "4.5%",
    "reward_was": ""
   },
   {
@@ -6374,7 +6350,7 @@
    "name": "フェリシモ",
    "kana": "フェリシモ",
    "name_en": "felissimo",
-   "reward": "7.0%",
+   "reward": "3.0%",
    "reward_was": ""
   },
   {
@@ -6494,7 +6470,7 @@
    "name": "プーマ公式ストア",
    "kana": "プーマ",
    "name_en": "puma",
-   "reward": "4.5%",
+   "reward": "7.5%",
    "reward_was": ""
   },
   {
