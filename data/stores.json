@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -711,6 +711,14 @@
    "kana": "デリーモ",
    "name_en": "DEL'IMMO",
    "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "store.dreast.jp",
+   "name": "DERIT TECH",
+   "kana": "デリットテック",
+   "name_en": "DERIT TECH",
+   "reward": "4.5%",
    "reward_was": ""
   },
   {
@@ -2103,6 +2111,14 @@
    "kana": "ナビタイムトラベル",
    "name_en": "NAVITIME Travel",
    "reward": "1.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "nbastore.jp",
+   "name": "NBA公式オンラインストア",
+   "kana": "エヌビーエー",
+   "name_en": "NBA",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -6530,14 +6546,6 @@
    "reward_was": ""
   },
   {
-   "slug": "babyrenta.com",
-   "name": "ベビレンタ",
-   "kana": "ベビレンタ",
-   "name_en": "babyrenta",
-   "reward": "5.0%",
-   "reward_was": ""
-  },
-  {
    "slug": "bellemaison-jp",
    "name": "ベルメゾン",
    "kana": "ベルメゾン",
@@ -6814,7 +6822,7 @@
    "name": "ユアマイスター",
    "kana": "ユアマイスター",
    "name_en": "yourmystar",
-   "reward": "6.5%",
+   "reward": "4.5%",
    "reward_was": ""
   },
   {
@@ -6886,7 +6894,7 @@
    "name": "リコレ！ソフマップの中古通販サイト",
    "kana": "リコレ！ソフマップノチュウコハンバイサイト",
    "name_en": "rikore sofmap",
-   "reward": "1.5%",
+   "reward": "2.0%",
    "reward_was": ""
   },
   {
@@ -6903,14 +6911,6 @@
    "kana": "リライブシャツ",
    "name_en": "reliveshirt",
    "reward": "4.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "liliarge.com",
-   "name": "リリアージュ",
-   "kana": "リリアージュ",
-   "name_en": "liliarge",
-   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -7127,14 +7127,6 @@
    "kana": "ワッツマトメガイプラスオンライン",
    "name_en": "watts online",
    "reward": "1.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "onepiece-rental.net",
-   "name": "ワンピの魔法",
-   "kana": "ワンピノマホウ",
-   "name_en": "wanpinomahou",
-   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -7734,7 +7726,7 @@
    "name": "無印良品ネットストア",
    "kana": "ムジルシリョウヒンネットストア",
    "name_en": "Mujirushiryohin netstore",
-   "reward": "1.5%",
+   "reward": "3.0%",
    "reward_was": ""
   },
   {
@@ -7942,7 +7934,7 @@
    "name": "資生堂オンラインストア",
    "kana": "シセイドウオンラインストア",
    "name_en": "shiseido onlinstore",
-   "reward": "1.0%",
+   "reward": "9.0%",
    "reward_was": ""
   },
   {
