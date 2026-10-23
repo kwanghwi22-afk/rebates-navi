@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -2102,7 +2102,7 @@
    "name": "NARS公式オンラインショップ",
    "kana": "ナーズ",
    "name_en": "NARS",
-   "reward": "2.5%",
+   "reward": "6.0%",
    "reward_was": ""
   },
   {
@@ -2342,7 +2342,7 @@
    "name": "PLST",
    "kana": "プラステ",
    "name_en": "plst",
-   "reward": "1.5%",
+   "reward": "4.0%",
    "reward_was": ""
   },
   {
@@ -3694,7 +3694,7 @@
    "name": "to/one(トーン)",
    "kana": "トーン",
    "name_en": "to/one",
-   "reward": "3.5%",
+   "reward": "4.5%",
    "reward_was": ""
   },
   {
@@ -4218,14 +4218,6 @@
    "reward_was": ""
   },
   {
-   "slug": "aquaclara.co.jp",
-   "name": "アクアクララ",
-   "kana": "アクアクララ",
-   "name_en": "Aquaclara",
-   "reward": "5,000pt",
-   "reward_was": ""
-  },
-  {
    "slug": "shop.axesfemme.com",
    "name": "アクシーズファム",
    "kana": "アクシーズファム",
@@ -4654,7 +4646,7 @@
    "name": "インナーショップ白鳩",
    "kana": "インナーショップシロハト",
    "name_en": "innershopshirohato",
-   "reward": "3.5%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -4898,14 +4890,6 @@
    "reward_was": ""
   },
   {
-   "slug": "orbis-jp",
-   "name": "オルビス",
-   "kana": "オルビス",
-   "name_en": "orbis",
-   "reward": "最大15.0%",
-   "reward_was": ""
-  },
-  {
    "slug": "od.ignica.com",
    "name": "オンラインデリバリーイグニカ（マルエツ・カスミのネットスーパー）",
    "kana": "オンラインデリバリーイグニカ（マルエツ・カスミノネットスーパー）",
@@ -5058,14 +5042,6 @@
    "reward_was": ""
   },
   {
-   "slug": "carclub.com",
-   "name": "カー用品専門店CARCLUB",
-   "kana": "カーヨウヒンセンモンテンカークラブ",
-   "name_en": "CARCLUB",
-   "reward": "5.0%",
-   "reward_was": ""
-  },
-  {
    "slug": "carry-on",
    "name": "キャリーオン",
    "kana": "キャリーオン",
@@ -5198,7 +5174,7 @@
    "name": "クロックス",
    "kana": "クロックス",
    "name_en": "crocs",
-   "reward": "3.5%",
+   "reward": "7.5%",
    "reward_was": ""
   },
   {
@@ -6486,7 +6462,7 @@
    "name": "プーマ公式ストア",
    "kana": "プーマ",
    "name_en": "puma",
-   "reward": "7.5%",
+   "reward": "4.5%",
    "reward_was": ""
   },
   {
@@ -6666,14 +6642,6 @@
    "reward_was": ""
   },
   {
-   "slug": "manara.jp",
-   "name": "マナラ",
-   "kana": "マナラ",
-   "name_en": "manara",
-   "reward": "20pt",
-   "reward_was": ""
-  },
-  {
    "slug": "natural-s.com",
    "name": "ママ＆キッズ/ナチュラルサイエンス公式",
    "kana": "ママアンドキッズ/ナチュラルサイエンス",
@@ -6694,7 +6662,7 @@
    "name": "マルイウェブチャネル",
    "kana": "マルイ",
    "name_en": "marui",
-   "reward": "2.5%",
+   "reward": "4.0%",
    "reward_was": ""
   },
   {
@@ -6847,14 +6815,6 @@
    "kana": "ラコステ",
    "name_en": "Lacoste",
    "reward": "2.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "la-sana",
-   "name": "ラサーナ公式通販",
-   "kana": "ラサーナ",
-   "name_en": "lasana",
-   "reward": "5.0%",
    "reward_was": ""
   },
   {
