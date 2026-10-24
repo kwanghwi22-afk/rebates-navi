@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -38,7 +38,7 @@
    "name": "@cosme SHOPPING",
    "kana": "アットコスメ",
    "name_en": "＠cosme",
-   "reward": "3.0%",
+   "reward": "1.5%",
    "reward_was": ""
   },
   {
@@ -430,7 +430,7 @@
    "name": "Booking.com",
    "kana": "ブッキングドットコム",
    "name_en": "Booking.com",
-   "reward": "7.0%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -1614,7 +1614,7 @@
    "name": "Joshin",
    "kana": "ジョーシン",
    "name_en": "joshin",
-   "reward": "3.0%",
+   "reward": "1.0%",
    "reward_was": ""
   },
   {
@@ -2758,7 +2758,7 @@
    "name": "Samsungオンラインショップ",
    "kana": "サムスン",
    "name_en": "Samsung",
-   "reward": "12.0%",
+   "reward": "10.0%",
    "reward_was": ""
   },
   {
@@ -3910,7 +3910,7 @@
    "name": "【地域限定】イオンネットスーパー",
    "kana": "イオンネットスーパー",
    "name_en": "aeonnetsuper",
-   "reward": "3.0%",
+   "reward": "1.0%",
    "reward_was": ""
   },
   {
@@ -4766,7 +4766,7 @@
    "name": "エクスペディア（ホテル）",
    "kana": "エクスペディア",
    "name_en": "Expedia",
-   "reward": "10.0%",
+   "reward": "9.0%",
    "reward_was": ""
   },
   {
@@ -4886,7 +4886,7 @@
    "name": "オリーブヤング公式ストア",
    "kana": "オリーブヤング",
    "name_en": "oliveyoung",
-   "reward": "9.0%",
+   "reward": "8.5%",
    "reward_was": ""
   },
   {
@@ -7110,7 +7110,7 @@
    "name": "三越伊勢丹オンラインストア",
    "kana": "ミツコシイセタン",
    "name_en": "mitsukoshi isetan",
-   "reward": "7.0%",
+   "reward": "5.5%",
    "reward_was": ""
   },
   {
@@ -7926,7 +7926,7 @@
    "name": "近畿日本ツーリスト　国内",
    "kana": "キンキニホンツーリースト コクナイ",
    "name_en": "kinkinihon tourist kokunai",
-   "reward": "4.5%",
+   "reward": "3.0%",
    "reward_was": ""
   },
   {
