@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -623,14 +623,6 @@
    "kana": "コロソ",
    "name_en": "Coloso",
    "reward": "5.0%",
-   "reward_was": ""
-  },
-  {
-   "slug": "conoha.com",
-   "name": "ConoHa WING",
-   "kana": "コノハウィング",
-   "name_en": "ConoHa WING",
-   "reward": "500pt",
    "reward_was": ""
   },
   {
@@ -2302,7 +2294,7 @@
    "name": "PAL CLOSET",
    "kana": "パルクローゼット",
    "name_en": "PAL CLOSET",
-   "reward": "2.0%",
+   "reward": "1.5%",
    "reward_was": ""
   },
   {
@@ -2798,7 +2790,7 @@
    "name": "SharkNinja公式オンラインストア",
    "kana": "シャークニンジャ",
    "name_en": "SharkNinja",
-   "reward": "3.0%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -3231,14 +3223,6 @@
    "kana": "ワコールウェブストア",
    "name_en": "WACOAL WEB STORE",
    "reward": "2.0%",
-   "reward_was": ""
-  },
-  {
-   "slug": "wester-mall",
-   "name": "WESTERモール",
-   "kana": "ウェスターモール",
-   "name_en": "WESTER Mall",
-   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -5778,14 +5762,6 @@
    "reward_was": ""
   },
   {
-   "slug": "btimes.com",
-   "name": "タイムズのB",
-   "kana": "タイムズノビィ",
-   "name_en": "B-times",
-   "reward": "3.5%",
-   "reward_was": ""
-  },
-  {
    "slug": "t-fashion.com",
    "name": "タカシマヤファッションスクエア",
    "kana": "タカシマヤファッションスクエア",
@@ -6271,14 +6247,6 @@
    "kana": "ビバホームオンライン",
    "name_en": "vivahomeonline",
    "reward": "2.0%",
-   "reward_was": ""
-  },
-  {
-   "slug": "pierreherme.com",
-   "name": "ピエール・エルメ・パリ 公式オンラインブティック",
-   "kana": "ピエールエルメ",
-   "name_en": "Pierreherme",
-   "reward": "2.5%",
    "reward_was": ""
   },
   {
@@ -6798,7 +6766,7 @@
    "name": "ユアマイスター",
    "kana": "ユアマイスター",
    "name_en": "yourmystar",
-   "reward": "4.5%",
+   "reward": "6.5%",
    "reward_was": ""
   },
   {
