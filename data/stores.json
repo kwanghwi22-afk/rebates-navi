@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -1231,14 +1231,6 @@
    "kana": "ハネダショッピング",
    "name_en": "HANEDA Shopping",
    "reward": "4.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "hh-online.com",
-   "name": "HANKYU HANSHIN E-STORES",
-   "kana": "ハンキュウイーストア",
-   "name_en": "HANKYU E-STORES",
-   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -3326,7 +3318,7 @@
    "name": "agoda（アゴダ）宿泊",
    "kana": "アゴダ",
    "name_en": "agoda",
-   "reward": "6.0%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -3550,7 +3542,7 @@
    "name": "iHerb(アイハーブ)【海外ストア】",
    "kana": "アイハーブ",
    "name_en": "iHerb",
-   "reward": "最大20.0%",
+   "reward": "最大16.0%",
    "reward_was": ""
   },
   {
@@ -3678,7 +3670,7 @@
    "name": "to/one(トーン)",
    "kana": "トーン",
    "name_en": "to/one",
-   "reward": "4.5%",
+   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -3719,14 +3711,6 @@
    "kana": "ミレーコウシキオンラインストア",
    "name_en": "MILLET koshiki online store",
    "reward": "9.0%",
-   "reward_was": ""
-  },
-  {
-   "slug": "allinhole.android",
-   "name": "【Android】All in Hole",
-   "kana": "オールインホール",
-   "name_en": "All in Hole",
-   "reward": "最大1,387pt",
    "reward_was": ""
   },
   {
@@ -3790,7 +3774,7 @@
    "name": "【DEPACO】大丸松坂屋コスメオンラインストア",
    "kana": "デパコダイマルマツザカヤコスメオンラインストア",
    "name_en": "DEPACOdaimarumatsuzakayacosmeonlinestore",
-   "reward": "15.0%",
+   "reward": "10.0%",
    "reward_was": ""
   },
   {
@@ -3799,14 +3783,6 @@
    "kana": "クルック",
    "name_en": "Klook",
    "reward": "2.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "allinhole.ios",
-   "name": "【iOS】All in Hole",
-   "kana": "オールインホール",
-   "name_en": "All in Hole",
-   "reward": "最大1,596pt",
    "reward_was": ""
   },
   {
@@ -4270,7 +4246,7 @@
    "name": "アディダス｜adidas 公式オンラインショップ",
    "kana": "アディダス",
    "name_en": "adidas",
-   "reward": "7.0%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -6214,7 +6190,7 @@
    "name": "ビックカメラ.com",
    "kana": "ビックカメラ",
    "name_en": "biccamera",
-   "reward": "5.0%",
+   "reward": "3.0%",
    "reward_was": ""
   },
   {
@@ -6254,7 +6230,7 @@
    "name": "ピザハット",
    "kana": "ピザハット",
    "name_en": "PizzaHut",
-   "reward": "20.0%",
+   "reward": "19.5%",
    "reward_was": ""
   },
   {
@@ -6542,7 +6518,7 @@
    "name": "ホテルズドットコム",
    "kana": "ホテルズドットコム",
    "name_en": "Hotels.com",
-   "reward": "9.0%",
+   "reward": "8.0%",
    "reward_was": ""
   },
   {
@@ -7198,7 +7174,7 @@
    "name": "大丸松坂屋オンラインストア",
    "kana": "ダイマルマツザカヤ",
    "name_en": "daimarumatsuzakaya",
-   "reward": "15.0%",
+   "reward": "8.0%",
    "reward_was": ""
   },
   {
@@ -7911,22 +7887,6 @@
    "kana": "スズヒロカマボコ",
    "name_en": "Suzuhiro Kamaboko",
    "reward": "4.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "hankyu",
-   "name": "阪急ギフトモール",
-   "kana": "ハンキュウ",
-   "name_en": "hankyu",
-   "reward": "1.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "hankyu-dept.com",
-   "name": "阪神ギフトモール",
-   "kana": "ハンシンオンラインショッピング",
-   "name_en": "HANSHIN ONLINE SHOPPING",
-   "reward": "1.5%",
    "reward_was": ""
   },
   {
