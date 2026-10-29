@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -254,7 +254,7 @@
    "name": "Apple公式サイト",
    "kana": "アップル",
    "name_en": "apple",
-   "reward": "最大4.0%",
+   "reward": "最大5.0%",
    "reward_was": ""
   },
   {
@@ -718,7 +718,7 @@
    "name": "DHC",
    "kana": "ディーエイチシー",
    "name_en": "dhc",
-   "reward": "8.0%",
+   "reward": "10.0%",
    "reward_was": ""
   },
   {
@@ -1390,7 +1390,7 @@
    "name": "ISETAN BEAUTY online",
    "kana": "イセタンビューティーオンライン",
    "name_en": "ISETAN BEAUTY online",
-   "reward": "7.0%",
+   "reward": "9.0%",
    "reward_was": ""
   },
   {
@@ -1566,7 +1566,7 @@
    "name": "JTB国内旅行",
    "kana": "ジェイティービー",
    "name_en": "JTB",
-   "reward": "3.0%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -2062,7 +2062,7 @@
    "name": "Moda Operandi【海外ストア】",
    "kana": "モーダオペランディ",
    "name_en": "Moda Operandi",
-   "reward": "最大4.0%",
+   "reward": "2.0%",
    "reward_was": ""
   },
   {
@@ -2498,22 +2498,6 @@
    "reward_was": ""
   },
   {
-   "slug": "vacation-stay.com",
-   "name": "Rakuten Oyado",
-   "kana": "ラクテンオヤド",
-   "name_en": "Rakuten Oyado",
-   "reward": "2.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "rakuten-stay.com",
-   "name": "Rakuten STAY",
-   "kana": "ラクテンステイ",
-   "name_en": "RakutenSTAY",
-   "reward": "2.5%",
-   "reward_was": ""
-  },
-  {
    "slug": "recoverysleep.com",
    "name": "Recovery Sleep",
    "kana": "リカバリースリープ",
@@ -2606,7 +2590,7 @@
    "name": "SHEIN（シーイン）【海外ストア】",
    "kana": "シーイン",
    "name_en": "SHEIN",
-   "reward": "最大16.0%",
+   "reward": "最大18.0%",
    "reward_was": ""
   },
   {
@@ -2742,7 +2726,7 @@
    "name": "Samsungオンラインショップ",
    "kana": "サムスン",
    "name_en": "Samsung",
-   "reward": "10.0%",
+   "reward": "11.0%",
    "reward_was": ""
   },
   {
@@ -3134,7 +3118,7 @@
    "name": "VAIOストア",
    "kana": "バイオ",
    "name_en": "VAIO",
-   "reward": "10.0%",
+   "reward": "11.0%",
    "reward_was": ""
   },
   {
@@ -5526,7 +5510,7 @@
    "name": "スカイスキャナー",
    "kana": "スカイスキャナー",
    "name_en": "skyscanner",
-   "reward": "最大4.5%",
+   "reward": "最大5.0%",
    "reward_was": ""
   },
   {
@@ -5799,6 +5783,14 @@
    "kana": "ダニエルウェリントン",
    "name_en": "danielwellington",
    "reward": "6.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "notosiki.co.jp",
+   "name": "ダンボールワン",
+   "kana": "ダンボールワン",
+   "name_en": "Danball One",
+   "reward": "4.0%",
    "reward_was": ""
   },
   {
@@ -6566,7 +6558,7 @@
    "name": "マウスコンピューター",
    "kana": "マウスコンピューター",
    "name_en": "mousecomputer",
-   "reward": "12.0%",
+   "reward": "15.0%",
    "reward_was": ""
   },
   {
@@ -7838,7 +7830,7 @@
    "name": "資生堂オンラインストア",
    "kana": "シセイドウオンラインストア",
    "name_en": "shiseido onlinstore",
-   "reward": "9.0%",
+   "reward": "10.0%",
    "reward_was": ""
   },
   {
@@ -7934,7 +7926,7 @@
    "name": "高島屋オンラインストア",
    "kana": "タカシマヤ",
    "name_en": "takashimaya",
-   "reward": "5.0%",
+   "reward": "7.0%",
    "reward_was": ""
   },
   {
@@ -7942,7 +7934,7 @@
    "name": "高島屋コスメサイトTBEAUT",
    "kana": "タカシマヤコスメサイトティービューティー",
    "name_en": "takashimayacosmesiteTBEAUT",
-   "reward": "5.0%",
+   "reward": "7.0%",
    "reward_was": ""
   }
  ]
