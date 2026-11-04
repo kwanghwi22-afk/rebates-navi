@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -182,7 +182,7 @@
    "name": "AliExpress",
    "kana": "アリエクスプレス",
    "name_en": "Aliexpress",
-   "reward": "最大3.5%",
+   "reward": "最大9.0%",
    "reward_was": ""
   },
   {
@@ -470,7 +470,7 @@
    "name": "CAGUUU",
    "kana": "カグー",
    "name_en": "CAGUUU",
-   "reward": "4.5%",
+   "reward": "3.0%",
    "reward_was": ""
   },
   {
@@ -558,7 +558,7 @@
    "name": "Cake.jp",
    "kana": "ケーキジェーピー",
    "name_en": "Cake.jp",
-   "reward": "3.0%",
+   "reward": "4.5%",
    "reward_was": ""
   },
   {
@@ -3006,7 +3006,7 @@
    "name": "Trip.com（ホテル）",
    "kana": "トリップドットコムホテル",
    "name_en": "Trip.com hotel",
-   "reward": "3.0%",
+   "reward": "6.0%",
    "reward_was": ""
   },
   {
@@ -3014,7 +3014,7 @@
    "name": "Trip.com（航空券）",
    "kana": "トリップドットコムコウクウケン",
    "name_en": "Trip.com koukuken",
-   "reward": "1.0%",
+   "reward": "3.0%",
    "reward_was": ""
   },
   {
@@ -3094,7 +3094,7 @@
    "name": "Udemy",
    "kana": "ユーデミー",
    "name_en": "udemy",
-   "reward": "5.0%",
+   "reward": "最大10.0%",
    "reward_was": ""
   },
   {
@@ -5726,7 +5726,7 @@
    "name": "ダイソン公式オンラインストア",
    "kana": "ダイソン",
    "name_en": "dyson",
-   "reward": "2.5%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -6190,7 +6190,7 @@
    "name": "ピザハット",
    "kana": "ピザハット",
    "name_en": "PizzaHut",
-   "reward": "20.0%",
+   "reward": "8.0%",
    "reward_was": ""
   },
   {
@@ -7070,7 +7070,7 @@
    "name": "伊藤久右衛門",
    "kana": "イトウキュウエモン",
    "name_en": "itohkyuemon",
-   "reward": "4.5%",
+   "reward": "7.0%",
    "reward_was": ""
   },
   {
@@ -7078,7 +7078,7 @@
    "name": "元禄三年創業　山本山",
    "kana": "ヤマモトヤマ",
    "name_en": "yamamotoyama",
-   "reward": "5.0%",
+   "reward": "7.5%",
    "reward_was": ""
   },
   {
@@ -7574,7 +7574,7 @@
    "name": "無印良品ネットストア",
    "kana": "ムジルシリョウヒンネットストア",
    "name_en": "Mujirushiryohin netstore",
-   "reward": "3.0%",
+   "reward": "1.5%",
    "reward_was": ""
   },
   {
