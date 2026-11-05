@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -430,7 +430,7 @@
    "name": "Booking.com",
    "kana": "ブッキングドットコム",
    "name_en": "Booking.com",
-   "reward": "3.0%",
+   "reward": "4.0%",
    "reward_was": ""
   },
   {
@@ -1794,6 +1794,14 @@
    "reward_was": ""
   },
   {
+   "slug": "lightfx.jp",
+   "name": "LIGHT FX",
+   "kana": "ライトエフエックス",
+   "name_en": "LIGHT FX",
+   "reward": "16,000pt",
+   "reward_was": ""
+  },
+  {
    "slug": "lionheart-store.com",
    "name": "LION HEART",
    "kana": "ライオンハート",
@@ -2430,7 +2438,7 @@
    "name": "Qoo10",
    "kana": "キューテン",
    "name_en": "Qoo10",
-   "reward": "8.0%",
+   "reward": "10.0%",
    "reward_was": ""
   },
   {
@@ -4039,6 +4047,22 @@
    "kana": "プリントガクフ",
    "name_en": "Print Gakufu",
    "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "min-fx.jp",
+   "name": "みんなのFX",
+   "kana": "ミンナノエフエックス",
+   "name_en": "minnanoFX",
+   "reward": "16,000pt",
+   "reward_was": ""
+  },
+  {
+   "slug": "min-fx.jp-st",
+   "name": "みんなのシストレ",
+   "kana": "ミンナノシストレ",
+   "name_en": "minnanoshishutore",
+   "reward": "10,000pt",
    "reward_was": ""
   },
   {
@@ -6778,6 +6802,14 @@
    "reward_was": ""
   },
   {
+   "slug": "liliarge.com",
+   "name": "リリアージュ",
+   "kana": "リリアージュ",
+   "name_en": "liliarge",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
    "slug": "lindtchocolate.com",
    "name": "リンツ・チョコレート",
    "kana": "リンツ・チョコレート",
@@ -6954,6 +6986,14 @@
    "reward_was": ""
   },
   {
+   "slug": "loccitane-jp",
+   "name": "ロクシタン オンラインショップ",
+   "kana": "ロクシタン",
+   "name_en": "L'Occitane",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
    "slug": "lofty.co.jp",
    "name": "ロフテー公式オンラインストア",
    "kana": "ロフテー",
@@ -6994,6 +7034,14 @@
    "reward_was": ""
   },
   {
+   "slug": "onepiece-rental.net",
+   "name": "ワンピの魔法",
+   "kana": "ワンピノマホウ",
+   "name_en": "wanpinomahou",
+   "reward": "3.5%",
+   "reward_was": ""
+  },
+  {
    "slug": "victoriagolf-xebio-online",
    "name": "ヴィクトリアゴルフ",
    "kana": "ヴィクトリアゴルフ",
@@ -7022,7 +7070,7 @@
    "name": "中古車買取カーネクスト",
    "kana": "チュウコシャカイトリカーネクスト",
    "name_en": "Carnext",
-   "reward": "10,000pt",
+   "reward": "15,000pt",
    "reward_was": ""
   },
   {
@@ -7414,7 +7462,7 @@
    "name": "楽天インサイト",
    "kana": "ラクテンインサイト",
    "name_en": "Rakuten Insight",
-   "reward": "93pt",
+   "reward": "250pt",
    "reward_was": ""
   },
   {
@@ -7582,7 +7630,7 @@
    "name": "生協の宅配 パルシステム",
    "kana": "セイキョウノタクハイ パルシステム",
    "name_en": "Pal System",
-   "reward": "429pt",
+   "reward": "1,000pt",
    "reward_was": ""
   },
   {
