@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -1710,7 +1710,7 @@
    "name": "Koh Gen Do 公式オンラインショップ",
    "kana": "コウゲンドウ",
    "name_en": "KohGenDo",
-   "reward": "4.5%",
+   "reward": "10.0%",
    "reward_was": ""
   },
   {
@@ -6214,7 +6214,7 @@
    "name": "ピザハット",
    "kana": "ピザハット",
    "name_en": "PizzaHut",
-   "reward": "20.0%",
+   "reward": "8.0%",
    "reward_was": ""
   },
   {
