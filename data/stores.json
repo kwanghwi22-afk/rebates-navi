@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -6558,7 +6558,7 @@
    "name": "マイプロテイン",
    "kana": "マイプロテイン",
    "name_en": "myprotein",
-   "reward": "最大14.0%",
+   "reward": "最大8.0%",
    "reward_was": ""
   },
   {
@@ -7414,7 +7414,7 @@
    "name": "柿の葉寿司のゐざさ",
    "kana": "カキノハスシノイザサ",
    "name_en": "Kakinohasushinoizasa",
-   "reward": "10.0%",
+   "reward": "7.5%",
    "reward_was": ""
   },
   {
