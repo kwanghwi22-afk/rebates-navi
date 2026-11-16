@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -926,7 +926,7 @@
    "name": "EXETIME",
    "kana": "エグゼタイム",
    "name_en": "EXETIME",
-   "reward": "6.0%",
+   "reward": "2.5%",
    "reward_was": ""
   },
   {
@@ -6046,7 +6046,7 @@
    "name": "ニューバランス公式オンラインアウトレット",
    "kana": "ニューバランスコウシキオンラインアウトレット",
    "name_en": "New Balance Official Online Outlet",
-   "reward": "4.0%",
+   "reward": "1.0%",
    "reward_was": ""
   },
   {
