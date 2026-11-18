@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -6631,14 +6631,6 @@
    "kana": "ミシンノオズ",
    "name_en": "mishin no ozu",
    "reward": "4.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "mizunoshop",
-   "name": "ミズノ公式オンラインショップ",
-   "kana": "ミズノ",
-   "name_en": "mizuno",
-   "reward": "2.5%",
    "reward_was": ""
   },
   {
