@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -182,7 +182,7 @@
    "name": "AliExpress",
    "kana": "アリエクスプレス",
    "name_en": "Aliexpress",
-   "reward": "最大9.0%",
+   "reward": "最大12.0%",
    "reward_was": ""
   },
   {
@@ -855,6 +855,14 @@
    "kana": "イーシーカレント",
    "name_en": "EC Current",
    "reward": "1.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "shop.elecom-hc.co.jp",
+   "name": "ELECOM Healthcare",
+   "kana": "エレコムヘルスケア",
+   "name_en": "ELECOMHealthcare",
+   "reward": "7.5%",
    "reward_was": ""
   },
   {
@@ -3318,7 +3326,7 @@
    "name": "agoda（アゴダ）宿泊",
    "kana": "アゴダ",
    "name_en": "agoda",
-   "reward": "5.0%",
+   "reward": "3.0%",
    "reward_was": ""
   },
   {
@@ -3486,7 +3494,7 @@
    "name": "est（エスト）公式オンラインショップ",
    "kana": "エスト",
    "name_en": "est",
-   "reward": "2.0%",
+   "reward": "6.0%",
    "reward_was": ""
   },
   {
@@ -5230,7 +5238,7 @@
    "name": "コスメキッチン",
    "kana": "コスメキッチン",
    "name_en": "cosmekitchen",
-   "reward": "3.5%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -5438,7 +5446,7 @@
    "name": "ショップジャパン",
    "kana": "ショップジャパン",
    "name_en": "shopjapan",
-   "reward": "4.0%",
+   "reward": "7.5%",
    "reward_was": ""
   },
   {
@@ -5574,7 +5582,7 @@
    "name": "スナイデルビューティ",
    "kana": "スナイデルビューティ",
    "name_en": "SNIDEL BEAUTY",
-   "reward": "3.5%",
+   "reward": "4.0%",
    "reward_was": ""
   },
   {
@@ -7575,14 +7583,6 @@
    "kana": "ラクテンケイバ",
    "name_en": "Rakuten Keiba",
    "reward": "250pt",
-   "reward_was": ""
-  },
-  {
-   "slug": "rakuten-sec.com",
-   "name": "楽天証券",
-   "kana": "ラクテンショウケン",
-   "name_en": "Rakuten Secrities",
-   "reward": "5,000pt",
    "reward_was": ""
   },
   {
