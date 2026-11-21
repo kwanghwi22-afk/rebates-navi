@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -2446,7 +2446,7 @@
    "name": "Qoo10",
    "kana": "キューテン",
    "name_en": "Qoo10",
-   "reward": "8.0%",
+   "reward": "7.0%",
    "reward_was": ""
   },
   {
@@ -3638,7 +3638,7 @@
    "name": "ohora",
    "kana": "オホーラ",
    "name_en": "ohora",
-   "reward": "4.5%",
+   "reward": "5.5%",
    "reward_was": ""
   },
   {
@@ -4431,70 +4431,6 @@
    "kana": "イイハナ",
    "name_en": "iihana",
    "reward": "9.0%",
-   "reward_was": ""
-  },
-  {
-   "slug": "aeon.co.com-card-lp-select",
-   "name": "イオンカードセレクト",
-   "kana": "イオンカードセレクト",
-   "name_en": "AEON CARD SELECT",
-   "reward": "500pt",
-   "reward_was": ""
-  },
-  {
-   "slug": "aeon.co.com-card-lp-toystory-select",
-   "name": "イオンカードセレクト（トイ・ストーリー デザイン）",
-   "kana": "イオンカードセレクト",
-   "name_en": "AEON CARD SELECT",
-   "reward": "500pt",
-   "reward_was": ""
-  },
-  {
-   "slug": "aeon.co.com-card-lp-disney-select",
-   "name": "イオンカードセレクト（ミッキーマウス デザイン）",
-   "kana": "イオンカードセレクト",
-   "name_en": "AEON CARD SELECT",
-   "reward": "500pt",
-   "reward_was": ""
-  },
-  {
-   "slug": "aeon.co.com-campaign-lp-minions-select",
-   "name": "イオンカードセレクト（ミニオンズ）",
-   "kana": "イオンカードセレクト",
-   "name_en": "AEON CARD SELECT",
-   "reward": "500pt",
-   "reward_was": ""
-  },
-  {
-   "slug": "aeon.co.com-card-lp-toystory",
-   "name": "イオンカード（WAON一体型/トイ・ストーリー デザイン）",
-   "kana": "イオンカード",
-   "name_en": "AEON CARD",
-   "reward": "500pt",
-   "reward_was": ""
-  },
-  {
-   "slug": "aeon.co.com-card-lp-disney",
-   "name": "イオンカード（WAON一体型/ミッキーマウス デザイン）",
-   "kana": "イオンカード",
-   "name_en": "AEON CARD",
-   "reward": "500pt",
-   "reward_was": ""
-  },
-  {
-   "slug": "aeon.co.com-card-aeoncardwaon",
-   "name": "イオンカード（WAON一体型）",
-   "kana": "イオンカード",
-   "name_en": "AEON CARD",
-   "reward": "1,250pt",
-   "reward_was": ""
-  },
-  {
-   "slug": "aeon.co.com-campaign-lp-minions",
-   "name": "イオンカード（ミニオンズ）",
-   "kana": "イオンカード",
-   "name_en": "AEON CARD",
-   "reward": "1,250pt",
    "reward_was": ""
   },
   {
@@ -5974,7 +5910,7 @@
    "name": "ドクターシーラボ",
    "kana": "ドクターシーラボ",
    "name_en": "Dr.CiLabo",
-   "reward": "15.0%",
+   "reward": "19.0%",
    "reward_was": ""
   },
   {
