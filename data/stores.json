@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -2422,7 +2422,7 @@
    "name": "Qoo10",
    "kana": "キューテン",
    "name_en": "Qoo10",
-   "reward": "5.0%",
+   "reward": "7.0%",
    "reward_was": ""
   },
   {
@@ -3366,7 +3366,7 @@
    "name": "atmos公式サイト",
    "kana": "アトモス",
    "name_en": "atmos",
-   "reward": "2.0%",
+   "reward": "4.0%",
    "reward_was": ""
   },
   {
@@ -3646,7 +3646,7 @@
    "name": "to/one(トーン)",
    "kana": "トーン",
    "name_en": "to/one",
-   "reward": "4.0%",
+   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -4423,6 +4423,14 @@
    "kana": "イオンショップ",
    "name_en": "aeonshop",
    "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aeonretail.com",
+   "name": "イオンスタイルオンライン",
+   "kana": "イオンスタイルオンライン",
+   "name_en": "Aeon Style Online",
+   "reward": "3.0%",
    "reward_was": ""
   },
   {
@@ -7375,14 +7383,6 @@
    "kana": "ラクテンチケット",
    "name_en": "Rakutenticket",
    "reward": "0.5%",
-   "reward_was": ""
-  },
-  {
-   "slug": "travel.rakuten.co.jp.com",
-   "name": "楽天トラベル",
-   "kana": "ラクテントラベル",
-   "name_en": "rakuten travel",
-   "reward": "1.5%",
    "reward_was": ""
   },
   {
