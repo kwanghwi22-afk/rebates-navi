@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -111,6 +111,14 @@
    "kana": "エーエヌエー",
    "name_en": "ANA",
    "reward": "2.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "aoyama-gift-salon.jp",
+   "name": "AOYAMA GIFT SALON",
+   "kana": "アオヤマギフトサロン",
+   "name_en": "AOYAMAGIFTSALON",
+   "reward": "4.5%",
    "reward_was": ""
   },
   {
@@ -622,6 +630,14 @@
    "name": "Coloso",
    "kana": "コロソ",
    "name_en": "Coloso",
+   "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "jp.comu.com",
+   "name": "Comu",
+   "kana": "コミュ",
+   "name_en": "Comu",
    "reward": "5.0%",
    "reward_was": ""
   },
@@ -1382,7 +1398,7 @@
    "name": "IPSA 公式オンラインショップ",
    "kana": "イプサ",
    "name_en": "IPSA",
-   "reward": "7.5%",
+   "reward": "8.0%",
    "reward_was": ""
   },
   {
@@ -2218,6 +2234,14 @@
    "reward_was": ""
   },
   {
+   "slug": "owndays",
+   "name": "OWNDAYSコンタクト",
+   "kana": "オンデーズコンタクト",
+   "name_en": "OWNDAYScontact",
+   "reward": "4.5%",
+   "reward_was": ""
+  },
+  {
    "slug": "ozmall.com",
    "name": "OZmall(オズモール)",
    "kana": "オズモール",
@@ -2318,7 +2342,7 @@
    "name": "PLST",
    "kana": "プラステ",
    "name_en": "plst",
-   "reward": "4.0%",
+   "reward": "1.5%",
    "reward_was": ""
   },
   {
@@ -2383,6 +2407,14 @@
    "kana": "プラウドエーアイ",
    "name_en": "Plaud.ai",
    "reward": "5.0%",
+   "reward_was": ""
+  },
+  {
+   "slug": "pollet.tech",
+   "name": "Pollet",
+   "kana": "ポレット",
+   "name_en": "Pollet",
+   "reward": "500pt",
    "reward_was": ""
   },
   {
@@ -3062,7 +3094,7 @@
    "name": "USAGI ONLINE",
    "kana": "ウサギオンライン",
    "name_en": "USAGI ONLINE",
-   "reward": "1.5%",
+   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -4850,14 +4882,6 @@
    "reward_was": ""
   },
   {
-   "slug": "karada39.com",
-   "name": "カラダファクトリー",
-   "kana": "カラダファクトリー",
-   "name_en": "Karada Factory",
-   "reward": "500pt",
-   "reward_was": ""
-  },
-  {
    "slug": "kaldi.co.com",
    "name": "カルディコーヒーファーム　オンラインストア",
    "kana": "カルディコーヒーファーム",
@@ -5110,7 +5134,7 @@
    "name": "コスメキッチン",
    "kana": "コスメキッチン",
    "name_en": "cosmekitchen",
-   "reward": "5.0%",
+   "reward": "3.5%",
    "reward_was": ""
   },
   {
@@ -5318,7 +5342,7 @@
    "name": "ショップジャパン",
    "kana": "ショップジャパン",
    "name_en": "shopjapan",
-   "reward": "7.5%",
+   "reward": "4.0%",
    "reward_was": ""
   },
   {
@@ -6639,6 +6663,14 @@
    "kana": "ラコステ",
    "name_en": "Lacoste",
    "reward": "2.5%",
+   "reward_was": ""
+  },
+  {
+   "slug": "la-sana",
+   "name": "ラサーナ公式通販",
+   "kana": "ラサーナ",
+   "name_en": "lasana",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
