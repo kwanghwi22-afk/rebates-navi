@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -1642,14 +1642,6 @@
    "reward_was": ""
   },
   {
-   "slug": "keenfootwear.jp",
-   "name": "KEEN",
-   "kana": "キーン",
-   "name_en": "KEEN",
-   "reward": "6.0%",
-   "reward_was": ""
-  },
-  {
    "slug": "keurig.jp",
    "name": "KEURIG（キューリグ）",
    "kana": "キューリグ",
@@ -2454,7 +2446,7 @@
    "name": "Qoo10",
    "kana": "キューテン",
    "name_en": "Qoo10",
-   "reward": "7.0%",
+   "reward": "5.0%",
    "reward_was": ""
   },
   {
@@ -5927,14 +5919,6 @@
    "kana": "ナイキ",
    "name_en": "nike",
    "reward": "3.0%",
-   "reward_was": ""
-  },
-  {
-   "slug": "pasta-source.com",
-   "name": "ナチュラルグレース",
-   "kana": "ナチュラルグレース",
-   "name_en": "naturalgrace",
-   "reward": "6.5%",
    "reward_was": ""
   },
   {
