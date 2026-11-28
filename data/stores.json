@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "stores": [
   {
    "slug": "mitsui-shopping-park.com",
@@ -1974,7 +1974,7 @@
    "name": "MUSINSA",
    "kana": null,
    "name_en": "MUSINSA",
-   "reward": "17.0%",
+   "reward": "20.0%",
    "reward_was": ""
   },
   {
@@ -7079,14 +7079,6 @@
    "kana": "ユメカナリュウガク",
    "name_en": "yumekanaryugaku",
    "reward": "7,500pt",
-   "reward_was": ""
-  },
-  {
-   "slug": "daimaru-matsuzakaya",
-   "name": "大丸松坂屋オンラインストア",
-   "kana": "ダイマルマツザカヤ",
-   "name_en": "daimarumatsuzakaya",
-   "reward": "8.0%",
    "reward_was": ""
   },
   {
